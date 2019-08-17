@@ -20,10 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{3417A444-4094-4AAB-B29E-BC5E71AAFDFC}</ProjectGuid>
-    <RootNamespace>알고리즘최빈값MODE</RootNamespace>
+    <ProjectGuid>{769146BA-2715-4940-A996-1854F8EE096E}</ProjectGuid>
+    <RootNamespace>포인터합계카운트평균</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>11_02_알고리즘_최빈값(MODE)</ProjectName>
+    <ProjectName>03_03_포인터_합계카운트평균</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="알고리즘_최빈값(MODE).c" />
+    <ClCompile Include="포인터_합계카운트평균.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

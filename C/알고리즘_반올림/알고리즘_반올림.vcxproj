@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{3417A444-4094-4AAB-B29E-BC5E71AAFDFC}</ProjectGuid>
-    <RootNamespace>알고리즘최빈값MODE</RootNamespace>
+    <ProjectGuid>{FF856085-2D60-40A2-8D4B-BE535A782CC9}</ProjectGuid>
+    <RootNamespace>알고리즘반올림</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>11_02_알고리즘_최빈값(MODE)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="알고리즘_최빈값(MODE).c" />
+    <ClCompile Include="알고리즘_반올림.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
