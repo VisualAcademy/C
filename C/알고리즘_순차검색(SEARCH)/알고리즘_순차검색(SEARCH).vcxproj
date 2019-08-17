@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{A40FDE5A-2C5F-46C6-BF6C-9B734BF4411B}</ProjectGuid>
-    <RootNamespace>최댓값최솟값</RootNamespace>
+    <ProjectGuid>{24596A14-3BB7-45BF-A7AA-7185517003F9}</ProjectGuid>
+    <RootNamespace>알고리즘순차검색SEARCH</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>05_02_최댓값최솟값</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="최댓값최솟값.c" />
+    <ClCompile Include="알고리즘_순차검색(SEARCH).c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
