@@ -20,10 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{CD68EC9E-41B6-4508-8E13-4D86ABDE6AC5}</ProjectGuid>
-    <RootNamespace>가까운값NEAR</RootNamespace>
+    <ProjectGuid>{04CC5050-B192-49D9-A797-F0313096890F}</ProjectGuid>
+    <RootNamespace>선택정렬알고리즘설명</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>06_02_가까운값(NEAR)</ProjectName>
+    <ProjectName>08_02_선택정렬알고리즘설명</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -124,7 +124,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="가까운값(NEAR).c" />
+    <ClCompile Include="선택정렬알고리즘설명.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

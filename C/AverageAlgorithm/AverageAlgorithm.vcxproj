@@ -23,7 +23,7 @@
     <ProjectGuid>{54FC6D03-4683-4E95-83D5-2C5F2E73D526}</ProjectGuid>
     <RootNamespace>AverageAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>03_AverageAlgorithm</ProjectName>
+    <ProjectName>03_01_AverageAlgorithm</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -23,7 +23,7 @@
     <ProjectGuid>{2FA2C260-3923-4102-B033-31E452C572F6}</ProjectGuid>
     <RootNamespace>SumAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>01_SumAlgorithm</ProjectName>
+    <ProjectName>01_01_SumAlgorithm</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
