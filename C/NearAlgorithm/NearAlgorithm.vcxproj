@@ -23,6 +23,7 @@
     <ProjectGuid>{C2E8F94B-9670-417E-90DF-99EC705D485A}</ProjectGuid>
     <RootNamespace>NearAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>06_01_NearAlgorithm</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
