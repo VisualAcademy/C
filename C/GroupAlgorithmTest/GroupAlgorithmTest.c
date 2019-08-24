@@ -60,11 +60,11 @@ void main(void)
 	printf("[1] 정렬된 원본 데이터:\n");
 	for (int i = 0; i < N; i++)
 	{
-		printf("%s %d\n", records[i].Name, records[i].Quantity);
+		printf("%6s - %d\n", records[i].Name, records[i].Quantity);
 	}
 	printf("[2] 이름으로 그룹화된 데이터:\n");
 	for (int i = 0; i < groupCount; i++)
 	{
-		printf("%s %d\n", groups[i].Name, groups[i].Quantity);
+		printf("%6s - %d\n", groups[i].Name, groups[i].Quantity);
 	}
 }
