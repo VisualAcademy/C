@@ -14,7 +14,7 @@ main()
 		{
 			//count = count + 1;
 			//count += 1;
-			count++;
+			count++; // COUNT
 		}
 	}
 
