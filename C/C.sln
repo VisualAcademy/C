@@ -253,7 +253,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_01_MergeAlgorithm", "Mer
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_01_ModeAlgorithm", "ModeAlgorithm\ModeAlgorithm.vcxproj", "{14E0E37D-E563-47E5-A0A0-AFD579AE629A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GroupAlgorithm", "GroupAlgorithm\GroupAlgorithm.vcxproj", "{053CB36D-DA03-4FFD-91A5-DA8F99BD7FF4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_01_GroupAlgorithm", "GroupAlgorithm\GroupAlgorithm.vcxproj", "{053CB36D-DA03-4FFD-91A5-DA8F99BD7FF4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_02_BubbleSortAlgorithm", "BubbleSortAlgorithm\BubbleSortAlgorithm.vcxproj", "{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -775,6 +777,14 @@ Global
 		{053CB36D-DA03-4FFD-91A5-DA8F99BD7FF4}.Release|x64.Build.0 = Release|x64
 		{053CB36D-DA03-4FFD-91A5-DA8F99BD7FF4}.Release|x86.ActiveCfg = Release|Win32
 		{053CB36D-DA03-4FFD-91A5-DA8F99BD7FF4}.Release|x86.Build.0 = Release|Win32
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Debug|x64.ActiveCfg = Debug|x64
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Debug|x64.Build.0 = Debug|x64
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Debug|x86.Build.0 = Debug|Win32
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Release|x64.ActiveCfg = Release|x64
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Release|x64.Build.0 = Release|x64
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Release|x86.ActiveCfg = Release|Win32
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -870,6 +880,7 @@ Global
 		{6F9AA2E7-B2B5-4A4A-B9A3-C77E761EFE1B} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
 		{14E0E37D-E563-47E5-A0A0-AFD579AE629A} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
 		{053CB36D-DA03-4FFD-91A5-DA8F99BD7FF4} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
+		{5E8B72C8-0A60-433F-9714-FB1A8305FF8D} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
