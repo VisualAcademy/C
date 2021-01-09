@@ -277,6 +277,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "순위", "순위\순위.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "반올림", "반올림\반올림.vcxproj", "{B11E0363-A924-4AFA-B808-415EF7EB1E14}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기능사_기출문제1", "알고리즘_기능사_기출문제1\알고리즘_기능사_기출문제1.vcxproj", "{ECCDCCDE-026E-4D18-932D-69500F38D282}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -909,6 +911,14 @@ Global
 		{B11E0363-A924-4AFA-B808-415EF7EB1E14}.Release|x64.Build.0 = Release|x64
 		{B11E0363-A924-4AFA-B808-415EF7EB1E14}.Release|x86.ActiveCfg = Release|Win32
 		{B11E0363-A924-4AFA-B808-415EF7EB1E14}.Release|x86.Build.0 = Release|Win32
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Debug|x64.ActiveCfg = Debug|x64
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Debug|x64.Build.0 = Debug|x64
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Debug|x86.ActiveCfg = Debug|Win32
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Debug|x86.Build.0 = Debug|Win32
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Release|x64.ActiveCfg = Release|x64
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Release|x64.Build.0 = Release|x64
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Release|x86.ActiveCfg = Release|Win32
+		{ECCDCCDE-026E-4D18-932D-69500F38D282}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1017,6 +1027,7 @@ Global
 		{7F6C5F19-18F2-4982-AEE5-138D26EF3063} = {579D6C9D-0497-4796-99EF-F32FCCF8CC35}
 		{0928EEB8-7055-4E5A-BDBF-A9988662092A} = {8B393D30-C957-476A-8386-97B2D172013E}
 		{B11E0363-A924-4AFA-B808-415EF7EB1E14} = {8B393D30-C957-476A-8386-97B2D172013E}
+		{ECCDCCDE-026E-4D18-932D-69500F38D282} = {8B393D30-C957-476A-8386-97B2D172013E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
