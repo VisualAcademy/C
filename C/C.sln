@@ -281,6 +281,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기능사_기�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기능사_기출문제2", "알고리즘_기능사_기출문제2\알고리즘_기능사_기출문제2.vcxproj", "{051790BE-EED0-466C-9499-BECD206E91D5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기능사_기출문제3", "알고리즘_기능사_기출문제3\알고리즘_기능사_기출문제3.vcxproj", "{514C889D-2F5E-4480-BA25-C01F55ADBEDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기사문제풀이1", "알고리즘_기사문제풀이1\알고리즘_기사문제풀이1.vcxproj", "{1CB23AEE-72EA-424D-A317-489A8139362E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -929,6 +933,22 @@ Global
 		{051790BE-EED0-466C-9499-BECD206E91D5}.Release|x64.Build.0 = Release|x64
 		{051790BE-EED0-466C-9499-BECD206E91D5}.Release|x86.ActiveCfg = Release|Win32
 		{051790BE-EED0-466C-9499-BECD206E91D5}.Release|x86.Build.0 = Release|Win32
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Debug|x64.ActiveCfg = Debug|x64
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Debug|x64.Build.0 = Debug|x64
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Debug|x86.Build.0 = Debug|Win32
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Release|x64.ActiveCfg = Release|x64
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Release|x64.Build.0 = Release|x64
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Release|x86.ActiveCfg = Release|Win32
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA}.Release|x86.Build.0 = Release|Win32
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Debug|x64.ActiveCfg = Debug|x64
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Debug|x64.Build.0 = Debug|x64
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Debug|x86.Build.0 = Debug|Win32
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x64.ActiveCfg = Release|x64
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x64.Build.0 = Release|x64
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x86.ActiveCfg = Release|Win32
+		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1039,6 +1059,8 @@ Global
 		{B11E0363-A924-4AFA-B808-415EF7EB1E14} = {8B393D30-C957-476A-8386-97B2D172013E}
 		{ECCDCCDE-026E-4D18-932D-69500F38D282} = {8B393D30-C957-476A-8386-97B2D172013E}
 		{051790BE-EED0-466C-9499-BECD206E91D5} = {8B393D30-C957-476A-8386-97B2D172013E}
+		{514C889D-2F5E-4480-BA25-C01F55ADBEDA} = {8B393D30-C957-476A-8386-97B2D172013E}
+		{1CB23AEE-72EA-424D-A317-489A8139362E} = {8B393D30-C957-476A-8386-97B2D172013E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
