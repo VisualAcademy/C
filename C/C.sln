@@ -285,6 +285,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기능사_기�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기사문제풀이1", "알고리즘_기사문제풀이1\알고리즘_기사문제풀이1.vcxproj", "{1CB23AEE-72EA-424D-A317-489A8139362E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "원의넓이와둘레", "원의넓이와둘레\원의넓이와둘레.vcxproj", "{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -949,6 +951,14 @@ Global
 		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x64.Build.0 = Release|x64
 		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x86.ActiveCfg = Release|Win32
 		{1CB23AEE-72EA-424D-A317-489A8139362E}.Release|x86.Build.0 = Release|Win32
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Debug|x64.ActiveCfg = Debug|x64
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Debug|x64.Build.0 = Debug|x64
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Debug|x86.ActiveCfg = Debug|Win32
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Debug|x86.Build.0 = Debug|Win32
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Release|x64.ActiveCfg = Release|x64
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Release|x64.Build.0 = Release|x64
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Release|x86.ActiveCfg = Release|Win32
+		{752DB79F-4A41-4AF8-AF8C-9C6E9F49BADD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
