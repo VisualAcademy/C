@@ -299,6 +299,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "오름차순정렬", "오�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기사문제풀이5", "알고리즘_기사문제풀이5\알고리즘_기사문제풀이5.vcxproj", "{93EA89B0-7E6A-418C-AAE0-C7028A9F70A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_기사문제풀이3", "알고리즘_기사문제풀이3\알고리즘_기사문제풀이3.vcxproj", "{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1019,6 +1021,14 @@ Global
 		{93EA89B0-7E6A-418C-AAE0-C7028A9F70A3}.Release|x64.Build.0 = Release|x64
 		{93EA89B0-7E6A-418C-AAE0-C7028A9F70A3}.Release|x86.ActiveCfg = Release|Win32
 		{93EA89B0-7E6A-418C-AAE0-C7028A9F70A3}.Release|x86.Build.0 = Release|Win32
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Debug|x64.ActiveCfg = Debug|x64
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Debug|x64.Build.0 = Debug|x64
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Debug|x86.Build.0 = Debug|Win32
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Release|x64.ActiveCfg = Release|x64
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Release|x64.Build.0 = Release|x64
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Release|x86.ActiveCfg = Release|Win32
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1137,6 +1147,7 @@ Global
 		{4A378CB6-BA0D-44B6-888E-908945E5EB96} = {8B393D30-C957-476A-8386-97B2D172013E}
 		{13622B0F-2B0D-4EF0-ADFE-543409142931} = {8B393D30-C957-476A-8386-97B2D172013E}
 		{93EA89B0-7E6A-418C-AAE0-C7028A9F70A3} = {8B393D30-C957-476A-8386-97B2D172013E}
+		{CD546BF2-4CDB-4D34-A0EB-DCE788C9BB92} = {8B393D30-C957-476A-8386-97B2D172013E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
