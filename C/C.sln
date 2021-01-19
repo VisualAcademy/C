@@ -345,6 +345,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_짝수합", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_포인터_최대값", "알고리즘_포인터_최대값\알고리즘_포인터_최대값.vcxproj", "{675366D1-74A8-44DB-8F67-6008ACAB2137}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_포인터_선택정렬", "알고리즘_포인터_선택정렬\알고리즘_포인터_선택정렬.vcxproj", "{79AA561D-416B-4F48-9779-1B0FF99CAD11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1209,6 +1211,14 @@ Global
 		{675366D1-74A8-44DB-8F67-6008ACAB2137}.Release|x64.Build.0 = Release|x64
 		{675366D1-74A8-44DB-8F67-6008ACAB2137}.Release|x86.ActiveCfg = Release|Win32
 		{675366D1-74A8-44DB-8F67-6008ACAB2137}.Release|x86.Build.0 = Release|Win32
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Debug|x64.ActiveCfg = Debug|x64
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Debug|x64.Build.0 = Debug|x64
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Debug|x86.ActiveCfg = Debug|Win32
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Debug|x86.Build.0 = Debug|Win32
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Release|x64.ActiveCfg = Release|x64
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Release|x64.Build.0 = Release|x64
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Release|x86.ActiveCfg = Release|Win32
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1350,6 +1360,7 @@ Global
 		{88D088FA-DF4A-480C-AC33-70726C9CC3FE} = {CB081CB1-0BEA-4DA6-BF9D-9D215F1131B2}
 		{7D02C3E7-DD83-4647-923A-E5B7BD8FDF3A} = {E351942D-7F9B-4AC0-BF67-A677A3585275}
 		{675366D1-74A8-44DB-8F67-6008ACAB2137} = {662B0814-4376-4ADF-A38E-39C5B33FF539}
+		{79AA561D-416B-4F48-9779-1B0FF99CAD11} = {662B0814-4376-4ADF-A38E-39C5B33FF539}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
