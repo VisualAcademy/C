@@ -367,6 +367,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "구조체_구조체포인�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumDifference", "NumDifference\NumDifference.vcxproj", "{0891DF1A-910E-427F-860D-83021F53395D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CharNote", "CharNote\CharNote.vcxproj", "{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1311,6 +1313,14 @@ Global
 		{0891DF1A-910E-427F-860D-83021F53395D}.Release|x64.Build.0 = Release|x64
 		{0891DF1A-910E-427F-860D-83021F53395D}.Release|x86.ActiveCfg = Release|Win32
 		{0891DF1A-910E-427F-860D-83021F53395D}.Release|x86.Build.0 = Release|Win32
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Debug|x64.ActiveCfg = Debug|x64
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Debug|x64.Build.0 = Debug|x64
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Debug|x86.ActiveCfg = Debug|Win32
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Debug|x86.Build.0 = Debug|Win32
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Release|x64.ActiveCfg = Release|x64
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Release|x64.Build.0 = Release|x64
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Release|x86.ActiveCfg = Release|Win32
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1463,6 +1473,7 @@ Global
 		{710F3873-A7AE-4028-9E67-AD43A7D0CBDB} = {118907A3-EDB4-4AFB-9A3B-E3326356D140}
 		{44CFC75A-3C9C-4BF4-A9C9-DB3AB0CEB260} = {118907A3-EDB4-4AFB-9A3B-E3326356D140}
 		{0891DF1A-910E-427F-860D-83021F53395D} = {6F06D526-E84B-4F44-9C0C-D19DBD13220B}
+		{583CFDE9-B6B4-4880-9AE3-2B7DC729180C} = {3E0A2E75-CF38-44C3-94C1-5B35C628FAAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
