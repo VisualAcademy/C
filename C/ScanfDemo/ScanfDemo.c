@@ -11,10 +11,9 @@ int main()
 	printf("나이는? ");
 
 	// scanf() 입력문
-	scanf("%d", &age);
+	scanf_s("%d", &age);
 
 	printf("%d\n", age);
 	system("pause");
 	return 0;
 }
-
