@@ -379,6 +379,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "해시테이블계산", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "데이터구조_리스트입력", "데이터구조_리스트입력\데이터구조_리스트입력.vcxproj", "{4C6517E5-FB9E-4177-8877-6BDDCB8F455C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VariableAddress", "VariableAddress\VariableAddress.vcxproj", "{09C5BF3C-5A29-406D-8FF8-06B39A304E00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1371,6 +1373,14 @@ Global
 		{4C6517E5-FB9E-4177-8877-6BDDCB8F455C}.Release|x64.Build.0 = Release|x64
 		{4C6517E5-FB9E-4177-8877-6BDDCB8F455C}.Release|x86.ActiveCfg = Release|Win32
 		{4C6517E5-FB9E-4177-8877-6BDDCB8F455C}.Release|x86.Build.0 = Release|Win32
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Debug|x64.ActiveCfg = Debug|x64
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Debug|x64.Build.0 = Debug|x64
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Debug|x86.ActiveCfg = Debug|Win32
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Debug|x86.Build.0 = Debug|Win32
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Release|x64.ActiveCfg = Release|x64
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Release|x64.Build.0 = Release|x64
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Release|x86.ActiveCfg = Release|Win32
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1529,6 +1539,7 @@ Global
 		{42EE468B-8310-4EC1-92BB-56C5C7548222} = {E351942D-7F9B-4AC0-BF67-A677A3585275}
 		{4B6709AF-53CD-4649-9E0D-53B2C82DC067} = {ADA47EC4-3117-4A79-BA40-69952C8428BD}
 		{4C6517E5-FB9E-4177-8877-6BDDCB8F455C} = {ADA47EC4-3117-4A79-BA40-69952C8428BD}
+		{09C5BF3C-5A29-406D-8FF8-06B39A304E00} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
