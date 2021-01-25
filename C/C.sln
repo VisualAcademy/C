@@ -385,6 +385,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열비교", "문자�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열비교설명", "문자열비교설명\문자열비교설명.vcxproj", "{5978AEEE-6B29-4762-B169-62C0B9808EF9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_정렬", "알고리즘_정렬\알고리즘_정렬.vcxproj", "{6B833E5C-D1FA-441C-8C11-6A272FD43391}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1401,6 +1403,14 @@ Global
 		{5978AEEE-6B29-4762-B169-62C0B9808EF9}.Release|x64.Build.0 = Release|x64
 		{5978AEEE-6B29-4762-B169-62C0B9808EF9}.Release|x86.ActiveCfg = Release|Win32
 		{5978AEEE-6B29-4762-B169-62C0B9808EF9}.Release|x86.Build.0 = Release|Win32
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Debug|x64.ActiveCfg = Debug|x64
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Debug|x64.Build.0 = Debug|x64
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Debug|x86.Build.0 = Debug|Win32
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Release|x64.ActiveCfg = Release|x64
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Release|x64.Build.0 = Release|x64
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Release|x86.ActiveCfg = Release|Win32
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1562,6 +1572,7 @@ Global
 		{09C5BF3C-5A29-406D-8FF8-06B39A304E00} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
 		{63F12D3E-AE46-4F9E-816A-A47182C8E39F} = {461E03FF-18F7-405D-A1E1-D53FA845B22A}
 		{5978AEEE-6B29-4762-B169-62C0B9808EF9} = {461E03FF-18F7-405D-A1E1-D53FA845B22A}
+		{6B833E5C-D1FA-441C-8C11-6A272FD43391} = {E351942D-7F9B-4AC0-BF67-A677A3585275}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
