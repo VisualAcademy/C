@@ -379,7 +379,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "해시테이블계산", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "데이터구조_리스트입력", "데이터구조_리스트입력\데이터구조_리스트입력.vcxproj", "{4C6517E5-FB9E-4177-8877-6BDDCB8F455C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VariableAddress", "VariableAddress\VariableAddress.vcxproj", "{09C5BF3C-5A29-406D-8FF8-06B39A304E00}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_VariableAddress", "VariableAddress\VariableAddress.vcxproj", "{09C5BF3C-5A29-406D-8FF8-06B39A304E00}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열비교", "문자열비교\문자열비교.vcxproj", "{63F12D3E-AE46-4F9E-816A-A47182C8E39F}"
 EndProject
@@ -387,7 +387,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열비교설명", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "알고리즘_정렬", "알고리즘_정렬\알고리즘_정렬.vcxproj", "{6B833E5C-D1FA-441C-8C11-6A272FD43391}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터_변수의주소출력", "포인터_변수의주소출력\포인터_변수의주소출력.vcxproj", "{341DE2E7-EE65-4361-B1C9-64D39AE245CE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_포인터_변수의주소출력", "포인터_변수의주소출력\포인터_변수의주소출력.vcxproj", "{341DE2E7-EE65-4361-B1C9-64D39AE245CE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터_포인터변수", "포인터_포인터변수\포인터_포인터변수.vcxproj", "{787EE36C-6EAA-4720-93CF-A17258E59A6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1421,6 +1423,14 @@ Global
 		{341DE2E7-EE65-4361-B1C9-64D39AE245CE}.Release|x64.Build.0 = Release|x64
 		{341DE2E7-EE65-4361-B1C9-64D39AE245CE}.Release|x86.ActiveCfg = Release|Win32
 		{341DE2E7-EE65-4361-B1C9-64D39AE245CE}.Release|x86.Build.0 = Release|Win32
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Debug|x64.ActiveCfg = Debug|x64
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Debug|x64.Build.0 = Debug|x64
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Debug|x86.ActiveCfg = Debug|Win32
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Debug|x86.Build.0 = Debug|Win32
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Release|x64.ActiveCfg = Release|x64
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Release|x64.Build.0 = Release|x64
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Release|x86.ActiveCfg = Release|Win32
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1584,6 +1594,7 @@ Global
 		{5978AEEE-6B29-4762-B169-62C0B9808EF9} = {461E03FF-18F7-405D-A1E1-D53FA845B22A}
 		{6B833E5C-D1FA-441C-8C11-6A272FD43391} = {E351942D-7F9B-4AC0-BF67-A677A3585275}
 		{341DE2E7-EE65-4361-B1C9-64D39AE245CE} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
+		{787EE36C-6EAA-4720-93CF-A17258E59A6B} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
