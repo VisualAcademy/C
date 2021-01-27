@@ -398,6 +398,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터_정수형", "포�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C언어기본코드", "C언어기본코드\C언어기본코드.vcxproj", "{38C0E54B-0C2A-49F7-88D3-777FD31C61A6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터_실수형포인터", "포인터_실수형포인터\포인터_실수형포인터.vcxproj", "{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1454,6 +1456,14 @@ Global
 		{38C0E54B-0C2A-49F7-88D3-777FD31C61A6}.Release|x64.Build.0 = Release|x64
 		{38C0E54B-0C2A-49F7-88D3-777FD31C61A6}.Release|x86.ActiveCfg = Release|Win32
 		{38C0E54B-0C2A-49F7-88D3-777FD31C61A6}.Release|x86.Build.0 = Release|Win32
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Debug|x64.ActiveCfg = Debug|x64
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Debug|x64.Build.0 = Debug|x64
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Debug|x86.ActiveCfg = Debug|Win32
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Debug|x86.Build.0 = Debug|Win32
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Release|x64.ActiveCfg = Release|x64
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Release|x64.Build.0 = Release|x64
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Release|x86.ActiveCfg = Release|Win32
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1620,6 +1630,7 @@ Global
 		{787EE36C-6EAA-4720-93CF-A17258E59A6B} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
 		{98F1FDDD-2B17-4ECD-B30A-33098686363C} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
 		{38C0E54B-0C2A-49F7-88D3-777FD31C61A6} = {4D092D54-1C21-4DCA-9179-350CA8DD399C}
+		{115C64D8-1FAE-4198-A1EA-8D3BF652DA09} = {679423DB-CF95-4C20-97F3-B09A796DFBCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
