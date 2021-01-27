@@ -87,6 +87,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "27_Collection", "27_Collection", "{950D16BB-7EF8-42F6-B884-29420E346184}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "28_DataStructure", "28_DataStructure", "{A3C7DF56-B1A3-4D94-86CA-C475578CC278}"
+	ProjectSection(SolutionItems) = preProject
+		C:\C\!자료구조및알고리즘\자료 구조 설명.txt = C:\C\!자료구조및알고리즘\자료 구조 설명.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "29_Null", "29_Null", "{49AFAC1F-F02D-46F6-9EA9-57FB436E73AB}"
 EndProject
