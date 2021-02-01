@@ -412,6 +412,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_02_ForIfContinue", "ForI
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_문자열입력", "포인터배열_문자열입력\포인터배열_문자열입력.vcxproj", "{50206178-C01E-473D-B6DA-7A1F5D08DA5B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_문자열출력", "포인터배열_문자열출력\포인터배열_문자열출력.vcxproj", "{E0413E26-9146-485B-9E75-9258866BA114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1516,6 +1518,14 @@ Global
 		{50206178-C01E-473D-B6DA-7A1F5D08DA5B}.Release|x64.Build.0 = Release|x64
 		{50206178-C01E-473D-B6DA-7A1F5D08DA5B}.Release|x86.ActiveCfg = Release|Win32
 		{50206178-C01E-473D-B6DA-7A1F5D08DA5B}.Release|x86.Build.0 = Release|Win32
+		{E0413E26-9146-485B-9E75-9258866BA114}.Debug|x64.ActiveCfg = Debug|x64
+		{E0413E26-9146-485B-9E75-9258866BA114}.Debug|x64.Build.0 = Debug|x64
+		{E0413E26-9146-485B-9E75-9258866BA114}.Debug|x86.ActiveCfg = Debug|Win32
+		{E0413E26-9146-485B-9E75-9258866BA114}.Debug|x86.Build.0 = Debug|Win32
+		{E0413E26-9146-485B-9E75-9258866BA114}.Release|x64.ActiveCfg = Release|x64
+		{E0413E26-9146-485B-9E75-9258866BA114}.Release|x64.Build.0 = Release|x64
+		{E0413E26-9146-485B-9E75-9258866BA114}.Release|x86.ActiveCfg = Release|Win32
+		{E0413E26-9146-485B-9E75-9258866BA114}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1689,6 +1699,7 @@ Global
 		{B9B98E24-EB3C-4DE3-896F-625076D8A05E} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
 		{5559F218-5730-44F0-815B-A789C2AB1836} = {1B090181-FD8D-49FE-8FA6-678715F8ACB3}
 		{50206178-C01E-473D-B6DA-7A1F5D08DA5B} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
+		{E0413E26-9146-485B-9E75-9258866BA114} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
