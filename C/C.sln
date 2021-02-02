@@ -416,6 +416,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_문자열�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_배수의합", "포인터배열_배수의합\포인터배열_배수의합.vcxproj", "{1852A85E-CEA1-4E50-B556-60ED342C46C1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_배열의배열", "포인터배열_배열의배열\포인터배열_배열의배열.vcxproj", "{261459BD-E2C1-4FD1-B20B-176590857378}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1536,6 +1538,14 @@ Global
 		{1852A85E-CEA1-4E50-B556-60ED342C46C1}.Release|x64.Build.0 = Release|x64
 		{1852A85E-CEA1-4E50-B556-60ED342C46C1}.Release|x86.ActiveCfg = Release|Win32
 		{1852A85E-CEA1-4E50-B556-60ED342C46C1}.Release|x86.Build.0 = Release|Win32
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Debug|x64.ActiveCfg = Debug|x64
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Debug|x64.Build.0 = Debug|x64
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Debug|x86.ActiveCfg = Debug|Win32
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Debug|x86.Build.0 = Debug|Win32
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Release|x64.ActiveCfg = Release|x64
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Release|x64.Build.0 = Release|x64
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Release|x86.ActiveCfg = Release|Win32
+		{261459BD-E2C1-4FD1-B20B-176590857378}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1711,6 +1721,7 @@ Global
 		{50206178-C01E-473D-B6DA-7A1F5D08DA5B} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
 		{E0413E26-9146-485B-9E75-9258866BA114} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
 		{1852A85E-CEA1-4E50-B556-60ED342C46C1} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
+		{261459BD-E2C1-4FD1-B20B-176590857378} = {A6C9EA2C-1844-4E39-AF2B-90D8D7729BA1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
