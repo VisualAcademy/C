@@ -430,6 +430,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FgetsDemo", "FgetsDemo\Fget
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수_내장함수_데모_문자열처리관련함수", "함수_내장함수_데모_문자열처리관련함수\함수_내장함수_데모_문자열처리관련함수.vcxproj", "{E380EB21-3173-4147-A7FB-70EC8A53126E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_함수_함수의3가지유형", "함수_함수의3가지유형\함수_함수의3가지유형.vcxproj", "{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1598,6 +1600,14 @@ Global
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Release|x64.Build.0 = Release|x64
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Release|x86.ActiveCfg = Release|Win32
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Release|x86.Build.0 = Release|Win32
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Debug|x64.ActiveCfg = Debug|x64
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Debug|x64.Build.0 = Debug|x64
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Debug|x86.Build.0 = Debug|Win32
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Release|x64.ActiveCfg = Release|x64
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Release|x64.Build.0 = Release|x64
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Release|x86.ActiveCfg = Release|Win32
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1780,6 +1790,7 @@ Global
 		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7} = {8DC68267-72B7-4969-931A-05AB37B19E5C}
 		{DBE882C3-3AC1-4229-A813-A53ECDBCDE89} = {64DFDC0E-C5C9-49BF-9139-A2898D216D80}
 		{E380EB21-3173-4147-A7FB-70EC8A53126E} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
+		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
