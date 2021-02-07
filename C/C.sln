@@ -438,6 +438,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_함수_수의제곱", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_함수_함수의세가지스타일설명", "함수_함수의세가지스타일설명\함수_함수의세가지스타일설명.vcxproj", "{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_함수_함수의매개변수전달방식설명", "함수_함수의매개변수전달방식설명\함수_함수의매개변수전달방식설명.vcxproj", "{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1638,6 +1640,14 @@ Global
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}.Release|x64.Build.0 = Release|x64
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}.Release|x86.ActiveCfg = Release|Win32
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}.Release|x86.Build.0 = Release|Win32
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Debug|x64.ActiveCfg = Debug|x64
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Debug|x64.Build.0 = Debug|x64
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Debug|x86.Build.0 = Debug|Win32
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Release|x64.ActiveCfg = Release|x64
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Release|x64.Build.0 = Release|x64
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Release|x86.ActiveCfg = Release|Win32
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1824,6 +1834,7 @@ Global
 		{1F47D2D2-8FB4-447B-90D5-036834B39B04} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{44C4E264-6512-4714-A193-5FB752A60BBB} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
+		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
