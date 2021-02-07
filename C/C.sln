@@ -434,6 +434,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_함수_함수의3가지�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_함수_배수의합", "함수_배수의합\함수_배수의합.vcxproj", "{1F47D2D2-8FB4-447B-90D5-036834B39B04}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_함수_수의제곱", "함수_수의제곱\함수_수의제곱.vcxproj", "{44C4E264-6512-4714-A193-5FB752A60BBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1618,6 +1620,14 @@ Global
 		{1F47D2D2-8FB4-447B-90D5-036834B39B04}.Release|x64.Build.0 = Release|x64
 		{1F47D2D2-8FB4-447B-90D5-036834B39B04}.Release|x86.ActiveCfg = Release|Win32
 		{1F47D2D2-8FB4-447B-90D5-036834B39B04}.Release|x86.Build.0 = Release|Win32
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x64.ActiveCfg = Debug|x64
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x64.Build.0 = Debug|x64
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x86.ActiveCfg = Debug|Win32
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x86.Build.0 = Debug|Win32
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x64.ActiveCfg = Release|x64
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x64.Build.0 = Release|x64
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x86.ActiveCfg = Release|Win32
+		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1802,6 +1812,7 @@ Global
 		{E380EB21-3173-4147-A7FB-70EC8A53126E} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
 		{9E86C6F9-8AB8-4F95-907A-C73A178DD3BB} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{1F47D2D2-8FB4-447B-90D5-036834B39B04} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
+		{44C4E264-6512-4714-A193-5FB752A60BBB} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
