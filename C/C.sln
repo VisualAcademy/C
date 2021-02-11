@@ -444,6 +444,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수_내장함수_데모_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수_내장함수_데모_형식변환관련함수", "함수_내장함수_데모_형식변환관련함수\함수_내장함수_데모_형식변환관련함수.vcxproj", "{B94255F0-FA97-411D-BC5B-CF9DE1F1E811}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorThree", "OperatorThree\OperatorThree.vcxproj", "{CB328858-7FA6-4EB3-8B82-452D99156DF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1668,6 +1670,14 @@ Global
 		{B94255F0-FA97-411D-BC5B-CF9DE1F1E811}.Release|x64.Build.0 = Release|x64
 		{B94255F0-FA97-411D-BC5B-CF9DE1F1E811}.Release|x86.ActiveCfg = Release|Win32
 		{B94255F0-FA97-411D-BC5B-CF9DE1F1E811}.Release|x86.Build.0 = Release|Win32
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Debug|x64.ActiveCfg = Debug|x64
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Debug|x64.Build.0 = Debug|x64
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Debug|x86.Build.0 = Debug|Win32
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Release|x64.ActiveCfg = Release|x64
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Release|x64.Build.0 = Release|x64
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Release|x86.ActiveCfg = Release|Win32
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1857,6 +1867,7 @@ Global
 		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{D75A1EE4-EB0A-49FA-995C-A5B8639D925F} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
 		{B94255F0-FA97-411D-BC5B-CF9DE1F1E811} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
+		{CB328858-7FA6-4EB3-8B82-452D99156DF9} = {579D6C9D-0497-4796-99EF-F32FCCF8CC35}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
