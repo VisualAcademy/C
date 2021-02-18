@@ -414,11 +414,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_문자열�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_문자열출력", "포인터배열_문자열출력\포인터배열_문자열출력.vcxproj", "{E0413E26-9146-485B-9E75-9258866BA114}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_배수의합", "포인터배열_배수의합\포인터배열_배수의합.vcxproj", "{1852A85E-CEA1-4E50-B556-60ED342C46C1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_포인터배열_배수의합", "포인터배열_배수의합\포인터배열_배수의합.vcxproj", "{1852A85E-CEA1-4E50-B556-60ED342C46C1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_배열의배열", "포인터배열_배열의배열\포인터배열_배열의배열.vcxproj", "{261459BD-E2C1-4FD1-B20B-176590857378}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터배열_이차원배열참조", "포인터배열_이차원배열참조\포인터배열_이차원배열참조.vcxproj", "{66712D9B-C4C2-4FB9-A297-EDD9460CA271}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_포인터배열_이차원배열참조", "포인터배열_이차원배열참조\포인터배열_이차원배열참조.vcxproj", "{66712D9B-C4C2-4FB9-A297-EDD9460CA271}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "함수_내장함수", "함수_내장함수", "{8DC68267-72B7-4969-931A-05AB37B19E5C}"
 EndProject
@@ -457,6 +457,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScanfNewLine", "ScanfNewLine\ScanfNewLine.vcxproj", "{4B064714-C159-4C96-AEFD-BD9B38C2F2B5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ForFactorial", "ForFactorial\ForFactorial.vcxproj", "{7354F70F-4B4F-42DB-9449-B1D88FFDA582}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringLength", "StringLength\StringLength.vcxproj", "{F463B315-4D19-4A1D-929D-6F0952AF9560}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1730,6 +1732,14 @@ Global
 		{7354F70F-4B4F-42DB-9449-B1D88FFDA582}.Release|x64.Build.0 = Release|x64
 		{7354F70F-4B4F-42DB-9449-B1D88FFDA582}.Release|x86.ActiveCfg = Release|Win32
 		{7354F70F-4B4F-42DB-9449-B1D88FFDA582}.Release|x86.Build.0 = Release|Win32
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Debug|x64.ActiveCfg = Debug|x64
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Debug|x64.Build.0 = Debug|x64
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Debug|x86.ActiveCfg = Debug|Win32
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Debug|x86.Build.0 = Debug|Win32
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Release|x64.ActiveCfg = Release|x64
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Release|x64.Build.0 = Release|x64
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Release|x86.ActiveCfg = Release|Win32
+		{F463B315-4D19-4A1D-929D-6F0952AF9560}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1926,6 +1936,7 @@ Global
 		{E5D0CAA6-EFFF-4238-85C4-3D15299FC969} = {11567A53-4899-4A87-8EA1-1A80FA052DAC}
 		{4B064714-C159-4C96-AEFD-BD9B38C2F2B5} = {99B9BF9F-2A16-43BF-9A88-41624094C9C8}
 		{7354F70F-4B4F-42DB-9449-B1D88FFDA582} = {B1E907A0-BA85-486C-A20E-43437C8F6795}
+		{F463B315-4D19-4A1D-929D-6F0952AF9560} = {64DFDC0E-C5C9-49BF-9139-A2898D216D80}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
