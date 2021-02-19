@@ -6,9 +6,10 @@
 int main()
 {
 	int x, y;
+	int r;
 
 	printf("2개의 정수를 입력하세요: ");
-	scanf("%d %d", &x, &y);
+	r = scanf("%d %d", &x, &y);
 
 	printf("%d + %d = %d\n", x, y, (x + y));
 	printf("%d - %d = %d\n", x, y, (x - y));
