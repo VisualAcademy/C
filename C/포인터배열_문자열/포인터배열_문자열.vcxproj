@@ -24,6 +24,7 @@
     <ProjectGuid>{b9b98e24-eb3c-4de3-896f-625076d8a05e}</ProjectGuid>
     <RootNamespace>포인터배열문자열</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10_포인터배열_문자열</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

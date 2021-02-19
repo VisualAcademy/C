@@ -24,7 +24,7 @@
     <ProjectGuid>{66712d9b-c4c2-4fb9-a297-edd9460ca271}</ProjectGuid>
     <RootNamespace>포인터배열이차원배열참조</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>08_포인터배열_이차원배열참조</ProjectName>
+    <ProjectName>09_포인터배열_이차원배열참조</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
