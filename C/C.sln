@@ -466,6 +466,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "대입연산자_복습", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScanfArithmetic", "ScanfArithmetic\ScanfArithmetic.vcxproj", "{293BF435-27D1-4337-ACA4-E4BC976E9E49}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StructDemo", "StructDemo\StructDemo.vcxproj", "{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1770,6 +1772,14 @@ Global
 		{293BF435-27D1-4337-ACA4-E4BC976E9E49}.Release|x64.Build.0 = Release|x64
 		{293BF435-27D1-4337-ACA4-E4BC976E9E49}.Release|x86.ActiveCfg = Release|Win32
 		{293BF435-27D1-4337-ACA4-E4BC976E9E49}.Release|x86.Build.0 = Release|Win32
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Debug|x64.ActiveCfg = Debug|x64
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Debug|x64.Build.0 = Debug|x64
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Debug|x86.Build.0 = Debug|Win32
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Release|x64.ActiveCfg = Release|x64
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Release|x64.Build.0 = Release|x64
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Release|x86.ActiveCfg = Release|Win32
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1970,6 +1980,7 @@ Global
 		{8EE104E6-E221-4627-A43D-F9AF5C657C49} = {294E063B-EC4B-4492-9F09-CEDAF61301A9}
 		{803FD758-35A6-4D60-8E83-FF1758BB0A5A} = {AFB29CE9-6269-4B0B-990A-A1DD75E1E646}
 		{293BF435-27D1-4337-ACA4-E4BC976E9E49} = {851FD1B8-2E18-4D14-995E-BBADD796E15A}
+		{DF76E7FB-D01B-4316-905F-EFF7EA8F91AA} = {77BBEACD-78F4-4E0D-ADF6-1DE609A1DA7E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
