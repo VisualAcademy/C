@@ -19,9 +19,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="C:\C\C\StructDemo\StructDemo.png">
-      <Filter>Source Files</Filter>
-    </Image>
-  </ItemGroup>
 </Project>

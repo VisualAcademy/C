@@ -141,9 +141,6 @@
   <ItemGroup>
     <ClCompile Include="StructPractice.c" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="C:\C\C\StructPractice\StructPractice.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

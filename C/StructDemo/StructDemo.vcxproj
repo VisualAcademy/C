@@ -141,9 +141,6 @@
   <ItemGroup>
     <ClCompile Include="StructDemo.c" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="C:\C\C\StructDemo\StructDemo.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
