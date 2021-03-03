@@ -494,6 +494,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열_삼차원배열_테�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Remainder", "Remainder\Remainder.vcxproj", "{2CA33080-B18F-4249-BF7E-2E087FCBC8C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "변수_복습", "변수_복습\변수_복습.vcxproj", "{AF39C094-9275-42EC-9F80-57DF96092B6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1910,6 +1912,14 @@ Global
 		{2CA33080-B18F-4249-BF7E-2E087FCBC8C9}.Release|x64.Build.0 = Release|x64
 		{2CA33080-B18F-4249-BF7E-2E087FCBC8C9}.Release|x86.ActiveCfg = Release|Win32
 		{2CA33080-B18F-4249-BF7E-2E087FCBC8C9}.Release|x86.Build.0 = Release|Win32
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Debug|x64.ActiveCfg = Debug|x64
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Debug|x64.Build.0 = Debug|x64
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Debug|x86.Build.0 = Debug|Win32
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Release|x64.ActiveCfg = Release|x64
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Release|x64.Build.0 = Release|x64
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Release|x86.ActiveCfg = Release|Win32
+		{AF39C094-9275-42EC-9F80-57DF96092B6E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2124,6 +2134,7 @@ Global
 		{09586059-C3AD-4573-8629-CA692C9B2BD8} = {F71890C8-1EE4-4458-9F2F-ED457A834DCA}
 		{28AEFE71-554F-48F6-8976-FE17F1F54E73} = {F71890C8-1EE4-4458-9F2F-ED457A834DCA}
 		{2CA33080-B18F-4249-BF7E-2E087FCBC8C9} = {851FD1B8-2E18-4D14-995E-BBADD796E15A}
+		{AF39C094-9275-42EC-9F80-57DF96092B6E} = {0FB25D75-6A87-4582-8D89-98DB622450CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
