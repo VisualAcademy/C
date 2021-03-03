@@ -490,6 +490,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열_합계평균", "배�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열_삼차원_테트리스블록표현", "배열_삼차원_테트리스블록표현\배열_삼차원_테트리스블록표현.vcxproj", "{09586059-C3AD-4573-8629-CA692C9B2BD8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열_삼차원배열_테트리스블록표현", "배열_삼차원배열_테트리스블록표현\배열_삼차원배열_테트리스블록표현.vcxproj", "{28AEFE71-554F-48F6-8976-FE17F1F54E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1890,6 +1892,14 @@ Global
 		{09586059-C3AD-4573-8629-CA692C9B2BD8}.Release|x64.Build.0 = Release|x64
 		{09586059-C3AD-4573-8629-CA692C9B2BD8}.Release|x86.ActiveCfg = Release|Win32
 		{09586059-C3AD-4573-8629-CA692C9B2BD8}.Release|x86.Build.0 = Release|Win32
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Debug|x64.ActiveCfg = Debug|x64
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Debug|x64.Build.0 = Debug|x64
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Debug|x86.ActiveCfg = Debug|Win32
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Debug|x86.Build.0 = Debug|Win32
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Release|x64.ActiveCfg = Release|x64
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Release|x64.Build.0 = Release|x64
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Release|x86.ActiveCfg = Release|Win32
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2102,6 +2112,7 @@ Global
 		{071871BD-E315-4F0F-9370-CAB4EA35167E} = {F71890C8-1EE4-4458-9F2F-ED457A834DCA}
 		{D14D5FC0-7D1E-4A8C-B1AF-2592E4AE7ACE} = {F71890C8-1EE4-4458-9F2F-ED457A834DCA}
 		{09586059-C3AD-4573-8629-CA692C9B2BD8} = {F71890C8-1EE4-4458-9F2F-ED457A834DCA}
+		{28AEFE71-554F-48F6-8976-FE17F1F54E73} = {F71890C8-1EE4-4458-9F2F-ED457A834DCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
