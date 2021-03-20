@@ -2,6 +2,8 @@
 	문제: 원의 반지름(r)을 키보드로부터 입력받아 원의 넓이와 둘레를 구하는 프로그램을 작성하시오.
 	공식 : 원의 넓이 : 파이알제곱, 원의 둘레 : 2파이알
 */
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 
 void main(void)
