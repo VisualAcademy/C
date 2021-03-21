@@ -504,6 +504,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "공용체설명", "공용�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "공용체_공용체사용", "공용체_공용체사용\공용체_공용체사용.vcxproj", "{0ED54DDE-82F2-4DB0-BE08-86861FFD8A92}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "공용체_공용체설명", "공용체_공용체설명\공용체_공용체설명.vcxproj", "{631BA651-46D0-4010-918F-3749EBFD678E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -1960,6 +1962,14 @@ Global
 		{0ED54DDE-82F2-4DB0-BE08-86861FFD8A92}.Release|x64.Build.0 = Release|x64
 		{0ED54DDE-82F2-4DB0-BE08-86861FFD8A92}.Release|x86.ActiveCfg = Release|Win32
 		{0ED54DDE-82F2-4DB0-BE08-86861FFD8A92}.Release|x86.Build.0 = Release|Win32
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Debug|x64.ActiveCfg = Debug|x64
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Debug|x64.Build.0 = Debug|x64
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Debug|x86.ActiveCfg = Debug|Win32
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Debug|x86.Build.0 = Debug|Win32
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Release|x64.ActiveCfg = Release|x64
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Release|x64.Build.0 = Release|x64
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Release|x86.ActiveCfg = Release|Win32
+		{631BA651-46D0-4010-918F-3749EBFD678E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2179,6 +2189,7 @@ Global
 		{B60662E8-052D-4568-B75D-589717EC26C5} = {5D1BC05B-8939-4E75-A634-A079ACE27361}
 		{5CCF711B-422D-4222-9CB0-83B4781AB7CA} = {DA24130A-9D0B-402C-B650-927074E78520}
 		{0ED54DDE-82F2-4DB0-BE08-86861FFD8A92} = {DA24130A-9D0B-402C-B650-927074E78520}
+		{631BA651-46D0-4010-918F-3749EBFD678E} = {DA24130A-9D0B-402C-B650-927074E78520}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
