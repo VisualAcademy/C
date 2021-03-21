@@ -11,10 +11,14 @@ void main(void)
 {
 	union UnionType _u;
 
-	_u.a = 'A';
-	_u.b = 1234;
-	_u.c = 23456789;
+	_u.a = 'A'; 
+	printf("%c\n", _u.a);
 
-	printf("%cf %d %.1f\n", _u.a, _u.b, _u.c);
-	printf("%d\n", sizeof(_u)); // 8
+	_u.b = 1234;
+	printf("%d\n", _u.b);
+
+	_u.c = 123456789;
+	printf("%.2f\n", _u.c);
+
+	printf("공용체 크기: %d\n", sizeof(_u)); // 8
 }
