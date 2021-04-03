@@ -516,6 +516,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실행반복", "실행반�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "실행반복_Do문", "실행반복_Do문\실행반복_Do문.vcxproj", "{934CA5A4-8F7E-4C32-8792-D1FAFF4CA1DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "For문", "For문\For문.vcxproj", "{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2020,6 +2022,14 @@ Global
 		{934CA5A4-8F7E-4C32-8792-D1FAFF4CA1DE}.Release|x64.Build.0 = Release|x64
 		{934CA5A4-8F7E-4C32-8792-D1FAFF4CA1DE}.Release|x86.ActiveCfg = Release|Win32
 		{934CA5A4-8F7E-4C32-8792-D1FAFF4CA1DE}.Release|x86.Build.0 = Release|Win32
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Debug|x64.ActiveCfg = Debug|x64
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Debug|x64.Build.0 = Debug|x64
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Debug|x86.Build.0 = Debug|Win32
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Release|x64.ActiveCfg = Release|x64
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Release|x64.Build.0 = Release|x64
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Release|x86.ActiveCfg = Release|Win32
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2245,6 +2255,7 @@ Global
 		{3D98C3FD-4AF7-4F17-8504-8EA1384ADB54} = {DA24130A-9D0B-402C-B650-927074E78520}
 		{E9065C44-D741-4298-86A1-E6D8796CE329} = {5D1BC05B-8939-4E75-A634-A079ACE27361}
 		{934CA5A4-8F7E-4C32-8792-D1FAFF4CA1DE} = {5D1BC05B-8939-4E75-A634-A079ACE27361}
+		{487C95F3-3B54-4CFF-9B80-B2FFA18424C2} = {86F1080C-E7E7-4D33-AA7E-4B80EA5293CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
