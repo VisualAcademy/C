@@ -36,3 +36,29 @@ void main(void)
 
 	printf("%d %d %d %d\n", Up, Down, Left, Right);
 }
+
+
+////열거형(Enumeration) : 기억하기 어려운 상수(정수)를 기억하기
+////쉬운 문자 상수로 대체
+//#include <stdio.h>
+//
+////[2] 열거형
+//enum Direction
+//{
+//	TOP,		//0 
+//	BOTTOM,		//1
+//	LEFT = 10,	//10
+//	RIGHT		//11
+//};
+//
+////[3] 전처리기 지시문 : 매크로 상수
+//#define PI 3.141592
+//
+//void main()
+//{
+//	//[1] 상수
+//	const int N = 100;
+//
+//	//[!] 출력
+//	printf("N : %d, RIGHT : %d, PI : %.6f\n", N, RIGHT, PI);
+//}
