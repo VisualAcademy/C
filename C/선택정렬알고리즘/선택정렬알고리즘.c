@@ -1,7 +1,7 @@
 /*
-	선택 정렬 알고리즘 : Selection Sort : 가장 작거나 큰 데이터를 왼쪽으로 밀어서 정렬시키는 방법
-		ASCending : 오름차순 : 1, 2, 3 순, A, B, C 순
-		DESCending : 내림차순 : 321 순, 다나가 순
+	선택 정렬 알고리즘: Selection Sort: 가장 작거나 큰 데이터를 왼쪽으로 밀어서 정렬시키는 방법
+		ASCending: 오름차순 : 1, 2, 3 순, A, B, C 순
+		DESCending: 내림차순 : 321 순, 다나가 순
 */
 #include <stdio.h>
 #define N 5
