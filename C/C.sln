@@ -574,6 +574,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "조건문", "조건문\조�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BoolDemo", "BoolDemo\BoolDemo.vcxproj", "{00316F20-29A5-4324-9766-AC87A825C79D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "조건반복", "조건반복\조건반복.vcxproj", "{09893D31-0E46-431B-92F6-931B2E53804C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2286,6 +2288,14 @@ Global
 		{00316F20-29A5-4324-9766-AC87A825C79D}.Release|x64.Build.0 = Release|x64
 		{00316F20-29A5-4324-9766-AC87A825C79D}.Release|x86.ActiveCfg = Release|Win32
 		{00316F20-29A5-4324-9766-AC87A825C79D}.Release|x86.Build.0 = Release|Win32
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Debug|x64.ActiveCfg = Debug|x64
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Debug|x64.Build.0 = Debug|x64
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Debug|x86.ActiveCfg = Debug|Win32
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Debug|x86.Build.0 = Debug|Win32
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Release|x64.ActiveCfg = Release|x64
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Release|x64.Build.0 = Release|x64
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Release|x86.ActiveCfg = Release|Win32
+		{09893D31-0E46-431B-92F6-931B2E53804C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2540,6 +2550,7 @@ Global
 		{3E6CF0F6-3C53-4C82-8ECC-BFC19DD41139} = {6F06D526-E84B-4F44-9C0C-D19DBD13220B}
 		{9948E8AA-5819-4100-9DD2-FF4D0A602964} = {3E6CF0F6-3C53-4C82-8ECC-BFC19DD41139}
 		{00316F20-29A5-4324-9766-AC87A825C79D} = {3E0A2E75-CF38-44C3-94C1-5B35C628FAAE}
+		{09893D31-0E46-431B-92F6-931B2E53804C} = {5D1BC05B-8939-4E75-A634-A079ACE27361}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
