@@ -7,9 +7,8 @@ int SquareFunction(int x)
 	return r;
 }
 
-int main()
+main()
 {
 	printf("%d\n", SquareFunction(2)); // 4
 	printf("%d\n", SquareFunction(4)); // 16
-	return 0;
 }
