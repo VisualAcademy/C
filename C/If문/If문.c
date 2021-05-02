@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 /*
 	If문 : 조건문 : 조건이 참일때와 거짓일때 수행하는 구문을 분기
 */
@@ -8,8 +9,10 @@ void main(void)
 {
 	// 변수 선언
 	int num = 0;
+	int r = 0;
 	// 화면으로부터 값을 입력
-	printf("숫자를 입력하시오. _\b"); scanf("%d", &num);
+	printf("숫자를 입력하시오. _\b"); 
+	r = scanf("%d", &num);
 	// 조건 판단 후 출력
 	printf("\n입력한 수 : %d\n", num);
 	//[1] 절대값 : +값은 그대로 출력, -값은 -기호를 붙여서 +로 전환해서 출력
