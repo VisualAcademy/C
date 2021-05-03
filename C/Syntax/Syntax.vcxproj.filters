@@ -18,5 +18,8 @@
     <ClCompile Include="EmptyStatement.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PrintFormatDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
