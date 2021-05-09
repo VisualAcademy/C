@@ -18,5 +18,8 @@
     <ClCompile Include="NumberLiteralPseudo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="NumberPseudo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
