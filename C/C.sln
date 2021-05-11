@@ -604,6 +604,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VariableComma", "VariableCo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "전처리기_조건부컴파일", "전처리기_조건부컴파일\전처리기_조건부컴파일.vcxproj", "{110789EE-2B12-40B0-A293-A8F0059B0424}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LocalVariable", "LocalVariable\LocalVariable.vcxproj", "{4D96A689-9C66-4A0C-86B4-0633E72B5875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2436,6 +2438,14 @@ Global
 		{110789EE-2B12-40B0-A293-A8F0059B0424}.Release|x64.Build.0 = Release|x64
 		{110789EE-2B12-40B0-A293-A8F0059B0424}.Release|x86.ActiveCfg = Release|Win32
 		{110789EE-2B12-40B0-A293-A8F0059B0424}.Release|x86.Build.0 = Release|Win32
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Debug|x64.ActiveCfg = Debug|x64
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Debug|x64.Build.0 = Debug|x64
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Debug|x86.Build.0 = Debug|Win32
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Release|x64.ActiveCfg = Release|x64
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Release|x64.Build.0 = Release|x64
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Release|x86.ActiveCfg = Release|Win32
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2705,6 +2715,7 @@ Global
 		{DEF8D736-94EF-473F-BE2A-D3D3CEA8880F} = {EFDA05AA-3C77-4C11-B3C0-4683ACFB2349}
 		{7F6A0187-0A2D-45E2-974D-FF3E5F4B261E} = {EFDA05AA-3C77-4C11-B3C0-4683ACFB2349}
 		{110789EE-2B12-40B0-A293-A8F0059B0424} = {11567A53-4899-4A87-8EA1-1A80FA052DAC}
+		{4D96A689-9C66-4A0C-86B4-0633E72B5875} = {EFDA05AA-3C77-4C11-B3C0-4683ACFB2349}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
