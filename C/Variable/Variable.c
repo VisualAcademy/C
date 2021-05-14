@@ -1,3 +1,4 @@
+// º¯¼ö(Variable)
 #include <stdio.h>
 
 main()
