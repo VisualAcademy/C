@@ -30,5 +30,8 @@
     <ClCompile Include="MultiLineComment.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="EscapeSequence.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
