@@ -18,5 +18,8 @@
     <ClCompile Include="AssignmentOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SwapDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
