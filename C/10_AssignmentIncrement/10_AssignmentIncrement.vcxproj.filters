@@ -36,5 +36,8 @@
     <ClCompile Include="IncrementOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DecrementOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
