@@ -30,5 +30,8 @@
     <ClCompile Include="ShortcutOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ShortcutOperatorDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
