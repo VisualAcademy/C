@@ -42,5 +42,8 @@
     <ClCompile Include="PrefixOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PostfixOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
