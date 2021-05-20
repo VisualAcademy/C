@@ -15,31 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="AssignmentOperator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="SwapDemo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IncrementNumber.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="DecrementNumber.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ShortcutOperator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ShortcutOperatorDemo.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IncrementOperator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="DecrementOperator.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PrefixOperator.c">
+    <ClCompile Include="괄호연산자.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
