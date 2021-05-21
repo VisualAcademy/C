@@ -3,5 +3,6 @@
   <ItemGroup>
     <ClCompile Include="OperatorRelational.c" />
     <ClCompile Include="RelationalOperator.c" />
+    <ClCompile Include="AndOperator.c" />
   </ItemGroup>
 </Project>
