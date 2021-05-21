@@ -4,5 +4,8 @@
     <ClCompile Include="OperatorRelational.c" />
     <ClCompile Include="RelationalOperator.c" />
     <ClCompile Include="AndOperator.c" />
+    <ClCompile Include="LogicalAnd.c" />
+    <ClCompile Include="LogicalOr.c" />
+    <ClCompile Include="OrOperator.c" />
   </ItemGroup>
 </Project>
