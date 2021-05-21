@@ -7,5 +7,6 @@
     <ClCompile Include="LogicalAnd.c" />
     <ClCompile Include="LogicalOr.c" />
     <ClCompile Include="OrOperator.c" />
+    <ClCompile Include="LogicalNot.c" />
   </ItemGroup>
 </Project>
