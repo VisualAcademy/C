@@ -9,5 +9,6 @@
     <ClCompile Include="Else.c" />
     <ClCompile Include="NumDifference.c" />
     <ClCompile Include="IfNested.c" />
+    <ClCompile Include="GreaterThanEqual.c" />
   </ItemGroup>
 </Project>
