@@ -4,5 +4,6 @@
     <ClCompile Include="ScoreGrade.c" />
     <ClCompile Include="SequenceDemo.c" />
     <ClCompile Include="If.c" />
+    <ClCompile Include="IfDemo.c" />
   </ItemGroup>
 </Project>
