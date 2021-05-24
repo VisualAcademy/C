@@ -6,5 +6,7 @@
     <ClCompile Include="If.c" />
     <ClCompile Include="IfDemo.c" />
     <ClCompile Include="IfNot.c" />
+    <ClCompile Include="Else.c" />
+    <ClCompile Include="NumDifference.c" />
   </ItemGroup>
 </Project>

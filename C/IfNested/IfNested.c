@@ -3,14 +3,14 @@
 
 main()
 {
-	char name = 'C';
-	int version = 18;
+    char name = 'C';
+    int version = 22;
 
-	if (name == 'C')
-	{
-		if (version == 18)
-		{
-			printf("%c %d\n", name, version);
-		}
-	}
+    if (name == 'C')
+    {
+        if (version == 22)
+        {
+            printf("%c %d\n", name, version);
+        }
+    }
 }
