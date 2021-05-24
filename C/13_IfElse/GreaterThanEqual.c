@@ -4,16 +4,16 @@
 
 void main(void)
 {
-	int first = 0, second = 0;
-	printf("2개의 정수를 입력하세요. ___\b\b\b");
-	scanf("%d %d", &first, &second);
+    int first = 0, second = 0;
+    printf("2개의 정수를 입력하세요. (ex: 3 5) => ___\b\b\b");
+    scanf("%d %d", &first, &second);
 
-	if (first >= second)
-	{
-		printf("큰값: %d\n", first);
-	}
-	else
-	{
-		printf("큰값: %d\n", second);
-	}
+    if (first >= second)
+    {
+        printf("큰 값: %d\n", first);
+    }
+    else
+    {
+        printf("큰 값: %d\n", second);
+    }
 }
