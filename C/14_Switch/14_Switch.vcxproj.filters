@@ -3,5 +3,6 @@
   <ItemGroup>
     <ClCompile Include="SwitchExpression.c" />
     <ClCompile Include="Switch.c" />
+    <ClCompile Include="SwitchStatement.c" />
   </ItemGroup>
 </Project>

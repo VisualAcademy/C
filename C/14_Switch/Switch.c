@@ -5,6 +5,8 @@ main()
     int answer = 0;
     int r = 0;
     printf("정수를 입력하세요.\n");
+
+    // 정수 하나 입력하고 엔터 입력한 후 answer 변수에 담기
     r = scanf_s("%d", &answer); r = getchar();
 
     // 선택문
