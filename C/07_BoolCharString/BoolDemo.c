@@ -10,6 +10,4 @@ void main()
 	bln2 = false;	// °ÅÁş(0)
 
 	printf("%d %d\n", bln1, bln2);
-
-	getchar();
 }
