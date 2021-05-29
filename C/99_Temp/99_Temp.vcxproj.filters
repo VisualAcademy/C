@@ -4,5 +4,6 @@
     <ClCompile Include="전처리기.c" />
     <ClCompile Include="전처리기_매크로함수.c" />
     <ClCompile Include="전처리기설명.c" />
+    <ClCompile Include="전처리기_조건부컴파일.c" />
   </ItemGroup>
 </Project>
