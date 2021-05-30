@@ -5,5 +5,6 @@
     <ClCompile Include="전처리기_매크로함수.c" />
     <ClCompile Include="전처리기설명.c" />
     <ClCompile Include="전처리기_조건부컴파일.c" />
+    <ClCompile Include="사용자정의데이터형식.c" />
   </ItemGroup>
 </Project>
