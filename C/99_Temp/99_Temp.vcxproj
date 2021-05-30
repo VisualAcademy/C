@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="사용자정의데이터형식.c" />
+    <ClCompile Include="일년을일시분초로출력.c" />
     <ClCompile Include="전처리기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
