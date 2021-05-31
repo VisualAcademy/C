@@ -10,5 +10,6 @@
     <ClCompile Include="NumDifference.c" />
     <ClCompile Include="IfNested.c" />
     <ClCompile Include="GreaterThanEqual.c" />
+    <ClCompile Include="PositiveNegativeZero.c" />
   </ItemGroup>
 </Project>
