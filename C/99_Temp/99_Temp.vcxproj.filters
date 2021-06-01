@@ -7,5 +7,6 @@
     <ClCompile Include="전처리기_조건부컴파일.c" />
     <ClCompile Include="사용자정의데이터형식.c" />
     <ClCompile Include="일년을일시분초로출력.c" />
+    <ClCompile Include="매크로_내장매크로.c" />
   </ItemGroup>
 </Project>
