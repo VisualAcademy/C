@@ -18,5 +18,14 @@
     <ClCompile Include="ArrayDescription.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ArrayOne1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayOne2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayOne3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
