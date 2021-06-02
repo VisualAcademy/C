@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\_">
+      <UniqueIdentifier>{61ff6f3d-42a0-4bfd-ab2a-d38dc649ee01}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MemoryAllocation.c">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="메모리할당.c">
+      <Filter>Source Files\_</Filter>
+    </ClCompile>
+    <ClCompile Include="메모리할당_블록단위.c">
+      <Filter>Source Files\_</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
