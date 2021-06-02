@@ -27,5 +27,8 @@
     <ClCompile Include="ArrayOne3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ArrayTotalAvg.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
