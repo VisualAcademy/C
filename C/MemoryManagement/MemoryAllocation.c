@@ -10,7 +10,7 @@ main()
     //[2] 메모리 할당
     num = malloc(sizeof(int));
 
-    if (num) // 유효성 검사 추가
+    if (num) // 유효성 검사: NULL이 아니면 num 변수 사용
     {
         //[3] 할당된 공간에 값 대입
         *num = 1234;
