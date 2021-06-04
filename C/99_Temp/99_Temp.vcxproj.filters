@@ -11,5 +11,6 @@
     <ClCompile Include="매크로_경로에러중지.c" />
     <ClCompile Include="매크로_매크로상수가선언되었는지확인.c" />
     <ClCompile Include="매크로_매크로함수정의.c" />
+    <ClCompile Include="매크로_매크로함수정의확장.c" />
   </ItemGroup>
 </Project>
