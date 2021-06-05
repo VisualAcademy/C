@@ -2,5 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="01_CreateTextFile.c" />
+    <ClCompile Include="FileOpenDemo.c" />
   </ItemGroup>
 </Project>
