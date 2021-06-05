@@ -612,6 +612,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13_IfElse", "13_IfElse\13_IfElse.vcxproj", "{9E1C1BEF-9F73-4A60-BC74-8A991E476A22}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "58_IO", "58_IO", "{831F60BF-1061-4D41-841A-8E7F0F8081F4}"
+	ProjectSection(SolutionItems) = preProject
+		IO.txt = IO.txt
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "58_IO", "58_IO\58_IO.vcxproj", "{4DF9E9AF-B0D7-4D69-B22A-CEE83B7A42DD}"
 EndProject
