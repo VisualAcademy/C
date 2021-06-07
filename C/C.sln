@@ -652,6 +652,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemoryManagement", "MemoryM
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_Pointer", "24_Pointer\24_Pointer.vcxproj", "{8C87F8CC-4C4E-48BE-99CD-4F97774BDDD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DebugDemo", "DebugDemo\DebugDemo.vcxproj", "{59D1F850-6760-41E6-9970-7F4E0C916BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2628,6 +2630,14 @@ Global
 		{8C87F8CC-4C4E-48BE-99CD-4F97774BDDD0}.Release|x64.Build.0 = Release|x64
 		{8C87F8CC-4C4E-48BE-99CD-4F97774BDDD0}.Release|x86.ActiveCfg = Release|Win32
 		{8C87F8CC-4C4E-48BE-99CD-4F97774BDDD0}.Release|x86.Build.0 = Release|Win32
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Debug|x64.ActiveCfg = Debug|x64
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Debug|x64.Build.0 = Debug|x64
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Debug|x86.Build.0 = Debug|Win32
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Release|x64.ActiveCfg = Release|x64
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Release|x64.Build.0 = Release|x64
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Release|x86.ActiveCfg = Release|Win32
+		{59D1F850-6760-41E6-9970-7F4E0C916BCE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
