@@ -18,5 +18,8 @@
     <ClCompile Include="FunctionDemo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FunctionCall.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
