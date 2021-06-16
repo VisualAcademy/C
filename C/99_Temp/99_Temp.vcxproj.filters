@@ -16,5 +16,6 @@
     <ClCompile Include="기억클래스_외부변수1.c" />
     <ClCompile Include="기억클래스_외부변수2.c" />
     <ClCompile Include="기억클래스_자동변수.c" />
+    <ClCompile Include="구구단데모.c" />
   </ItemGroup>
 </Project>
