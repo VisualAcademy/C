@@ -18,5 +18,6 @@
     <ClCompile Include="기억클래스_자동변수.c" />
     <ClCompile Include="구구단데모.c" />
     <ClCompile Include="매크로_매크로상수의정의취소.c" />
+    <ClCompile Include="매크로_매크로상수의값을확인.c" />
   </ItemGroup>
 </Project>
