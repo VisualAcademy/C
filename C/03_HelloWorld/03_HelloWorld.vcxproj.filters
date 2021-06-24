@@ -21,5 +21,11 @@
     <ClCompile Include="HelloWorldSee.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HelloWorldWith2017.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWorld2012.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
