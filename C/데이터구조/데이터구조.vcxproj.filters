@@ -18,5 +18,8 @@
     <ClCompile Include="데이터구조_리스트(List).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="데이터구조_스택(Stack).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
