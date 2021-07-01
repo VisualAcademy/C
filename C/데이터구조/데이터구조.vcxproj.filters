@@ -24,5 +24,8 @@
     <ClCompile Include="데이터구조_리스트삭제.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DoublyLinkedList.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
