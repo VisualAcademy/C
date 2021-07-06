@@ -144,6 +144,7 @@
     <ClCompile Include="데이터구조_리스트(List).c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="데이터구조_리스트(List_FIFO).c" />
     <ClCompile Include="데이터구조_리스트삭제.c" />
     <ClCompile Include="데이터구조_스택(Stack).c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>

@@ -33,5 +33,8 @@
     <ClCompile Include="그래프검색(깊이우선).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="데이터구조_리스트(List_FIFO).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
