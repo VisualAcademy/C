@@ -36,5 +36,8 @@
     <ClCompile Include="데이터구조_리스트(List_FIFO).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="데이터구조_이진탐색트리(리스트).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
