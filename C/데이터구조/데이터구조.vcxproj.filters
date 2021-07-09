@@ -42,5 +42,8 @@
     <ClCompile Include="데이터구조_이진탐색트리(배열).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="데이터구조_해시테이블(Hashtable).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
