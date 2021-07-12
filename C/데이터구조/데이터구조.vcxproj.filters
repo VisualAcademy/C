@@ -51,5 +51,8 @@
     <ClCompile Include="자료구조_스택(Stack).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="자료구조_큐(Queue).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
