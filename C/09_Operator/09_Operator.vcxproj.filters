@@ -27,5 +27,8 @@
     <ClCompile Include="CastingOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PlusOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
