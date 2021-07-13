@@ -18,5 +18,8 @@
     <ClCompile Include="Remainder.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OperatorDescription.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
