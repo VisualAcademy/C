@@ -30,5 +30,29 @@
     <ClCompile Include="PlusOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OperatorAdd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorSubtract.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorMultiply.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorDivide.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PercentOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorRemainder.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorArithmetic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AdditionOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
