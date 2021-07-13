@@ -24,5 +24,8 @@
     <ClCompile Include="UnaryOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CastingOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
