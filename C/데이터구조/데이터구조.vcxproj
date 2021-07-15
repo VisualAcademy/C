@@ -153,6 +153,7 @@
     <ClCompile Include="데이터구조_이진탐색트리(리스트).c" />
     <ClCompile Include="데이터구조_이진탐색트리(배열)(입력).c" />
     <ClCompile Include="데이터구조_이진탐색트리(배열).c" />
+    <ClCompile Include="데이터구조_큐(Queue).c" />
     <ClCompile Include="데이터구조_해시테이블(Hashtable).c" />
     <ClCompile Include="자료구조_스택(Stack).c" />
     <ClCompile Include="자료구조_큐(Queue).c" />

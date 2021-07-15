@@ -54,5 +54,8 @@
     <ClCompile Include="자료구조_큐(Queue).c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="데이터구조_큐(Queue).c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
