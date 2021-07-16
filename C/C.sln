@@ -678,6 +678,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "데이터구조", "데이�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorPrecedence", "OperatorPrecedence\OperatorPrecedence.vcxproj", "{5CCC0CA7-6D0B-4D4F-80FA-2D74F349AE68}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoneyCount", "MoneyCount\MoneyCount.vcxproj", "{0C45D879-605E-4A51-AB99-46CEF0D5AD30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2758,6 +2760,14 @@ Global
 		{5CCC0CA7-6D0B-4D4F-80FA-2D74F349AE68}.Release|x64.Build.0 = Release|x64
 		{5CCC0CA7-6D0B-4D4F-80FA-2D74F349AE68}.Release|x86.ActiveCfg = Release|Win32
 		{5CCC0CA7-6D0B-4D4F-80FA-2D74F349AE68}.Release|x86.Build.0 = Release|Win32
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Debug|x64.ActiveCfg = Debug|x64
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Debug|x64.Build.0 = Debug|x64
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Debug|x86.Build.0 = Debug|Win32
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x64.ActiveCfg = Release|x64
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x64.Build.0 = Release|x64
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x86.ActiveCfg = Release|Win32
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3054,6 +3064,7 @@ Global
 		{2FE3ABDB-92D0-4BA8-BB5E-F41B35D75E5F} = {FD805621-B88B-4E73-9FAF-1FE2B9DCB5B7}
 		{422F8895-CCDD-49B8-9E28-5AFF18616DFD} = {ADA47EC4-3117-4A79-BA40-69952C8428BD}
 		{5CCC0CA7-6D0B-4D4F-80FA-2D74F349AE68} = {579D6C9D-0497-4796-99EF-F32FCCF8CC35}
+		{0C45D879-605E-4A51-AB99-46CEF0D5AD30} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
