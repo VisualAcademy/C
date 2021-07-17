@@ -3,5 +3,11 @@
   <ItemGroup>
     <ClCompile Include="WhileDescription.c" />
     <ClCompile Include="DoWhile.c" />
+    <ClCompile Include="WhileDemo.c" />
+    <ClCompile Include="WhileLoop.c" />
+    <ClCompile Include="WhileDecrement.c" />
+    <ClCompile Include="WhileEven.c" />
+    <ClCompile Include="WhileFibonacci.c" />
+    <ClCompile Include="DoWhileDemo.c" />
   </ItemGroup>
 </Project>
