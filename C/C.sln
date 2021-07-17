@@ -62,6 +62,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15_For", "15_For", "{B1E907A0-BA85-486C-A20E-43437C8F6795}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16_WhileDo", "16_WhileDo", "{7628DEFB-0B25-41E6-BC00-7376C6EDAA11}"
+	ProjectSection(SolutionItems) = preProject
+		16_WhileDo.txt = 16_WhileDo.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17_BreakContinueGoto", "17_BreakContinueGoto", "{1B090181-FD8D-49FE-8FA6-678715F8ACB3}"
 EndProject
