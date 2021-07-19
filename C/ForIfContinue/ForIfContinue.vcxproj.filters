@@ -18,5 +18,29 @@
     <ClCompile Include="ForIfContinue.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BreakFor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakInfiniteLoop.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileBreak.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ContinueDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BreakPractice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ContinueExam.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WhileSumBreak.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
