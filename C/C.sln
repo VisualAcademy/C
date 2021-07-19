@@ -72,6 +72,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17_BreakContinueGoto", "17_
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18_Array", "18_Array", "{2E2D64FD-B01A-455C-ABDE-90E4C3D8BEA0}"
+	ProjectSection(SolutionItems) = preProject
+		18_Array.txt = 18_Array.txt
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If문", "If문\If문.vcxproj", "{6674126B-ED0D-45C0-8FFA-F356E6EE1F9D}"
 EndProject
