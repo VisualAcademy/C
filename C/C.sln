@@ -687,6 +687,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorPrecedence", "Opera
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MoneyCount", "MoneyCount\MoneyCount.vcxproj", "{0C45D879-605E-4A51-AB99-46CEF0D5AD30}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm_Sum_Parking", "Algorithm_Sum_Parking\Algorithm_Sum_Parking.vcxproj", "{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -2767,6 +2769,14 @@ Global
 		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x64.Build.0 = Release|x64
 		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x86.ActiveCfg = Release|Win32
 		{0C45D879-605E-4A51-AB99-46CEF0D5AD30}.Release|x86.Build.0 = Release|Win32
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Debug|x64.ActiveCfg = Debug|x64
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Debug|x64.Build.0 = Debug|x64
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Debug|x86.ActiveCfg = Debug|Win32
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Debug|x86.Build.0 = Debug|Win32
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Release|x64.ActiveCfg = Release|x64
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Release|x64.Build.0 = Release|x64
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Release|x86.ActiveCfg = Release|Win32
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3063,6 +3073,7 @@ Global
 		{422F8895-CCDD-49B8-9E28-5AFF18616DFD} = {ADA47EC4-3117-4A79-BA40-69952C8428BD}
 		{5CCC0CA7-6D0B-4D4F-80FA-2D74F349AE68} = {579D6C9D-0497-4796-99EF-F32FCCF8CC35}
 		{0C45D879-605E-4A51-AB99-46CEF0D5AD30} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
+		{34DE6A9A-706F-4E1C-B3FC-9A1F3EB9A5EC} = {1A32EA3D-7708-4A13-A587-20C05D2F498D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {05F331D6-BE2E-40E7-8FFB-F7E7C448515A}
