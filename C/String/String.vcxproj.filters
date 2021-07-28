@@ -18,5 +18,8 @@
     <ClCompile Include="StrLen.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StrLwr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
