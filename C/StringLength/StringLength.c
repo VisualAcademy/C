@@ -4,9 +4,9 @@
 
 void main()
 {
-	char s1[20] = "Hello."; // 6
-	char* s2 = "¾È³çÇÏ¼¼¿ä."; // 11
+    char s1[20] = "Hello."; // 6
+    char* s2 = "¾È³çÇÏ¼¼¿ä."; // 11
 
-	printf("%s -> %d\n", s1, strlen(s1));
-	printf("%s -> %d\n", s2, strlen(s2));
+    printf("%s -> %d\n", s1, strlen(s1));
+    printf("%s -> %d\n", s2, strlen(s2));
 }
