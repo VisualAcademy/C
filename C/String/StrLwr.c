@@ -8,7 +8,7 @@ int main()
 
     printf("%s\n", str); // C Language
 
-    _strlwr_s(str, 20); 
+    _strlwr_s(str, 20); // strlwr(): 비표준 구버전
 
     printf("%s\n", str); // c language
 
