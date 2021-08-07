@@ -18,5 +18,8 @@
     <ClCompile Include="PointVariable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IntegerPointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
