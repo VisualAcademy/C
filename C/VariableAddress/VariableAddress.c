@@ -2,7 +2,7 @@
 
 main()
 {
-	int age = 21;
+    int age = 21;
 
-	printf("%d - %p\n", age, &age);
+    printf("%d - %p\n", age, &age);
 }
