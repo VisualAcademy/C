@@ -24,5 +24,8 @@
     <ClCompile Include="StructDescription.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StructInitializer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
