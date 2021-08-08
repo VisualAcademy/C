@@ -1,3 +1,4 @@
+// StructArrayInitializer.c
 // 구조체(Structure;Struct) : 하나의 이름으로 서로 다른 데이터 형식을 묶어서 관리
 #include <stdio.h>
 

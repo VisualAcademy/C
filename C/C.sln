@@ -705,6 +705,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetChar", "GetChar\GetChar.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String", "String\String.vcxproj", "{D7641753-5B83-4D8D-AB46-AFDCAB2EA0E2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00_Note", "00_Note", "{86AF9FAA-67EB-4694-BB72-E25453215B50}"
+	ProjectSection(SolutionItems) = preProject
+		C언어기본구성요소.txt = C언어기본구성요소.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
