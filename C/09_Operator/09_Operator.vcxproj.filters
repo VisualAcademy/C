@@ -54,5 +54,8 @@
     <ClCompile Include="AdditionOperator.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AddressOperator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
