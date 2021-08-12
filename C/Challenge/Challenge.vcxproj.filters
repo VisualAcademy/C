@@ -18,5 +18,8 @@
     <ClCompile Include="ToUpperExam.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ToUpperPractice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
