@@ -91,6 +91,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "24_Pointer", "24_Pointer", "{679423DB-CF95-4C20-97F3-B09A796DFBCA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "25_String", "25_String", "{64DFDC0E-C5C9-49BF-9139-A2898D216D80}"
+	ProjectSection(SolutionItems) = preProject
+		String.txt = String.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "26_Exception", "26_Exception", "{E813E654-7EBC-4B1D-A1B2-56E06D3F45D0}"
 EndProject
