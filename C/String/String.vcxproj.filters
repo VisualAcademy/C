@@ -27,5 +27,8 @@
     <ClCompile Include="CharArrayInitialize.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CharArrayDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
