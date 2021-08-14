@@ -21,5 +21,11 @@
     <ClCompile Include="StrLwr.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StringVariable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CharArrayInitialize.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
