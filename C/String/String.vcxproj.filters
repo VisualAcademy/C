@@ -33,5 +33,8 @@
     <ClCompile Include="StringCopy.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GetString.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
