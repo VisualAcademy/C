@@ -719,6 +719,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetNumber", "GetNumber\GetN
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Challenge", "Challenge\Challenge.vcxproj", "{3AE52C95-8314-4187-8442-E8A87183CA13}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "36_PreProcessor", "36_PreProcessor", "{C4B2557A-90BA-498D-83D5-201F71909A37}"
+	ProjectSection(SolutionItems) = preProject
+		PreProcessor.txt = PreProcessor.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
