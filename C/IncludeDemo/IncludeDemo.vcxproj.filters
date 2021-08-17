@@ -18,5 +18,13 @@
     <ClCompile Include="IncludeDemo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="max.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="max.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
