@@ -4,5 +4,6 @@
     <ClCompile Include="Variables.c" />
     <ClCompile Include="Literal.c" />
     <ClCompile Include="Garbage.c" />
+    <ClCompile Include="LiteralMore.c" />
   </ItemGroup>
 </Project>
