@@ -33,5 +33,8 @@
     <ClCompile Include="GetSumTwoNumber.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FunctionPrototype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
