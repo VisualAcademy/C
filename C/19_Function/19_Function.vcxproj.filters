@@ -54,5 +54,8 @@
     <ClCompile Include="FunctionScope.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CommandLineArgument.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
