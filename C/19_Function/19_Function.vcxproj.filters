@@ -36,5 +36,8 @@
     <ClCompile Include="FunctionPrototype.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FunctionPractice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
