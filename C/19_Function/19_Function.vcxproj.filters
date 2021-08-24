@@ -45,5 +45,8 @@
     <ClCompile Include="FunctionAbs.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="RecursionDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
