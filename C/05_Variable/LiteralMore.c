@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     printf("%d\n", 1234);           // 1234: 정수 리터럴
     printf("%d\n", 99);             // 99: 10진 정수 리터럴 

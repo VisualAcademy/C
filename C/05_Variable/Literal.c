@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     printf("%d\n", 1234);    //[1] 1234: 정수 리터럴
     printf("%.2f\n", 3.14F);   //[2] 3.14: 실수 리터럴
