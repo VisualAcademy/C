@@ -1,8 +1,10 @@
 // 함수_내장함수_데모_형식변환관련함수.c
 // - 문자열을 숫자형식으로 변환
 // - 숫자형을 문자열로 변환
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h> // atoi(), ...
+
 
 int main(void)
 {
@@ -20,7 +22,7 @@ int main(void)
     d = atof(str); // 실수형(float, double)
 
     // 형식 변환 : 숫자 => 문자열
-    ltoa(value, buffer, 10); // ltoa(123456, 어디에, 10진수로)
+    _ltoa(value, buffer, 10); // ltoa(123456, 어디에, 10진수로)
 
     // 문자열 출력
     printf("%s\n", str);
