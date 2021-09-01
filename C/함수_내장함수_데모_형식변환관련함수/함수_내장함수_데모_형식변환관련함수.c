@@ -5,10 +5,9 @@
 #include <stdio.h>
 #include <stdlib.h> // atoi(), ...
 
-
 int main(void)
 {
-    char str[] = "3.1415구이65\045";
+    char str[] = "3.1415구이65\0사오";
     long value = 123456;
     char buffer[100]; // 문자열을 저장하는 그릇
 
