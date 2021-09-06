@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int intNum[] = { 33, 21, 17, 5, 40 };
 	int i, j;

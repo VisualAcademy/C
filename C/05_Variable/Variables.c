@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//변수 선언 : DataType
 	char myChar;	int intNum;

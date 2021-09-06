@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(void)
+int main(void)
 {
 	//[1] 상수 선언과 동시에 초기화
 	const double PI = 3.14;

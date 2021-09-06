@@ -1,7 +1,7 @@
 //최대값(MAX), 최소값(MIN) 알고리즘
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Init
 	int i = 0;

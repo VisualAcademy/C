@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(void)
+int main(void)
 {
 	// 변수 선언
 	int num = 0;

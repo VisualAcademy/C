@@ -2,7 +2,7 @@
 //오름차순으로 정렬하여 출력
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     // Input
     int intNum[4] = { 30, 20, 10, 50 };

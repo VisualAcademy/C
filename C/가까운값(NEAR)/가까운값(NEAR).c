@@ -3,7 +3,7 @@
 #include <limits.h>
 #include <math.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Input
 	int intNum[5] = { 1, 4, 8, 10, 15 };

@@ -19,7 +19,7 @@ struct Node
 struct Node* GetNode(void);
 
 // 메인 함수
-void main(void)
+int main(void)
 {
 	int i = 0;
 	struct Node* head, * tail, * current;

@@ -1,7 +1,7 @@
 // 화면으로부터 문자열을 입력받아서 출력하는 프로그램 : scanf() 대신에 gets() 함수 사용
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	char str[100];
 

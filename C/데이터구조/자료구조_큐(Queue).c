@@ -16,7 +16,7 @@ typedef struct tagQueue
 
 Queue queue;
 
-void main(void)
+int main(void)
 {
 	char buff[100], temp[100];
 	char* op = "+-*/%";

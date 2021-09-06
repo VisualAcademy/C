@@ -6,7 +6,7 @@ void sb1(void) {
 void sb2(void) {
 	printf("[2] ¼­ºê 2 : y = %d\n", y++);
 }
-void main(void) {
+int main(void) {
 	x = 10;
 	y = 20;
 	sb1();

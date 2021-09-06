@@ -6,7 +6,7 @@ struct A
 	int b : 4; // 0~3 : 2^2 = 4
 };
 
-void main(void)
+int main(void)
 {
 	struct A a;
 

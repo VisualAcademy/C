@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     // Input
     int intSum = 0; // °á°ú°ª

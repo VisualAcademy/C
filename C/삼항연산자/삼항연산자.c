@@ -2,7 +2,7 @@
 // (조건식) ? 참일때 : 거짓일때;
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int a = 3;
 	char r;

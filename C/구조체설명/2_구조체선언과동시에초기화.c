@@ -10,7 +10,7 @@ struct Member
 	double	Weight;	// 몸무게
 } objMember = { "백두산", 100, 70.05 };
 
-void main(void)
+int main(void)
 {
 	//[3] 구조체(Struct) 
 	printf("이름: %s, 나이: %d, 몸무게: %.2f\n",

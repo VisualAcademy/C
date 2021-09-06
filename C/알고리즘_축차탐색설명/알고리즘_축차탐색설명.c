@@ -6,7 +6,7 @@
 
 #define N 5 // 데이터 수
 
-void main(void)
+int main(void)
 {
 	static struct MyFriend
 	{

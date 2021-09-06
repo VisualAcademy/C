@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i = 10;
 	int j = 20;

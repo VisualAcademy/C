@@ -1,7 +1,7 @@
 // for문(어디부터 어디까지) == while문(조건을 만족하는 동안)
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i, j, k = 0; // 반복용 변수
 	int sum = 0;

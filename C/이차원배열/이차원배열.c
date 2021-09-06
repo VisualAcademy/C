@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     // 2차원 배열 선언
     int a[2][3];

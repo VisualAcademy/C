@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     // a[n] = a[0] = 1, a[1] = 2, ... a[n-1] = 5;
     int a[5] = { 1, 2, 3, 4, 5 };

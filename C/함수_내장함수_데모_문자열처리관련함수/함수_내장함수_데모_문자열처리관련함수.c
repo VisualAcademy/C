@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void main(void)
+int main(void)
 {
 	// 원본 데이터
 	char str[] = "Abc Def Fed Cba";

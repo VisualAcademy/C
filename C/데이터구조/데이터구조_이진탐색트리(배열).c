@@ -14,7 +14,7 @@ struct Node
 	int NextNode;		//오른쪽 부분 트리를 가리키는 포인터
 };
 
-void main(void)
+int main(void)
 {
 	struct Node tree[MaxSize] =
 	{

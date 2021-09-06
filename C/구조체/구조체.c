@@ -8,7 +8,7 @@ struct _BizCard
 
 typedef struct _BizCard BizCard;
 
-void main(void)
+int main(void)
 {
 	BizCard a;
 

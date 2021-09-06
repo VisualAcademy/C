@@ -7,7 +7,7 @@ struct member
 	long	money;		// ¿¬ºÀ
 };
 
-void main(void)
+int main(void)
 {
 	int i = 0;
 

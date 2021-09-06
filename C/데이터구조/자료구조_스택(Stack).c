@@ -16,7 +16,7 @@ typedef struct tagStack
 
 Stack _stack;//스택 인스턴스 생성
 
-void main(void)
+int main(void)
 {
 	char buffer[100], temp[100];
 	char* opr = "+-*/%";

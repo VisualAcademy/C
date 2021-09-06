@@ -11,7 +11,7 @@ struct tnode
 
 struct tnode* talloc(void);
 
-void main(void)
+int main(void)
 {
 	char dat[25];
 	struct tnode* root, * p, * old;

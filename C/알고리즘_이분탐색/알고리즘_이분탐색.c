@@ -5,7 +5,7 @@
 
 #define N 5 //데이터 수
 
-void main(void)
+int main(void)
 {
 	static int intNum[] = { 21, 33, 35, 47, 59 };//정렬되어 있어야 함.
 	int key = 0; // 검색할 키(데이터) 저장

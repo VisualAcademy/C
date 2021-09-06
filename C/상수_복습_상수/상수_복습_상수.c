@@ -6,7 +6,7 @@
 //[!] 상수 선언
 #define MY_AGE 21
 
-void main(void)
+int main(void)
 {
 	//변수 선언과 동시에 초기화
 	int intAge = 21;

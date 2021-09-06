@@ -3,7 +3,7 @@ if¹® : if, if~else, else if,
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     int a = 4;
 

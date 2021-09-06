@@ -2,7 +2,7 @@
 //초기화 시킨 후 비교데이터가 더 크면 1씩 등수 증가
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     // Input
     int intNum[5] = { 333, 212, 44, 155, 112 };

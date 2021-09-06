@@ -40,7 +40,7 @@ int blocks[5][4][4] = {
 	}
 }; // 행*열로 이루어진 블록을 28개 생성
 
-void main(void)
+int main(void)
 {
 	int num = 0;
 	int i, j, k = 0;

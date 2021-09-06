@@ -7,7 +7,7 @@
 
 #define N 10
 
-void main(void)
+int main(void)
 {
 	//[1] Init/Input
 	//원본 데이터

@@ -2,7 +2,7 @@
 // 2개의 수를 입력한 후 그 중에서 큰 수를 출력하는 프로그램
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     int first = 0, second = 0;
     printf("2개의 정수를 입력하세요. (ex: 3 5) => ___\b\b\b");

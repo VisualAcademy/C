@@ -6,7 +6,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int a = 3; int b = 5; int c = 0;
 

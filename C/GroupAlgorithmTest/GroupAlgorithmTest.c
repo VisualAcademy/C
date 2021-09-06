@@ -11,7 +11,7 @@ struct Record
 	int		Quantity; // ¼ö·®
 };
 
-void main(void)
+int main(void)
 {
 	//[1] Input
 	struct Record records[4] = {

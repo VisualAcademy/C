@@ -26,7 +26,7 @@ int v[N + 1];	//방문 플래그
 
 void Visit(int);
 
-void main(void)
+int main(void)
 {
 	int i;
 	for (i = 1; i <= N; i++)

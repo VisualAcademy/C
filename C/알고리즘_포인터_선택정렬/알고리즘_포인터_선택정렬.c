@@ -14,7 +14,7 @@ void SelectionSort(int* p)
     }
 }
 
-void main(void)
+int main(void)
 {
     //[1] Input
     int intNum[5] = { 3, 2, 1, 5, 4 };

@@ -13,7 +13,7 @@
 #error "HELLO라는 매크로가 정의되지 않았습니다."
 #endif
 
-void main(void)
+int main(void)
 {
 	printf("%s\n", HELLO);
 }

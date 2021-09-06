@@ -1,7 +1,7 @@
 // 배열의 배열
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	char* arr[3]; // 기본 : 문자 3개 저장, 포인터배열 : 문자열 3개를 저장해 놓을 그릇
 	int i;

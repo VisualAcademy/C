@@ -3,7 +3,7 @@ do~while문 : 한번은 실행 후 조건처리
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     int intSum = 0;
     int i = 0;

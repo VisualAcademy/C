@@ -1,7 +1,7 @@
 //1/2 - 2/3 + 3/4 - 4/5 +.........+ 99/100
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     // Input 
     double dblSum = 0; // °á°ú°ª

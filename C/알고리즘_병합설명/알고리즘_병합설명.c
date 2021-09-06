@@ -9,7 +9,7 @@
 #define M 10
 #define N 5
 
-void main(void)
+int main(void)
 {
 	//[1] Init/Input
 	static int a[] = { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 };

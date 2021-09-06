@@ -4,7 +4,7 @@
 #include <stdio.h>		// 전처리기 지시문(PreProcessor Directive)
 #include <stdlib.h>
 
-void main(void)			// main 함수(메서드) : Entry Point(진입점)
+int main(void)			// main 함수(메서드) : Entry Point(진입점)
 {
 	//[1] Input(입력)
 	int a = 10;

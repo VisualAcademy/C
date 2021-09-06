@@ -1,7 +1,7 @@
 // 3차원 배열 : 층*행*열 : int kor[2][2][2] : 2 * 2 * 2 = 8
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i, j, k = 0;
 

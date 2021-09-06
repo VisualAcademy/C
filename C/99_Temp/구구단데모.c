@@ -5,7 +5,7 @@
 // 9 * 9 = 81
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i, j, k = 0;
 

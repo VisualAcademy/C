@@ -3,7 +3,7 @@
 // Su() 함수를 설계하시오.
 int Su(int n);
 
-void main(void) {
+int main(void) {
 	int i;
 
 	i = Su(2);

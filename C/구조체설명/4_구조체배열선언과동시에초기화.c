@@ -10,7 +10,7 @@ struct Member
 	double	Weight;	// 몸무게
 };
 
-void main(void)
+int main(void)
 {
 	int i, j, k;
 	//[1][2] 구조체 배열 선언과 동시에 초기화

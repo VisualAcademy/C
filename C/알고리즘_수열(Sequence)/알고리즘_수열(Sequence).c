@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Init/Input
 	int i = 0; // นÝบน

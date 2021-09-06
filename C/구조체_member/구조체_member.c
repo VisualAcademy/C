@@ -9,7 +9,7 @@ struct member
 	long	money;		// 연봉
 };
 
-void main(void)
+int main(void)
 {
 	// 구조체 형 변수 선언 : 개체의 인스턴스 생성(C#/C++)
 	struct member m;

@@ -5,7 +5,7 @@
 #define MAX(a, b) ( (a > b) ? a : b )
 //[5] 조건부 컴파일
 #define DEBUG 1
-void main(void)
+int main(void)
 {
 	//[1] 변수
 	int a;

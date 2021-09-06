@@ -8,7 +8,7 @@
 //사용자정의 데이터형식 정의
 typedef char* string;
 typedef int bool;
-void main(void) {
+int main(void) {
 	int i;		char c;		float f;	double d;
 	string s;//문자열을 저장할 수 있는 키워드 string 생성
 	bool b; //참 또는 거짓을 저장할 수 있는 키워드 bool 생성

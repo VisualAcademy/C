@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     //[1] 배열 선언
     int b[3]; // 배열

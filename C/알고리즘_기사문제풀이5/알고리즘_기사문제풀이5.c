@@ -1,7 +1,7 @@
 //S=1-2+4-7+11-16+22과 같은 수열의 합
 #include <stdio.h>
 
-void main(void) {
+int main(void) {
     // Input 
     int sum = 0; // 전체 수열의 합
     int index = 0; // 인덱스 저장

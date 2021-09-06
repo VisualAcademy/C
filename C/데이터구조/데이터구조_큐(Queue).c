@@ -13,7 +13,7 @@ int Enqueue(int); // 큐에 데이터를 입력하는 함수
 int Dequeue(int*); // 큐에서 데이터를 출력하는 함수
 
 //메인 함수
-void main(void)
+int main(void)
 {
 	int c, n;
 

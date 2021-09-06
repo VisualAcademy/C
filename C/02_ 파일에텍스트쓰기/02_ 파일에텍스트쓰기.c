@@ -1,7 +1,7 @@
 // 파일 텍스트 쓰기 : C:\Temp\Hello.txt
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[0] 파일 처리를 위한 FILE 포인터 형 변수 선언
 	FILE* objFile;

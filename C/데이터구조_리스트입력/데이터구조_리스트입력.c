@@ -20,7 +20,7 @@ void Print(void);
 void Insert(char*);
 
 // 메인 함수
-void main(void)
+int main(void)
 {
 	char key[32];
 

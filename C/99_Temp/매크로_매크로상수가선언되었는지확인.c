@@ -8,7 +8,7 @@
 #define HI "¹Ý°©½À´Ï´Ù"
 #endif
 
-void main(void)
+int main(void)
 {
 	printf("%s\n", HI);
 }

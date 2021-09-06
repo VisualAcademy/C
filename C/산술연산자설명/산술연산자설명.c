@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 // 메인 함수 = f(x)
-void main(void)
+int main(void)
 {
 	int i = 10;
 	int j = 5;

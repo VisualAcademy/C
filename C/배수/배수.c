@@ -1,7 +1,7 @@
 // 1~100까지 3의 배수 또는 4의 배수의 합 : for, while, do
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Input
 	int i, j, k = 0;

@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int day, hour, minute, second;
 	double year = 365.24225;

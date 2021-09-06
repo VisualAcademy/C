@@ -1,7 +1,7 @@
 // 포인터를 사용한 문자열 출력 제어
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	// C언어 : 문자열 처리 키워드 X : Java/C# : String 키워드
 	//string s = "안녕하세요...";

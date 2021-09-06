@@ -4,7 +4,7 @@
 #define MAX(f, s) ((f > s) ? f : s )
 #define MIN(f, s) ((f < s) ? (f) : (s))
 
-void main(void)
+int main(void)
 {
 	int f, s;
 

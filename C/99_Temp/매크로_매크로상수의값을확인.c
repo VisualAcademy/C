@@ -9,7 +9,7 @@
 #error "PI != 314"
 #endif
 
-void main(void)
+int main(void)
 {
 	printf("%.2f\n", PI);
 }

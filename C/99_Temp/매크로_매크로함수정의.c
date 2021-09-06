@@ -5,7 +5,7 @@
 */
 #include <stdio.h>
 
-#define CMain void main(void)
+#define CMain int main(void)
 #define max(x, y) x > y ? x : y
 #define min(x, y) x > y ? y : x
 

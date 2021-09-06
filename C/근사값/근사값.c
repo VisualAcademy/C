@@ -2,7 +2,7 @@
 #include <math.h> // abs()
 #include <limits.h> 
 
-void main(void)
+int main(void)
 {
     // Input 
     int intData[] = { 33,23,22,34,36 };//¿øº»

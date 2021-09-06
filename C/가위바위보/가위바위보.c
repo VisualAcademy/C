@@ -8,7 +8,7 @@ static const char* WIN = "½Â";
 static const char* LOSE = "ÆÐ";
 static const char* TIE = "ºñ±è";
 
-void main(void)
+int main(void)
 {
 	int iRandom = 0; // 1(°¡À§), 2(¹ÙÀ§), 3(º¸)
 	int iSelection = 0;

@@ -14,7 +14,7 @@ union UnionType
 	char c;
 };
 
-void main(void)
+int main(void)
 {
 	struct StructType st;
 	union UnionType ut;

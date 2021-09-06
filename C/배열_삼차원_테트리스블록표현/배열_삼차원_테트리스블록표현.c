@@ -197,7 +197,7 @@ int blocks[28][4][4] =
 
 
 
-void main(void)
+int main(void)
 {
 	int num = 0;
 	int i, j;

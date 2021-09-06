@@ -10,7 +10,7 @@ struct Member
 	double	Weight;	// 몸무게
 };
 
-void main(void)
+int main(void)
 {
 	//[1] 변수(Variable): 하나의 이름으로 하나의 데이터 형식을 하나만 보관해 놓는 그릇
 	int num = 10;

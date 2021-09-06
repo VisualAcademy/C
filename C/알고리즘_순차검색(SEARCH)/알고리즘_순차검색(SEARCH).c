@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Init
 	int intData[10] = { 33, 21, 27, 39, 12, 5, 7, 29, 32, 65 };

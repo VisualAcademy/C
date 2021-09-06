@@ -4,7 +4,7 @@
 #include <stdio.h>	// getchar()
 #include <conio.h>	// getch()
 
-void main(void)
+int main(void)
 {
 	char myChar;
 	char myChar2;

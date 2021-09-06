@@ -4,7 +4,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Input
 	int intNum[] = { 33, 21, 17, 5, 40 };

@@ -9,7 +9,7 @@
 #define HI "안녕"	//매크로 정의
 #endif
 
-void main(void)
+int main(void)
 {
 	printf("%s \n", HI);
 }

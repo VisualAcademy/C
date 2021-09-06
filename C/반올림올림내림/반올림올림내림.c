@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	double dblTemp = 0.0;//임시변수
 	double dblNum = 3.777;

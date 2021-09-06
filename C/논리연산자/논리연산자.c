@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void main(void)
+int main(void)
 {
 	int a = 3;
 	int b = 5;

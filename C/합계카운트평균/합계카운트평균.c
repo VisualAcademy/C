@@ -2,7 +2,7 @@
 //합계(Sum), 카운트(Count), 평균(Avg)
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Init
 	int i = 0;

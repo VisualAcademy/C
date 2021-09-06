@@ -3,7 +3,7 @@
 //함수 원형
 void EvenNumber(int n);
 
-void main(void) {
+int main(void) {
 	// 함수 호출
 	EvenNumber(10);//1부터 10까지 짝수의합
 	EvenNumber(100);//1부터 100까지 짝수의합

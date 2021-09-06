@@ -5,7 +5,7 @@
 
 #define Print(a, b) printf("%s, %d\n", #a, a##b);
 
-void main(void)
+int main(void)
 {
 	int a = 3;
 	int b = 5;

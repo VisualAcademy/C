@@ -3,7 +3,7 @@
 // 문제: 1~100까지의 정수 중에서 3의 배수 또는 7의 배수를 제외한 수의 합
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	//[1] Input / Initialize
 	int i, j, k = 0;

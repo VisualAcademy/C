@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i, j, k;		// 일반 변수 : 값
 	int* p;			// 포인터 변수 : 다른 변수의 주소, 레퍼런스(참조) 변수

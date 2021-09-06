@@ -7,7 +7,7 @@ union UnionType
 	double c;
 };
 
-void main(void)
+int main(void)
 {
 	union UnionType _u;
 

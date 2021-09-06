@@ -15,7 +15,7 @@ struct Output
 	int Quantity;			//ÆÇ¸Å·®
 }output[10];
 
-void main(void)
+int main(void)
 {
 	//Init
 	FILE* objInData;

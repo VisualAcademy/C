@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	double r = 0.0; // 반지름 
 	double a = 0.0; // 넓이

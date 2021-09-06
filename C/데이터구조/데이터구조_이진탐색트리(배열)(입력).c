@@ -16,7 +16,7 @@ struct Node
 
 int sp = 6; // 새로운 노드를 저장할 위치
 
-void main(void)
+int main(void)
 {
 	struct Node tree[MaxSize] =
 	{

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	printf("현재 파일명 : %s\n", __FILE__);
 	printf("현재 컴파일 날짜 : %s\n", __DATE__);

@@ -10,7 +10,7 @@ enum Pay
 	Mobile, Card, Direct
 };
 
-void main(void)
+int main(void)
 {
 	int a = Top;
 	int b = Card;

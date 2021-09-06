@@ -3,7 +3,7 @@
 //	=> 행, 열 : 행 기준(열 반복)
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	// 2차원 배열 선언
 	int i, j, k = 0;

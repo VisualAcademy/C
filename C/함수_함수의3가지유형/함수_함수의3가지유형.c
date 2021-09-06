@@ -9,7 +9,7 @@ int Hap(int a, int b) {
 	return (a + b);
 }
 // main() 함수 : 프로그램의 진입점(Entry Point)
-void main(void) {
+int main(void) {
 	int intReturn = 0;
 	//[0] 내장(Builtin) 함수 : 만들어져 있는 기능
 	printf("안녕하세요.\n");

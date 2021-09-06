@@ -6,7 +6,7 @@
 #include <stdio.h>
 #define N 5
 
-void main(void)
+int main(void)
 {
 	//[0] Init
 	int i, j, temp;

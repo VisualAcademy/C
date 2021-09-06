@@ -20,7 +20,7 @@ int Max(int a, int b)
 	return (a > b) ? a : b;
 }
 
-void main(void)
+int main(void)
 {
 	//[0] 변수 선언 부
 	int m = 0;

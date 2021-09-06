@@ -1,7 +1,7 @@
 // for¹® == while¹® == do¹®
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i, j, k = 0;
 	int sum = 0;

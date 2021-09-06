@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 //매크로 정의 : #define
-#define CMain void main(void)
+#define CMain int main(void)
 #define MAX 100
 #define MIN 0
 #define PI 3.141592654

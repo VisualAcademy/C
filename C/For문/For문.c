@@ -7,7 +7,7 @@
 */
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	int i = 0;
 	for (i = 1; i <= 10; i++)	// 1부터 10까지 1씩 증가 : 10번 반복

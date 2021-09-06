@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	// 3명의 학생의 국어점수의 합
 	int tot = 0;

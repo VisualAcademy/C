@@ -18,7 +18,7 @@ struct PhoneAddress
     char Phone[15];	// 전화번호 필드
 }mobile[TableSize];
 
-void main(void)
+int main(void)
 {
     int n;
     int i = 0;

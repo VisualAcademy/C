@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 
-void main(void) {
+int main(void) {
 	int i, j, k = 0;
 	//3차원배열 선언 : 2층*2행*2열
 	int intNum[2][2][2]

@@ -1,7 +1,7 @@
 // if문(조건문), switch문(선택문)
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	// 1~5까지의 정수를 입력받아서 값에 해당하는 구문을 처리
 	int num = 0;

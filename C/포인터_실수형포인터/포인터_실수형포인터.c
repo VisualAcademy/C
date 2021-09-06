@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	float i;
 	float* p; // 특정 주소(번지;Address)값을 담을 수 있는 그릇

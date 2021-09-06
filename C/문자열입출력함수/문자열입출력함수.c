@@ -3,7 +3,7 @@
 // puts() : 문자열 출력, printf()
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	char strBuffer[100]; // 100자의 문자를 받을 수 있는 공간 마련
 

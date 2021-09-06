@@ -3,7 +3,7 @@
 #define N 5
 #define IS_PRINT
 
-void main(void)
+int main(void)
 {
 	int i = 0;
 	for (i = 0; i < N; i++)

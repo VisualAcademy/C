@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-void main(void)
+int main(void)
 {
     int r = 0;
     int iRandom = 0; // 1(가위), 2(바위), 3(보)

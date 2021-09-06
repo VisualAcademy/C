@@ -134,7 +134,7 @@ void MakeButterflyAll(int row)
 }
 
 // 메인 함수
-void main(void)
+int main(void)
 {
 	int row = 0; // 행수 저장
 

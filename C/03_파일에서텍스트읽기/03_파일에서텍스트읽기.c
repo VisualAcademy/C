@@ -1,7 +1,7 @@
 // 파일 텍스트 읽기 : C:\Temp\Hello.txt
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
 	char buffer[80]; // 문자열을 저장해 놓을 공간
 	//[0] 파일 처리를 위한 FILE 포인터 형 변수 선언

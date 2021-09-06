@@ -2,7 +2,7 @@
 #include <math.h>
 #include <limits.h>	//INT_MAX
 
-void main(void)
+int main(void)
 {
 	//[1] Init/Input
 	//원본 데이터

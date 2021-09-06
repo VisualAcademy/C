@@ -17,7 +17,7 @@ struct Node
 struct Node* GetNode(void);
 
 // 메인 함수
-void main(void)
+int main(void)
 {
 	register int i = 0;	// 반복용
 	struct Node* head; // 첫 번째 노드

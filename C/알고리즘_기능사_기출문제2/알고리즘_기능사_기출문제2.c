@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main(void)
+int main(void)
 {
     int K[3] = { 100, 90, 75 };//KOR
     int E[3] = { 100, 70, 80 };//ENG

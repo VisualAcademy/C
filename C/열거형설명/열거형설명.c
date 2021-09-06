@@ -25,7 +25,7 @@ enum ControlKey
 	Right = 77
 };
 
-void main(void)
+int main(void)
 {
 	//printf("%d\n", Top);	
 	//printf("%d\n", Bottom);	

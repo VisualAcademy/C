@@ -3,7 +3,7 @@
 #include <stdlib.h>	// rand(), ...
 #include <time.h>	// time()
 
-void main(void)
+int main(void)
 {
 	int i = 0;
 	int r = 0;

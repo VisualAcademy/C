@@ -11,7 +11,7 @@
 #define MAX 100
 #define MIN 0
 
-void main(void)
+int main(void)
 {
 	const int NUM = 10; // »ó¼ö(Constant)
 
