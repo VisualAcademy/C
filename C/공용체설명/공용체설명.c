@@ -12,16 +12,18 @@ union Member
 int main(void)
 {
     // 공용체 형식의 변수 선언
-    union Member m;
+    union Member member;
 
-    m.Name = "홍길동";		// 저장
-    printf("%s\n", m.Name);	// 사용
-    m.Age = 21;
-    printf("%d\n", m.Age);
-    m.Weight = 100.05;
-    printf("%.2f\n", m.Weight);
+    member.Name = "홍길동";            // 저장
+    printf("%s\n", member.Name);      // 사용
 
-    //printf("%s, %d, %.2f\n", m.Name, m.Age, m.Weight);
+    member.Age = 21;
+    printf("%d\n", member.Age);
+
+    member.Weight = 100.05;
+    printf("%.2f\n", member.Weight);
+
+    //printf("%s, %d, %.2f\n", member.Name, member.Age, member.Weight);
 
     return 0;
 }
