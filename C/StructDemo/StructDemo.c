@@ -7,7 +7,7 @@ struct Point {
 	int Y;
 };
 
-int main()
+int main(void)
 {
 	struct Point point; // Point 구조체 형식의 변수 선언
 	point.X = 100; // 점을 구분해서 X 변수에 값을 할당
