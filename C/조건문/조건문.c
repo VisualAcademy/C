@@ -1,5 +1,5 @@
 /*
-if문 : if, if~else, else if,
+    if문 : if, if~else, else if
 */
 #include <stdio.h>
 
@@ -40,4 +40,6 @@ int main(void)
     {
         printf("3, 5, 7의 배수가 아닌 수\n");
     }
+
+    return 0; 
 }
