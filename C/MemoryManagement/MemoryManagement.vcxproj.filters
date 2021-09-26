@@ -27,5 +27,8 @@
     <ClCompile Include="메모리할당_블록단위.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
+    <ClCompile Include="메모리할당및해제.c">
+      <Filter>Source Files\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
