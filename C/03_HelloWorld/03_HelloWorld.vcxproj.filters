@@ -27,5 +27,8 @@
     <ClCompile Include="HelloWorld2012.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="click_me.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
