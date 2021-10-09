@@ -30,5 +30,11 @@
     <ClCompile Include="click_me.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hello_world_2023.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hello_world_2022.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
