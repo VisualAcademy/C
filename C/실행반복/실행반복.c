@@ -1,5 +1,5 @@
 /*
-do~while문 : 한번은 실행 후 조건처리
+    do~while문: 한번은 실행 후 조건처리
 */
 #include <stdio.h>
 
@@ -17,7 +17,9 @@ int main(void)
             intSum += i;            //[!] 실행문
         }
         i++;                        //[2] 증감식
-    } while (i <= 100);              //[3] 조건식
+    } while (i <= 100);             //[3] 조건식
 
-    printf("%d\n", intSum);         //2550
+    printf("%d\n", intSum); // 2550
+
+    return 0;
 }
