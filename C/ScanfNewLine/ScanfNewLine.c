@@ -1,5 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
-
+#define _CRT_SECURE_NO_WARNINGS // scanf() 보안 경고에 따른 컴파일 에러 방지
 #include <stdio.h>
 
 void main()
