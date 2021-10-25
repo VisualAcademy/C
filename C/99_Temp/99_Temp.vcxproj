@@ -152,6 +152,7 @@
     <ClCompile Include="매크로_매크로상수정의하기.c" />
     <ClCompile Include="매크로_매크로함수정의.c" />
     <ClCompile Include="매크로_매크로함수정의확장.c" />
+    <ClCompile Include="문자열을숫자형식으로변환.c" />
     <ClCompile Include="사용자정의데이터형식.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
