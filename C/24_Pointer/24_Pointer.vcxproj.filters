@@ -45,5 +45,11 @@
     <ClCompile Include="01.포인터시작.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="02.포인터연산.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03.정수형포인터.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
