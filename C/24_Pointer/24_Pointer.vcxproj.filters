@@ -42,5 +42,8 @@
     <ClCompile Include="PointerVariable.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01.포인터시작.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
