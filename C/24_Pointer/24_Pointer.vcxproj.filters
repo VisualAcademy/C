@@ -54,5 +54,8 @@
     <ClCompile Include="03.정수형포인터.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_문자열입출력.c">
+      <Filter>Source Files\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
