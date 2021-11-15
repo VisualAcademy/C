@@ -1,3 +1,4 @@
+// pointer_array.c
 #include <stdio.h>
 
 int main(void)
