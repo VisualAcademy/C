@@ -1,4 +1,4 @@
-// pointer_array.c
+// pointer_one_array.c
 #include <stdio.h>
 
 int main(void)
