@@ -63,5 +63,8 @@
     <ClCompile Include="05.포인터배열.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
+    <ClCompile Include="01.포인터변수.c">
+      <Filter>Source Files\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
