@@ -12,5 +12,6 @@
     <ClCompile Include="GreaterThanEqual.c" />
     <ClCompile Include="PositiveNegativeZero.c" />
     <ClCompile Include="IfPractice.c" />
+    <ClCompile Include="IfExam.c" />
   </ItemGroup>
 </Project>
