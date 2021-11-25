@@ -41,5 +41,5 @@ int main(void)
         printf("3, 5, 7의 배수가 아닌 수\n");
     }
 
-    return 0; 
+    return 0;
 }

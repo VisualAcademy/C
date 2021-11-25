@@ -13,5 +13,7 @@
     <ClCompile Include="PositiveNegativeZero.c" />
     <ClCompile Include="IfPractice.c" />
     <ClCompile Include="IfExam.c" />
+    <ClCompile Include="If문.c" />
+    <ClCompile Include="조건문.c" />
   </ItemGroup>
 </Project>
