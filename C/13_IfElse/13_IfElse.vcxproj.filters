@@ -11,5 +11,6 @@
     <ClCompile Include="IfNested.c" />
     <ClCompile Include="GreaterThanEqual.c" />
     <ClCompile Include="PositiveNegativeZero.c" />
+    <ClCompile Include="IfPractice.c" />
   </ItemGroup>
 </Project>
