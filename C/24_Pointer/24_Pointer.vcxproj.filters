@@ -72,5 +72,8 @@
     <ClCompile Include="03.포인터변수의주소.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
+    <ClCompile Include="값형변수와참조형변수차이.c">
+      <Filter>Source Files\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
