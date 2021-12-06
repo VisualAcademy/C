@@ -192,6 +192,7 @@
     <ClCompile Include="포인터_문자열입출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="포인터배열설명.c" />
     <ClCompile Include="포인터설명.c" />
     <ClCompile Include="포인터설명2.c" />
   </ItemGroup>
