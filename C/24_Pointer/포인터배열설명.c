@@ -1,3 +1,4 @@
+// 포인터배열설명.c
 // 포인터 배열
 #include <stdio.h>
 
@@ -13,6 +14,6 @@ void main()
 
 	for (i = 0; i < 5; i++)
 	{
-		printf("배열 : %d, 포인터 : %d\n", a[i], *(p + i));
+		printf("배열: %d, 포인터: %d\n", a[i], *(p + i));
 	}
 }
