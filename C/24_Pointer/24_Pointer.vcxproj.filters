@@ -87,5 +87,8 @@
     <ClCompile Include="포인터배열설명.c">
       <Filter>Source Files\pointer_all</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_문자열처리설명.c">
+      <Filter>Source Files\pointer_all</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
