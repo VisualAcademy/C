@@ -78,7 +78,7 @@
     <ClCompile Include="포인터설명.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
-    <ClCompile Include="포인터설명2.c">
+    <ClCompile Include="포인터설명_참조형.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
     <ClCompile Include="포인터배열설명.c">
