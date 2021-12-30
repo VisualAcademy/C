@@ -23,5 +23,6 @@
     <ClCompile Include="문자열을숫자형식으로변환.c" />
     <ClCompile Include="기억클래스_정적변수사용.c" />
     <ClCompile Include="기억클래스_자동변수의선언.c" />
+    <ClCompile Include="실습_천단위콤마찍기.c" />
   </ItemGroup>
 </Project>
