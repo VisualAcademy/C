@@ -2,16 +2,18 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-main()
+int main(void)
 {
-	int x, y, r;
+    int x, y, _;
 
-	printf("2개의 정수를 입력하세요: ");
-	r = scanf("%d %d", &x, &y);
+    printf("2개의 정수를 입력하세요: ");
+    _ = scanf("%d %d", &x, &y);
 
-	printf("%d + %d = %d\n", x, y, (x + y));
-	printf("%d - %d = %d\n", x, y, (x - y));
-	printf("%d * %d = %d\n", x, y, (x * y));
-	printf("%d / %d = %d\n", x, y, (x / y));
-	printf("%d %% %d = %d\n", x, y, (x % y));
+    printf("%d + %d = %d\n", x, y, (x + y));
+    printf("%d - %d = %d\n", x, y, (x - y));
+    printf("%d * %d = %d\n", x, y, (x * y));
+    printf("%d / %d = %d\n", x, y, (x / y));
+    printf("%d %% %d = %d\n", x, y, (x % y));
+
+    return 0;
 }
