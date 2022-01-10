@@ -1,7 +1,8 @@
-// getch(), _getch() : 키보드로부터 하나의 문자 입력
+// getch_function.c
+// getch(), _getch(): 키보드로부터 하나의 문자 입력
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	char grade;
 
