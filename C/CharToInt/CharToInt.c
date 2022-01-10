@@ -1,9 +1,10 @@
+// char_to_int.c
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	char c = 'A';
-	int i = c;
+	int i = c; // char 타입을 int 타입으로 변환
 
 	printf("%d\n", i); // 65
 
