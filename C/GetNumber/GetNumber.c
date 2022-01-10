@@ -1,6 +1,7 @@
+// get_number.c
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     int number1 = 0;
     int number2 = 0;
