@@ -160,6 +160,7 @@
     <ClCompile Include="StrLwr.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="TerminatingNullCharacter.c" />
     <ClCompile Include="문자열비교.c" />
     <ClCompile Include="문자열비교설명.c" />
   </ItemGroup>

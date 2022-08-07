@@ -48,5 +48,8 @@
     <ClCompile Include="문자열비교설명.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TerminatingNullCharacter.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
