@@ -36,5 +36,8 @@
     <ClCompile Include="GetString.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CharPointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

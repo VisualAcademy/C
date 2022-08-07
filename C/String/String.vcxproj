@@ -145,6 +145,7 @@
     <ClCompile Include="CharArrayInitialize.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="CharPointer.c" />
     <ClCompile Include="GetString.c" />
     <ClCompile Include="StringCopy.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
