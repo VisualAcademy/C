@@ -51,5 +51,11 @@
     <ClCompile Include="TerminatingNullCharacter.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CharPointerIndex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FgetsDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
