@@ -42,5 +42,8 @@
     <ClCompile Include="StringLength.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="문자열비교.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
