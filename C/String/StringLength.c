@@ -10,5 +10,5 @@ int main(void)
     printf("%s -> %d\n", s1, strlen(s1));
     printf("%s -> %d\n", s2, strlen(s2));
 
-    return 0; 
+    return 0;
 }

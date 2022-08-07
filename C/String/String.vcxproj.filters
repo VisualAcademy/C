@@ -39,5 +39,8 @@
     <ClCompile Include="CharPointer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StringLength.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
