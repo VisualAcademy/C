@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     char s[7] = "CODE";
     putchar(s[0]);

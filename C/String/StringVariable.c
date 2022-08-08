@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
     char message[80] = "hello, world!";
     printf("%s\n", message);

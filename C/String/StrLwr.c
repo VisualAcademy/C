@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main()
+int main(void)
 {
     char str[20] = "C Language";
 
