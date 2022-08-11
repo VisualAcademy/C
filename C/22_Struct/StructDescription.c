@@ -4,12 +4,12 @@
 //[!] 구조체 선언: 회원 관리
 struct Member
 {
-    char* Name;	// 이름
-    int		Age;	// 나이
-    double	Weight;	// 몸무게
+    char* Name; // 이름
+    int Age; // 나이
+    double Weight; // 몸무게
 };
 
-int main()
+int main(void)
 {
     //[1] 변수(Variable): 하나의 이름으로 하나의 데이터 형식을 하나만 보관해 놓는 그릇
     int num = 10;
