@@ -167,7 +167,10 @@
     <ClCompile Include="구조체.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="구조체비트필드.c" />
+    <ClCompile Include="구조체_구조체비트필드.c" />
+    <ClCompile Include="구조체비트필드.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt" />
