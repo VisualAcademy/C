@@ -24,5 +24,8 @@
     <ClCompile Include="구조체_member.c">
       <Filter>소스 파일\22_Struct</Filter>
     </ClCompile>
+    <ClCompile Include="구조체_구조체배열.c">
+      <Filter>소스 파일\22_Struct</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
