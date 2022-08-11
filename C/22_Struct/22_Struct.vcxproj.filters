@@ -42,6 +42,9 @@
     <ClCompile Include="구조체.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="구조체비트필드.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">

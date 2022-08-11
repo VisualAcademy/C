@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="구조체비트필드.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="구조체_구조체비트필드.c">
       <Filter>Source Files</Filter>
     </ClCompile>
