@@ -39,5 +39,8 @@
     <ClCompile Include="StructPractice_.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
