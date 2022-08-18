@@ -7,5 +7,7 @@
     <ClCompile Include="for_square.c" />
     <ClCompile Include="for_rectangle.c" />
     <ClCompile Include="for_nested_triangle.c" />
+    <ClCompile Include="backslash.c" />
+    <ClCompile Include="backslash_ox.c" />
   </ItemGroup>
 </Project>
