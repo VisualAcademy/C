@@ -6,5 +6,6 @@
     <ClCompile Include="for_nested_loop.c" />
     <ClCompile Include="for_square.c" />
     <ClCompile Include="for_rectangle.c" />
+    <ClCompile Include="for_nested_triangle.c" />
   </ItemGroup>
 </Project>
