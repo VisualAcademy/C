@@ -9,5 +9,7 @@
     <ClCompile Include="for_nested_triangle.c" />
     <ClCompile Include="backslash.c" />
     <ClCompile Include="backslash_ox.c" />
+    <ClCompile Include="space_triangle.c" />
+    <ClCompile Include="space_triangle_2.c" />
   </ItemGroup>
 </Project>
