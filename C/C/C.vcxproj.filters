@@ -27,5 +27,14 @@
     <ClCompile Include="구조체_구조체배열.c">
       <Filter>소스 파일\22_Struct</Filter>
     </ClCompile>
+    <ClCompile Include="diamond.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="diamond_recursion.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="diamond_description.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
