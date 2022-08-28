@@ -3,23 +3,18 @@
 
 int main(void)
 {
-    int count = 0; // 높이 개수 
-    int blank = 0; // 공백 개수 
-    int block = 0; // 별표 개수 
-    int height = 0; // 높이 번호
+    int height;
 
-    printf("다이아몬드 삼각형 높이 개수 입력: ");
-    scanf("%d", &count);
+    printf("다이아몬드 삼각형 높이 입력: ");
+    scanf("%d", &height);
 
     // 삼각형 출력 그룹
-    for (int i = 1; i <= count; i++)
+    for (int i = 1; i <= height; i++)
     {
-        // 공백 출력
-        for (int j = i; j <= count; j++)
+        for (int j = i; j <= height; j++)
         {
             printf(" ");
         }
-        // 별표 출력
         for (int k = 1; k <= 2 * i - 1; k++)
         {
             printf("*");
@@ -28,9 +23,9 @@ int main(void)
     }
 
     // 역삼각형 출력 그룹 
-    for (int i = count - 1; i >= 1; i--)
+    for (int i = height - 1; i >= 1; i--)
     {
-        for (int j = count; j >= i; j--)
+        for (int j = height; j >= i; j--)
         {
             printf(" ");
         }
