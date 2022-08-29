@@ -27,7 +27,7 @@ int main(void)
             printf("*");
         }
 
-        printf("\n");
+        printf("\n"); // ≥Ù¿Ã ¡ŸπŸ≤ﬁ
     }
 
     return 0;
