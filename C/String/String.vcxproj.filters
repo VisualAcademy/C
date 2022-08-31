@@ -57,5 +57,11 @@
     <ClCompile Include="FgetsDemo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sprintf_demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sprintf_format.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
