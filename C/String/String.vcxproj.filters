@@ -63,5 +63,8 @@
     <ClCompile Include="sprintf_format.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sprintf_pointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
