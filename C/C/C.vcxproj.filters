@@ -36,5 +36,11 @@
     <ClCompile Include="diamond_description.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="diamond_short.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="inverted_pyramid.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
