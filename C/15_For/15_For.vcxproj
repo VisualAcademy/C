@@ -155,7 +155,7 @@
     <ClCompile Include="for_nested_loop.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="for_nested_triangle.c">
+    <ClCompile Include="for_nested_triangle_docs.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="for_rectangle.c">

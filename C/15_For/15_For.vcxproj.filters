@@ -6,7 +6,7 @@
     <ClCompile Include="for_nested_loop.c" />
     <ClCompile Include="for_square.c" />
     <ClCompile Include="for_rectangle.c" />
-    <ClCompile Include="for_nested_triangle.c" />
+    <ClCompile Include="for_nested_triangle_docs.c" />
     <ClCompile Include="backslash.c" />
     <ClCompile Include="backslash_ox.c" />
     <ClCompile Include="space_triangle.c" />
