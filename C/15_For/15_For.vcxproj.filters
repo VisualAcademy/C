@@ -12,5 +12,6 @@
     <ClCompile Include="space_triangle.c" />
     <ClCompile Include="space_triangle_2.c" />
     <ClCompile Include="fizzbuzz_docs.c" />
+    <ClCompile Include="fizzbuzz_exam_docs.c" />
   </ItemGroup>
 </Project>
