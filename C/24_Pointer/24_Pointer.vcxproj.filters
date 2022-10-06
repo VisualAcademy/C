@@ -111,5 +111,11 @@
     <ClCompile Include="VariableAddress.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_변수의주소출력.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_address_format.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
