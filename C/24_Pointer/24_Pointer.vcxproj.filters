@@ -138,5 +138,8 @@
     <ClCompile Include="포인터_포인터변수.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_정수형.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
