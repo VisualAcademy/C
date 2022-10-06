@@ -14,5 +14,5 @@ int main(void)
 	printf("%c\n", c); // A
 	printf("%s\n", p); // Hello World
 
-	return 0; 
+	return 0;
 }

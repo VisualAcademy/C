@@ -117,5 +117,8 @@
     <ClCompile Include="variable_address_format.c">
       <Filter>Source Files\docs</Filter>
     </ClCompile>
+    <ClCompile Include="포인터배열_문자열.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
