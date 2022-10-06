@@ -17,6 +17,7 @@ int main(void)
     printf("%d %d %d %d\n", i, j, k, *p); // *p => 포인터 변수가 참조하고 있는 변수의 값
 
     *p = i * j; // k = i * j;
+
     printf("%d %d %d %d\n", i, j, k, *p);
 
     return 0;
