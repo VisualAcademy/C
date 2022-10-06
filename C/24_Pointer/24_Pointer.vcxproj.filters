@@ -19,6 +19,9 @@
     <Filter Include="Source Files\pointer_all">
       <UniqueIdentifier>{c4ad224d-dbaa-409d-b8be-4b3910689d07}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\docs">
+      <UniqueIdentifier>{d511ef23-f6cf-4770-bb1e-7e5d3d90502e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PointVariable.c">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="포인터_포인터배열설명.c">
       <Filter>Source Files\pointer_all</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터배열_배수의합.c">
+      <Filter>Source Files\docs</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
