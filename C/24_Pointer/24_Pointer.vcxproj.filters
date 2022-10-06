@@ -22,6 +22,9 @@
     <Filter Include="Source Files\docs">
       <UniqueIdentifier>{d511ef23-f6cf-4770-bb1e-7e5d3d90502e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\docs\_">
+      <UniqueIdentifier>{df3240de-2987-4a98-abd0-57575ec2fb3a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PointVariable.c">
@@ -101,6 +104,12 @@
     </ClCompile>
     <ClCompile Include="포인터배열_이차원배열참조.c">
       <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_address.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="VariableAddress.c">
+      <Filter>Source Files\docs\_</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
