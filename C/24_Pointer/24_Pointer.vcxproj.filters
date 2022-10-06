@@ -99,5 +99,8 @@
     <ClCompile Include="포인터배열_배수의합.c">
       <Filter>Source Files\docs</Filter>
     </ClCompile>
+    <ClCompile Include="포인터배열_이차원배열참조.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
