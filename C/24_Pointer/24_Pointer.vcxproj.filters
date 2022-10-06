@@ -126,5 +126,8 @@
     <ClCompile Include="포인터배열_배열의배열.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터배열_문자열입력.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
