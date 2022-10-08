@@ -198,7 +198,11 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="pointer_array_gets.c" />
+    <ClCompile Include="pointer_array_multi.c" />
     <ClCompile Include="pointer_array_string.c" />
+    <ClCompile Include="pointer_array_string_literal.c" />
+    <ClCompile Include="pointer_array_sum.c" />
+    <ClCompile Include="pointer_array_zigzag.c" />
     <ClCompile Include="pointer_float_type.c" />
     <ClCompile Include="pointer_integer.c" />
     <ClCompile Include="pointer_variable_address.c" />
