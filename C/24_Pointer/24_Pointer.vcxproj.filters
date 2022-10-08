@@ -150,5 +150,14 @@
     <ClCompile Include="algorithm_pointer_selectionsort.c">
       <Filter>Source Files\docs</Filter>
     </ClCompile>
+    <ClCompile Include="algorithm_pointer_max.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_float_type.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_integer.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
