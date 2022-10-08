@@ -159,5 +159,14 @@
     <ClCompile Include="pointer_integer.c">
       <Filter>Source Files\docs</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_variable_address.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array_string.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array_gets.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
