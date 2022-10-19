@@ -24,33 +24,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PointVariable.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IntegerPointer.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="NumberPointer.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PointerArray.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PointerArraySum.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PointerArrayMulti.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="StringPointer.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="StringArray.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PointerVariable.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="01.포인터시작.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
@@ -175,6 +148,39 @@
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
     <ClCompile Include="포인터설명_참조형.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegerPointer.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberPointer.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArray.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerVariable.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArrayMulti.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArraySum.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="StringArray.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="StringPointer.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_pointer.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="PointVariable.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
   </ItemGroup>
