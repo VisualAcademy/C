@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\_">
-      <UniqueIdentifier>{bd1f5db1-703d-4e1f-934f-2dbd90a43d3b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\docs">
       <UniqueIdentifier>{d511ef23-f6cf-4770-bb1e-7e5d3d90502e}</UniqueIdentifier>
     </Filter>
@@ -24,27 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="02.포인터연산.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
-    <ClCompile Include="00.포인터설명.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
-    <ClCompile Include="05.포인터배열.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
-    <ClCompile Include="01.포인터변수.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
-    <ClCompile Include="02.정수형포인터.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
-    <ClCompile Include="값형변수와참조형변수차이.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터설명.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
     <ClCompile Include="variable_address.c">
       <Filter>Source Files\docs</Filter>
     </ClCompile>
@@ -181,6 +157,27 @@
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
     <ClCompile Include="01.포인터시작.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="00.포인터설명.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="01.포인터변수.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="02.정수형포인터.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="02.포인터연산.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터설명.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="05.포인터배열.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
+    <ClCompile Include="값형변수와참조형변수차이.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
   </ItemGroup>
