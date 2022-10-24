@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\22_Struct">
       <UniqueIdentifier>{b5decffc-db93-4759-8e3a-5ecc81f7ff76}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\docs">
+      <UniqueIdentifier>{bb88b218-1817-4aaf-822d-35ec379a8972}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\docs\_">
+      <UniqueIdentifier>{99e2e257-ead8-43be-9f90-6bac8f60142b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelloSee.c">
@@ -40,6 +46,12 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="inverted_pyramid.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MacroConstant.c">
+      <Filter>소스 파일\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_constant.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

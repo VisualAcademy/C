@@ -21,7 +21,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="macro-function.c">
+    <ClCompile Include="macro_function.c">
       <Filter>Source Files\docs</Filter>
     </ClCompile>
     <ClCompile Include="MacroFunction.c">
