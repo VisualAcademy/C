@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\docs">
+      <UniqueIdentifier>{4b90dc17-10ef-49a7-9f32-00ccc6a5b867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\docs\_">
+      <UniqueIdentifier>{5dd28ed1-c6ed-4e4a-ac9b-6c3f3ff340f7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="macro-function.c">
+      <Filter>Source Files\docs</Filter>
+    </ClCompile>
     <ClCompile Include="MacroFunction.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\docs\_</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
