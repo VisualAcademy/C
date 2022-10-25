@@ -3,7 +3,7 @@
 #include <stdbool.h> // bool, true(1), false(0)
 
 // 검색 알고리즘(Search Algorithm): 주어진 데이터에서 특정 데이터 찾기
-main()
+int main(void)
 {
     //[1] Input
     int data[] = { 1, 3, 5, 7, 9 }; // 오름차순으로 정렬되었다고 가정
@@ -41,4 +41,6 @@ main()
     {
         printf("찾지 못했습니다.");
     }
+
+    return 0;
 }

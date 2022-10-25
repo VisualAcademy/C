@@ -14,7 +14,7 @@ int main(void)
     //[1] Init/Input
     static int a[] = { 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 };
     static int b[] = { 1, 3, 5, 7, 9 };
-    static int c[M + N];	//병합된 데이터 저장
+    static int c[M + N];	// 병합된 데이터 저장
 
     //[2] Process
     int i, j, k;
