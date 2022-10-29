@@ -75,5 +75,8 @@
     <ClCompile Include="strstr_demo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fgets_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
