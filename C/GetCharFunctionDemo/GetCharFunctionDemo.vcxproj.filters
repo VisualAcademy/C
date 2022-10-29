@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\docs">
+      <UniqueIdentifier>{d4c09e34-387e-4a1b-93a5-dd9d12d1eed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\docs\_">
+      <UniqueIdentifier>{8c08dafc-6fa6-4416-b2f4-c3f9733c988d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GetCharFunctionDemo.c">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\docs\_</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
