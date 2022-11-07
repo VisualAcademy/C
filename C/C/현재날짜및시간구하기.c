@@ -1,4 +1,4 @@
-// 현재날짜및시간구하기.c
+// current_time_localtime.c, 현재날짜및시간구하기.c
 /*
 	날짜 및 구하기 : time(), localtime()
 */
