@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="전처리기.c" />
     <ClCompile Include="전처리기_매크로함수.c" />
     <ClCompile Include="전처리기설명.c" />
     <ClCompile Include="전처리기_조건부컴파일.c" />

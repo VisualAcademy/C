@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\docs\_">
       <UniqueIdentifier>{99e2e257-ead8-43be-9f90-6bac8f60142b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\_">
+      <UniqueIdentifier>{c50a9c97-cec9-4d17-8731-77e95a34923b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelloSee.c">
@@ -71,6 +74,12 @@
     </ClCompile>
     <ClCompile Include="GetcharMacro.c">
       <Filter>소스 파일\docs\_</Filter>
+    </ClCompile>
+    <ClCompile Include="전처리기.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_define.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
