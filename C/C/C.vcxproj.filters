@@ -66,5 +66,11 @@
     <ClCompile Include="PutcharMacro.c">
       <Filter>소스 파일\docs\_</Filter>
     </ClCompile>
+    <ClCompile Include="getchar_macro.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GetcharMacro.c">
+      <Filter>소스 파일\docs\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -30,8 +30,5 @@
     <ClCompile Include="GetcheDemo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GetcharMacro.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
