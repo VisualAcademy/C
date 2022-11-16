@@ -60,5 +60,11 @@
     <ClCompile Include="current_time_localtime.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="putchar_macro.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PutcharMacro.c">
+      <Filter>소스 파일\docs\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -33,8 +33,5 @@
     <ClCompile Include="GetcharMacro.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PutcharMacro.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
