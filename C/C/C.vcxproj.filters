@@ -81,5 +81,11 @@
     <ClCompile Include="preprocessor_define.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="전처리기_매크로함수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_macro_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
