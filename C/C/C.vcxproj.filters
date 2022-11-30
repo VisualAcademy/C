@@ -87,5 +87,14 @@
     <ClCompile Include="preprocessor_macro_function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="function_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="goto_calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char_array_quiz.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
