@@ -183,5 +183,8 @@
     <ClCompile Include="포인터_실수형.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_문자배열.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
