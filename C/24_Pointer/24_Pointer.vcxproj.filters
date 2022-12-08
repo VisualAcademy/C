@@ -186,5 +186,8 @@
     <ClCompile Include="포인터_문자배열.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="포인터배열_요일출력.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
