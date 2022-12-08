@@ -180,5 +180,8 @@
     <ClCompile Include="값형변수와참조형변수차이.c">
       <Filter>Source Files\docs\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_실수형.c">
+      <Filter>Source Files\docs\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
