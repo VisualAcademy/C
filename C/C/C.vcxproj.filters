@@ -99,5 +99,8 @@
     <ClCompile Include="pointer_array_week.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="address_of_operator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
