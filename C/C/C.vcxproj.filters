@@ -102,5 +102,8 @@
     <ClCompile Include="address_of_operator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strstr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
