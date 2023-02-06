@@ -105,5 +105,8 @@
     <ClCompile Include="strstr.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strtok_demo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
