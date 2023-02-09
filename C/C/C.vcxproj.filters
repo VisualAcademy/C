@@ -198,5 +198,8 @@
     <ClCompile Include="function_pointer_demo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="function_pointer_return.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
