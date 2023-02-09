@@ -186,5 +186,11 @@
     <ClCompile Include="struct_clone.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_padding.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
