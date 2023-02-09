@@ -222,5 +222,14 @@
     <ClCompile Include="file_fputs.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_fwrite.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fgets.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fread.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
