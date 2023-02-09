@@ -240,5 +240,8 @@
     <ClCompile Include="pound_to_kg.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="feet_to_cm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
