@@ -138,5 +138,8 @@
     <ClCompile Include="lcm.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="camerautra.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
