@@ -111,5 +111,11 @@
     <ClCompile Include="scanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="distance.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quicksort_string_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
