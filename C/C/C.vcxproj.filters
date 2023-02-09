@@ -120,5 +120,14 @@
     <ClCompile Include="qsort_string_sort.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="qsort_demo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="qsort_sort.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bsearch_demo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
