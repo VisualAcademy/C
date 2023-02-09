@@ -183,5 +183,8 @@
     <ClCompile Include="struct_array_parameter.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_clone.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
