@@ -147,5 +147,20 @@
     <ClCompile Include="difftime_demo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="difftime_seconds.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="difftime_hours.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="d_day.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="number_of_words.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="number_of_spaces.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
