@@ -231,5 +231,14 @@
     <ClCompile Include="file_fread.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="inches_centimeters.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pyung_to_sqm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pound_to_kg.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
