@@ -165,5 +165,11 @@
     <ClCompile Include="struct_bit_fields.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_malloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_array_malloc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
