@@ -141,5 +141,11 @@
     <ClCompile Include="camerautra.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="time_localtime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="difftime_demo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
