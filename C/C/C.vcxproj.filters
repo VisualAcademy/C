@@ -207,5 +207,20 @@
     <ClCompile Include="function_pointer_struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="function_pointer_parameter.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="function_pointer_returnvalue.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fputc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fgetc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fputs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
