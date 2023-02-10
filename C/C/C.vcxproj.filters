@@ -288,5 +288,8 @@
     <ClCompile Include="math_ceil_floor.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="gcd_lcm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
