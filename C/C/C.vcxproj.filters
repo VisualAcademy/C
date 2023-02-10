@@ -246,5 +246,8 @@
     <ClCompile Include="baseball.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_fscanf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
