@@ -258,5 +258,11 @@
     <ClCompile Include="file_filesize.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_fopen_fread.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_read_filesize.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
