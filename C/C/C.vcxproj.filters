@@ -291,5 +291,11 @@
     <ClCompile Include="gcd_lcm.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="deposit_calculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="savings_calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
