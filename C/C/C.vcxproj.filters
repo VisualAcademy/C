@@ -249,5 +249,14 @@
     <ClCompile Include="file_fscanf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_reverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_ftell.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_filesize.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
