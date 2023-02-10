@@ -264,5 +264,17 @@
     <ClCompile Include="file_read_filesize.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_exist.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_directory_exist.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="random_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="random_float.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
