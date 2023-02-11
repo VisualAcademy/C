@@ -297,5 +297,8 @@
     <ClCompile Include="savings_calc.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_strlwr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
