@@ -309,5 +309,8 @@
     <ClCompile Include="convert_number_to_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="is_palindrome.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
