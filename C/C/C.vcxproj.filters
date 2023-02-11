@@ -306,5 +306,8 @@
     <ClCompile Include="convert_sprintf.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="convert_number_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
