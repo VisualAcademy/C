@@ -324,5 +324,14 @@
     <ClCompile Include="reverse_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="judge_factorial.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="judge_palindrome.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="void_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
