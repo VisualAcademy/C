@@ -315,5 +315,14 @@
     <ClCompile Include="pow_recursive.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="recursive_fibonacci.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="recursive_sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
