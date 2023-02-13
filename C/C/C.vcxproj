@@ -386,6 +386,7 @@
     <ClCompile Include="strchr_strrchr_note.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="strchr_strrchr_quiz.c" />
     <ClCompile Include="string_strlwr.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
