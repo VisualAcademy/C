@@ -1,4 +1,4 @@
-// strstr 함수로 문자열에서 문자열 찾기 
+//[?] strstr 함수로 문자열에서 문자열 찾기 
 #include <string.h>
 #include <stdio.h>
 
