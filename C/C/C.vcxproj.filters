@@ -336,5 +336,8 @@
     <ClCompile Include="strstr_ppt.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strstr_quiz.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
