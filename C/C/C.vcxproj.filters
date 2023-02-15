@@ -351,5 +351,8 @@
     <ClCompile Include="포인터연습_메모리할당.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="DDay구하기(mktime).c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
