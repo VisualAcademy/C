@@ -354,5 +354,11 @@
     <ClCompile Include="DDay구하기(mktime).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="날짜및시간을문자열로출력(ctime).c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="C 언어로 현재 날짜와 시간을 문자열로 출력하는 예제.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
