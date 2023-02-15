@@ -345,5 +345,8 @@
     <ClCompile Include="strchr_strrchr_quiz.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_정리.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
