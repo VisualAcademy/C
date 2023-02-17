@@ -366,5 +366,14 @@
     <ClCompile Include="포인터확장.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터연산1.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="c-language.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_operation_increment_decrement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
