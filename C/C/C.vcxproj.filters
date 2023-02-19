@@ -384,5 +384,8 @@
     <ClCompile Include="포인터_실수형.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_정수형1.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
