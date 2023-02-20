@@ -390,5 +390,11 @@
     <ClCompile Include="포인터_정수형2.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_다중문자열입력.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="array_multi_strings.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
