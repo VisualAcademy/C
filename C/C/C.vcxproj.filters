@@ -405,5 +405,11 @@
     <ClCompile Include="pointer_array_two.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_문자열이중포인터.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_strings_refs.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
