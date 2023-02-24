@@ -426,5 +426,11 @@
     <ClCompile Include="pointer_array_toupper_tolower.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터배열을함수에서사용.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_print_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
