@@ -423,5 +423,8 @@
     <ClCompile Include="포인터배열_대소문자치환.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_array_toupper_tolower.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
