@@ -441,5 +441,11 @@
     <ClCompile Include="pointer_integer_array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_복수문자열입력.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_strings_input.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
