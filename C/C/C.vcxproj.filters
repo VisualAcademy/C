@@ -420,5 +420,8 @@
     <ClCompile Include="포인터사용복수문자열입력.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터배열_대소문자치환.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
