@@ -432,5 +432,8 @@
     <ClCompile Include="pointer_print_array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_이중포인터.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
