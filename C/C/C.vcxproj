@@ -505,6 +505,7 @@
     <ClCompile Include="날짜및시간을문자열로출력(ctime).c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="포인터.c" />
     <ClCompile Include="포인터_다중문자열입력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
