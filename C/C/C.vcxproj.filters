@@ -462,5 +462,14 @@
     <ClCompile Include="포인터.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="정보처리산업기사20080706.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="열거형_요일나타내기.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="enum_day_of_week.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
