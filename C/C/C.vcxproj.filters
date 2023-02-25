@@ -453,5 +453,11 @@
     <ClCompile Include="pointerarray.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터를함수에서사용.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_function_parameter.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
