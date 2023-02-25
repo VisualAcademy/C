@@ -471,5 +471,8 @@
     <ClCompile Include="enum_day_of_week.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="해시테이블.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
