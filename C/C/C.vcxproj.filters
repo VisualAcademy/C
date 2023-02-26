@@ -477,5 +477,20 @@
     <ClCompile Include="전처리기2.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="기억클래스_레지스터변수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="register.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기억클래스_외부변수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="기억클래스_외부변수2.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="external_variable.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
