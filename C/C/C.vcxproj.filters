@@ -474,5 +474,8 @@
     <ClCompile Include="해시테이블.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="전처리기2.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
