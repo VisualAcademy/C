@@ -495,5 +495,11 @@
     <ClCompile Include="포인터_정수형배열합.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_함수다중반환값.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_function_multi_return.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
