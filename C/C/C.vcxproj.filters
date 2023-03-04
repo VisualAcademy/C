@@ -501,5 +501,8 @@
     <ClCompile Include="pointer_function_multi_return.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="관계연산자.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
