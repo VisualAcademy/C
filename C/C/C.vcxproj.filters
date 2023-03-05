@@ -513,5 +513,8 @@
     <ClCompile Include="수열예제.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="순차연산자.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
