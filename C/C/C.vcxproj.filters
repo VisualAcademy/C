@@ -510,5 +510,8 @@
     <ClCompile Include="수학관련함수.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="수열예제.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
