@@ -525,5 +525,8 @@
     <ClCompile Include="에러의종류.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="반복문1.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
