@@ -531,6 +531,7 @@
     </ClCompile>
     <ClCompile Include="반복문1.c" />
     <ClCompile Include="반복문2.c" />
+    <ClCompile Include="반복문3.c" />
     <ClCompile Include="수열예제.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
