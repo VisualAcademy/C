@@ -534,5 +534,8 @@
     <ClCompile Include="반복문3.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="마름모출력.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
