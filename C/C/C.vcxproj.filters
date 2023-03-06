@@ -519,5 +519,8 @@
     <ClCompile Include="증감연산자_예제.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="증감연산자설명.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
