@@ -522,5 +522,8 @@
     <ClCompile Include="증감연산자설명.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="에러의종류.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
