@@ -552,5 +552,8 @@
     <ClCompile Include="조건문2.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="시프트연산자.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
