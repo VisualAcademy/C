@@ -546,5 +546,8 @@
     <ClCompile Include="공문단문복문.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="구간반복.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
