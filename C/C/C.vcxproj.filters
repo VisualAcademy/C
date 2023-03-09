@@ -555,5 +555,11 @@
     <ClCompile Include="시프트연산자.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="값형과참조형.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="call_by_value_and_reference.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
