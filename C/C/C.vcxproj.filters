@@ -561,5 +561,11 @@
     <ClCompile Include="call_by_value_and_reference.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구조체_성적처리.c">
+      <Filter>소스 파일\22_Struct</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_score.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
