@@ -573,5 +573,11 @@
     <ClCompile Include="string_case_conversion.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="가까운값.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="near_algorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
