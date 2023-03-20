@@ -582,5 +582,8 @@
     <ClCompile Include="이진검색사용하기(bsearch).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="binary_search_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
