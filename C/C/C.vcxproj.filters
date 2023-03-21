@@ -585,5 +585,8 @@
     <ClCompile Include="binary_search_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="point_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
