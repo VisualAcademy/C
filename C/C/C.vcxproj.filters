@@ -588,5 +588,14 @@
     <ClCompile Include="point_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="integer_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="point_example_typedef.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="anonymous_structure.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
