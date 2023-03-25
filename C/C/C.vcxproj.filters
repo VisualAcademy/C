@@ -603,5 +603,8 @@
     <ClCompile Include="구조체_자기참조구조체.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="self_ref_struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
