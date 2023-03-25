@@ -606,5 +606,8 @@
     <ClCompile Include="self_ref_struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array_pointer_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
