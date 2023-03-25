@@ -18,6 +18,13 @@ int main() {
     int i = 0;
     Score objScore[2];
 
+    /*
+    struct Score objScore[2] = {
+         {"홍길동",95,80,0,0.0},
+         {"백두산",80,100,0,0.0}
+    };
+    */
+
     // 구조체 형 배열 초기화 : scanf()
     for (i = 0; i < 2; i++) {
         printf("\n%d번째 이름 : ", i + 1);
