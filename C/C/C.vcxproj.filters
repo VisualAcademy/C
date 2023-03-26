@@ -609,5 +609,8 @@
     <ClCompile Include="array_pointer_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="thousands_separator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
