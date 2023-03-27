@@ -612,5 +612,8 @@
     <ClCompile Include="thousands_separator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="임의값출력.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
