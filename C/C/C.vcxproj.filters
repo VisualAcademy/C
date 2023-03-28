@@ -621,5 +621,8 @@
     <ClCompile Include="문자열거꾸로.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="문자열공백제거함수만들기.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
