@@ -642,5 +642,8 @@
     <ClCompile Include="variable_declaration_initialization.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="현재까지경과된초의수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
