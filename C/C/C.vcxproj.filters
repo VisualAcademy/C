@@ -636,5 +636,8 @@
     <ClCompile Include="pointer_string_output.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="변수선언초기화참조.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
