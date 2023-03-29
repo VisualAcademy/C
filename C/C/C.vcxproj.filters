@@ -630,5 +630,8 @@
     <ClCompile Include="사용자정의데이터형.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_문자열출력.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
