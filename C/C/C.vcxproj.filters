@@ -663,5 +663,11 @@
     <ClCompile Include="multiplication_table.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="레지스터변수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="register_sum_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
