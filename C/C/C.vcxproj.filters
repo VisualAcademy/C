@@ -657,5 +657,11 @@
     <ClCompile Include="memory_copy_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구구단.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="multiplication_table.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
