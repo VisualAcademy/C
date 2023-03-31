@@ -669,5 +669,11 @@
     <ClCompile Include="register_sum_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열길이.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="string_length_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
