@@ -654,5 +654,8 @@
     <ClCompile Include="메모리를복사하는함수.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="memory_copy_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
