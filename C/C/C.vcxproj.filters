@@ -648,5 +648,8 @@
     <ClCompile Include="seconds_since_epoch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="simple_login_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
