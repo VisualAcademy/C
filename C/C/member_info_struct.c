@@ -1,5 +1,5 @@
 /*
-	8.1.1. 예제. 구조체를 사용한 회원 정보 : 구조체.c
+	구조체를 사용한 회원 정보 : member_info_struct.c
 */
 #include <stdio.h>
 
@@ -20,10 +20,8 @@ int main()
 	// 구조체 초기화
 	objMember.name = "지호";
 	objMember.addr = "서울";
-	objMember.birth = "050505";
+	objMember.birth = "050527";
 	objMember.tel = "114";
-
-	//clrscr();
 
 	// 구조체 참조
 	printf("이름: %s\n", objMember.name);
