@@ -681,5 +681,8 @@
     <ClCompile Include="member_info_struct.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구조체_중첩구조체.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
