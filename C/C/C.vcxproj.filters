@@ -675,5 +675,11 @@
     <ClCompile Include="string_length_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구조체_회원정보.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="member_info_struct.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
