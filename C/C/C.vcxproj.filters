@@ -696,5 +696,8 @@
     <ClCompile Include="struct_member_offset_using_offsetof.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="initialize_struct_with_memset.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
