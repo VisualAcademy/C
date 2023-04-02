@@ -693,5 +693,8 @@
     <ClCompile Include="struct_member_alignment_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_member_offset_using_offsetof.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
