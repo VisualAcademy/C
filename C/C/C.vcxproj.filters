@@ -699,5 +699,8 @@
     <ClCompile Include="initialize_struct_with_memset.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="체중관리프로그램.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
