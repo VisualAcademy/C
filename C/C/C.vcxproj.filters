@@ -711,5 +711,8 @@
     <ClCompile Include="조건문1.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="최빈값2.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
