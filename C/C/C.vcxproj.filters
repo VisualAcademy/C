@@ -717,5 +717,11 @@
     <ClCompile Include="mode_algorithm_c.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="최솟값_포인터.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="min_value_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
