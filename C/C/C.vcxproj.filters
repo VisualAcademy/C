@@ -726,5 +726,8 @@
     <ClCompile Include="이진검색.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="binary_search_c.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
