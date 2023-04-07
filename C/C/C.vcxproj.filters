@@ -729,5 +729,11 @@
     <ClCompile Include="binary_search_c.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="세계표준시(gmtime).c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="world_standard_time.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
