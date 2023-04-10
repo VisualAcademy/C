@@ -738,5 +738,8 @@
     <ClCompile Include="문자상수.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="year_to_dhms.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
