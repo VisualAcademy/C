@@ -753,5 +753,8 @@
     <ClCompile Include="sequential_search.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="피보나치수열.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
