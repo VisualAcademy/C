@@ -4,7 +4,7 @@
 	이를 개선한 데이터 구조가 이중 연결 리스트이다.
 */
 #include <stdio.h>
-#include <malloc.h>
+#include <stdlib.h>
 #include <string.h>
 
 // 이중 연결 링크드 리스트용 구조체
@@ -87,6 +87,14 @@ int main(void)
 
 	printf("%s %s\n", current->Name, current->Phone);
 	current = current->PrevNode;
+
+	// 메모리 해제
+	while (head != NULL)
+	{
+		current = head;
+		head = head->NextNode;
+		free(current);
+	}
 }
 
 // 구조체 크기만큼 메모리 할당
