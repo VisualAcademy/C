@@ -771,5 +771,8 @@
     <ClCompile Include="포인터_복수문자열입력2.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="포인터_포인터배열초기화.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
