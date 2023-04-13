@@ -774,5 +774,8 @@
     <ClCompile Include="포인터_포인터배열초기화.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_array_initialization.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

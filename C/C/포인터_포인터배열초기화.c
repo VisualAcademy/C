@@ -4,9 +4,8 @@
 int main(void)
 {
     const char* a[] = { "아빠", "엄마", "아들", "공주" }; 
-    int i;
 
-    for (i = 0; i < 4; i++)
+    for (int i = 0; i < 4; i++)
     {
         printf("%s\n", a[i]);
     }
