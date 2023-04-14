@@ -2,11 +2,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#define ARR_SIZE 3
 
 int main(void)
 {
-#define ARR_SIZE 3
-
     // 포인터 배열 선언
     char* a[ARR_SIZE];
 
