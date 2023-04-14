@@ -718,6 +718,7 @@
     <ClCompile Include="반복문3.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="반올림함수만들기_반올림올림내림.c" />
     <ClCompile Include="변수선언초기화참조.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
