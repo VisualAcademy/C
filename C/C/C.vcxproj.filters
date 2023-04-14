@@ -795,5 +795,8 @@
     <ClCompile Include="문자열처리.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="string_array_input.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
