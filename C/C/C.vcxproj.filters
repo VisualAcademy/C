@@ -780,5 +780,8 @@
     <ClCompile Include="반올림함수만들기_반올림올림내림.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="rounding_calculations.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
