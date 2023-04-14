@@ -783,5 +783,14 @@
     <ClCompile Include="rounding_calculations.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="일차원배열1.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="input-3-numbers-calculate-sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sum_of_three_integers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
