@@ -813,5 +813,8 @@
     <ClCompile Include="함수포인터.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="function_pointer_calc.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
