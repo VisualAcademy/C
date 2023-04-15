@@ -801,5 +801,8 @@
     <ClCompile Include="포인터분석.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="pointer_array_relationship.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
