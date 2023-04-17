@@ -847,6 +847,7 @@
     <ClCompile Include="포인터_다중문자열입력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="포인터_메모리할당및재할당.c" />
     <ClCompile Include="포인터_문자열이중포인터.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
