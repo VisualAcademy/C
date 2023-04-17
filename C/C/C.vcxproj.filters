@@ -828,5 +828,8 @@
     <ClCompile Include="function_return_value_sum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="반복문.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
