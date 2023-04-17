@@ -837,5 +837,8 @@
     <ClCompile Include="함수_가변형매개변수.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="custom_printf.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
