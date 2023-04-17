@@ -825,7 +825,7 @@
     <ClCompile Include="반환값이있는함수.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
-    <ClCompile Include="function_return_value.c">
+    <ClCompile Include="function_return_value_sum.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

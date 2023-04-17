@@ -307,7 +307,7 @@
     <ClCompile Include="function_pointer_struct.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="function_return_value.c" />
+    <ClCompile Include="function_return_value_sum.c" />
     <ClCompile Include="gcd.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
