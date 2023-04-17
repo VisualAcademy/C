@@ -822,5 +822,8 @@
     <ClCompile Include="power_calculator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="반환값이있는함수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
