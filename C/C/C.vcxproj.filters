@@ -846,5 +846,8 @@
     <ClCompile Include="celsius_to_fahrenheit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="area_of_circle.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
