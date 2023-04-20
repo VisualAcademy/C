@@ -849,5 +849,8 @@
     <ClCompile Include="area_of_circle.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="multiplication_table_input.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
