@@ -855,5 +855,8 @@
     <ClCompile Include="sum_of_natural_numbers.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="factorial_calculation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
