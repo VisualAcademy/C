@@ -843,5 +843,8 @@
     <ClCompile Include="sum_of_two_integers.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="celsius_to_fahrenheit.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
