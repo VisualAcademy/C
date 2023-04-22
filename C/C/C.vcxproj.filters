@@ -861,5 +861,8 @@
     <ClCompile Include="max_and_min_of_array.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="celsius_to_fahrenheit_with_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
