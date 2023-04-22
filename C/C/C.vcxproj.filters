@@ -858,5 +858,8 @@
     <ClCompile Include="factorial_calculation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="max_and_min_of_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
