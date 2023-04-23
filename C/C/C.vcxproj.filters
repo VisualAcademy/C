@@ -864,5 +864,8 @@
     <ClCompile Include="celsius_to_fahrenheit_with_function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bubble_sort_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
