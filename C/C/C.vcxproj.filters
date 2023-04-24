@@ -873,5 +873,8 @@
     <ClCompile Include="stack_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="reverse_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
