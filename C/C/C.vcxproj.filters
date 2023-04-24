@@ -876,5 +876,11 @@
     <ClCompile Include="reverse_number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="using_struct_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="distance_between_points.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
