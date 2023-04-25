@@ -882,5 +882,8 @@
     <ClCompile Include="distance_between_points.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="공용체사용하기.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
