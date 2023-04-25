@@ -7,11 +7,11 @@ typedef union Variable
 {
 	int i;
 	double d;
-}var;
+} Var;
 
-void main(void)
+int main(void)
 {
-	var va;
+	Var va;
 
 	va.i = 5;
 
@@ -22,4 +22,6 @@ void main(void)
 	printf("va.d의 값 : %f\n", va.d);
 
 	printf("va.i의 값 : %d\n", va.i);
+
+	return 0;
 }
