@@ -885,5 +885,8 @@
     <ClCompile Include="공용체사용하기.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="variable_union.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
