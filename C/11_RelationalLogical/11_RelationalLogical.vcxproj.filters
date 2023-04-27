@@ -8,5 +8,6 @@
     <ClCompile Include="LogicalOr.c" />
     <ClCompile Include="OrOperator.c" />
     <ClCompile Include="LogicalNot.c" />
+    <ClCompile Include="논리연산자2.c" />
   </ItemGroup>
 </Project>
