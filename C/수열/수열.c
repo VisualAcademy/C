@@ -1,3 +1,4 @@
+// File: D:\C\C\C\수열\수열.c
 /*
 1/2 - 2/3 + 3/4 - 4/5 + ... 99/100 = ?
 */
@@ -5,21 +6,21 @@
 
 int main(void)
 {
-    //[1] Input
-    double dblSum = 0;
-    int i = 0;
-    //[2] Process
-    for (i = 1; i <= 99; i++)
+    // Input
+    double sum = 0;
+    // Process
+    for (int i = 1; i <= 99; i++)
     {
         if (i % 2 == 1)
         {
-            dblSum += i / (double)(i + 1);//홀수일때
+            sum += i / (double)(i + 1);//odd numbers
         }
         else
         {
-            dblSum -= i / (double)(i + 1);//짝수일때     
+            sum -= i / (double)(i + 1);//even numbers     
         }
     }
-    //[3] Output
-    printf("1/2 - 2/3 + ... 99/100 = %.4f\n", dblSum);
+    // Output
+    printf("1/2 - 2/3 + ... 99/100 = %.4f\n", sum);
+    return 0;
 }
