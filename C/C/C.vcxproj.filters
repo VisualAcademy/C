@@ -915,5 +915,8 @@
     <ClCompile Include="file_write.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="check_file_existence.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
