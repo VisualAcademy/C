@@ -909,5 +909,11 @@
     <ClCompile Include="file_read.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_read_create.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="file_write.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
