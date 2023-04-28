@@ -903,5 +903,8 @@
     <ClCompile Include="메모리채우기(memset).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="alternate_sequence_sum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
