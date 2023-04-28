@@ -22,8 +22,8 @@ void main(void)
     }
 
     //[3] Output
-    printf("°á±£°ª : %d\n", sum);//13
-    printf("°á±£°ª : %d\n", (1 - 2 + 4 - 7 + 11 - 16 + 22));//13
+    printf("°á±£°ª: %d\n", sum);//13
+    printf("°á±£°ª: %d\n", (1 - 2 + 4 - 7 + 11 - 16 + 22));//13
 
     return 0;
 }
