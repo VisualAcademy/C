@@ -927,5 +927,8 @@
     <ClCompile Include="file_write_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="count_words_in_file.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
