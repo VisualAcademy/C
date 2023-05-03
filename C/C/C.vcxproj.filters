@@ -939,5 +939,8 @@
     <ClCompile Include="linear_search.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dynamic_memory_allocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
