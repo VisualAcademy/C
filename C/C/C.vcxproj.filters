@@ -960,5 +960,11 @@
     <ClCompile Include="memory_class_automatic_and_static_variables.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="문자열포인터.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="출력문.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
