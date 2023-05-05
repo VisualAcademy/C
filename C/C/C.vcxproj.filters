@@ -954,5 +954,11 @@
     <ClCompile Include="circle_area.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="기억클래스_자동변수와정적변수.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
+    <ClCompile Include="memory_class_automatic_and_static_variables.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
