@@ -966,5 +966,8 @@
     <ClCompile Include="출력문.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="square_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
