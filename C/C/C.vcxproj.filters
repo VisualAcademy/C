@@ -972,5 +972,8 @@
     <ClCompile Include="string_length.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="realloc_memory.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
