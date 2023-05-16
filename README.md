@@ -10,6 +10,8 @@ http://www.devlec.com
 
 https://www.visualacademy.com
 
-## 다음 2개의 동영상을 필수로 먼저 본 후 이 리포지토리의 소스를 활용하세요.
+## 다음 3개의 동영상을 필수로 먼저 본 후 이 리포지토리의 소스를 활용하세요.
 
+https://youtu.be/Ldq4PB2_7Ys
+https://youtu.be/FGUE_dOFa50
 https://youtu.be/qmYccuwU7rs
