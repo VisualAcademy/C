@@ -987,5 +987,8 @@
     <ClCompile Include="string_copy.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bubble_sort_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
