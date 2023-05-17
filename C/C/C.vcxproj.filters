@@ -993,5 +993,8 @@
     <ClCompile Include="qsort_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="qsort_fruits.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
