@@ -40,7 +40,7 @@ void bubble_sort(int arr[], int size)
 int main(void)
 {
     // 정렬할 정수 배열
-    int arr[] = { 34, 12, 45, 8, 21, 17 };
+    int arr[] = { 34, 12, 45, 8, 21 };
 
     // 배열의 크기 계산
     int size = sizeof(arr) / sizeof(arr[0]);
