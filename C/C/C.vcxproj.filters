@@ -996,5 +996,8 @@
     <ClCompile Include="qsort_fruits.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="min_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
