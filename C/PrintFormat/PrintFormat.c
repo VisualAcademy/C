@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main(void)
 {
     printf("%d\n", 360);        // 정수
     printf("%f\n", 3.14);       // 실수 
@@ -18,4 +18,6 @@ main()
     printf("%05d\n", 360);      // 0으로 공백 채우기 
     printf("%+05d\n", 360);     // 부호 기호 추가 + 0으로 공백 채우기 
     printf("%+07.3f\n", 3.14);  // 부호 기호 추가 + 0으로 공백 채우기 
+
+    return 0;
 }
