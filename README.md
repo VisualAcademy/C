@@ -2,6 +2,12 @@
 
 C 언어 책 및 강의 소스 모음
 
+## 무료 C 언어 동영상 강의
+
+🟢 C 언어 시작하기 유튜브 재생 목록:
+
+https://www.youtube.com/playlist?list=PLgkuB5UT1cgib_eb_eorNbysxJx5-pzui
+
 ## 데브렉 C/C++ 강의 소스 모음
 
 http://www.devlec.com
