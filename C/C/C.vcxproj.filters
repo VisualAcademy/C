@@ -999,5 +999,8 @@
     <ClCompile Include="min_max.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linked_list_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
