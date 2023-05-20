@@ -54,5 +54,10 @@ int main(void)
         node = node->next;           // 다음 노드로 이동합니다.
     }
 
+    // 링크드 리스트의 메모리를 해제합니다.
+    free(firstNode);   // 첫 번째 노드의 메모리를 해제합니다.
+    free(secondNode);  // 두 번째 노드의 메모리를 해제합니다.
+    free(thirdNode);   // 세 번째 노드의 메모리를 해제합니다.
+
     return 0;
 }
