@@ -11,8 +11,9 @@ typedef struct Node
 
 int main(void)
 {
-    Node* head = NULL;      // 연결 리스트의 헤드 노드 초기화
-    Node* new_node, * temp; // 새 노드와 임시 노드 포인터 선언
+    Node* head = NULL;  // 연결 리스트의 헤드 노드 초기화
+    Node* new_node;     // 새 노드 포인터 선언
+    Node* temp;         // 임시 노드 포인터 선언
     int num;
 
     printf("정수를 입력하세요(0을 입력하면 종료): ");
@@ -20,6 +21,11 @@ int main(void)
     {
         // 새 노드 생성 및 초기화
         new_node = (Node*)malloc(sizeof(Node));
+        if (new_node == NULL) // malloc이 NULL을 반환한 경우 예외 처리
+        {
+            printf("메모리 할당 실패\n");
+            return 1; // 메모리 할당에 실패했으므로 비정상 종료
+        }
         new_node->data = num;
         new_node->next = NULL;
 
