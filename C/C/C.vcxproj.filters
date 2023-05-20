@@ -1002,5 +1002,8 @@
     <ClCompile Include="linked_list_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="simple_linked_list.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
