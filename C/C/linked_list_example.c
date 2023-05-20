@@ -45,10 +45,9 @@ void print_list(struct Node* n)
 {
     while (n != NULL)
     {
-        printf(" %d ", n->data);
+        printf("%d\n", n->data);
         n = n->next;
     }
-    printf("\n");
 }
 
 /** @brief 프로그램의 진입점인 main 함수.
