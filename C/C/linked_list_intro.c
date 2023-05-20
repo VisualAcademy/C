@@ -5,7 +5,7 @@
 struct Node
 {
     int data;  // 노드가 저장할 데이터
-    struct Node* next;  // 다음 노드를 가리키는 포인터
+    struct Node* next;  // 다음 노드를 가리키는 포인터(자기 참조 구조체)
 };
 
 int main(void)
