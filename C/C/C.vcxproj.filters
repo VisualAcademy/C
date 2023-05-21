@@ -1008,5 +1008,8 @@
     <ClCompile Include="linked_list_intro.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="linked_list_extended.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
