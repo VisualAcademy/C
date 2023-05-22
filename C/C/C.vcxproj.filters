@@ -1011,5 +1011,8 @@
     <ClCompile Include="linked_list_extended.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="find_max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
