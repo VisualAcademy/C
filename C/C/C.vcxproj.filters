@@ -1017,5 +1017,8 @@
     <ClCompile Include="find_min.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prime_number.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
