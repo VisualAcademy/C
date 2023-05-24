@@ -1020,5 +1020,8 @@
     <ClCompile Include="prime_number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_compare.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
