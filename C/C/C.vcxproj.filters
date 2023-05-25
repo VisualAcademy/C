@@ -1038,5 +1038,11 @@
     <ClCompile Include="3d_array_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="string_length_and_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="fgets_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
