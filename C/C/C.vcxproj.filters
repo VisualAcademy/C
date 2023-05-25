@@ -1026,5 +1026,8 @@
     <ClCompile Include="string_concatenate.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="calculate_2d_array_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
