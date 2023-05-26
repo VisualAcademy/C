@@ -1044,5 +1044,8 @@
     <ClCompile Include="fgets_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="reverse_str.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
