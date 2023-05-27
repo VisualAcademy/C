@@ -1050,5 +1050,8 @@
     <ClCompile Include="reverse_str_strrev.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="swap_numbers.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
