@@ -1059,5 +1059,8 @@
     <ClCompile Include="struct_pointer_access.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
