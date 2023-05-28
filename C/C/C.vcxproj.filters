@@ -1083,5 +1083,11 @@
     <ClCompile Include="union_alias.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="endian_check.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_vs_union.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
