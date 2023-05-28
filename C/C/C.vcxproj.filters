@@ -1074,5 +1074,14 @@
     <ClCompile Include="union_share.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="union_binary.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="union_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="union_alias.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
