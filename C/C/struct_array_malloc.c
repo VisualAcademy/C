@@ -37,7 +37,8 @@ int main(void)
 
     // 책 정보 출력
     for (i = 0; i < n; ++i)
-        printf("제목: %s  저자: %s  페이지 수: %d\n", (book + i)->title, (book + i)->author, (book + i)->pages);
+        printf("제목: %s  저자: %s  페이지 수: %d\n", 
+            (book + i)->title, (book + i)->author, (book + i)->pages);
 
     free(book);  // 메모리 해제
 
