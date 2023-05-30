@@ -1098,5 +1098,8 @@
     <ClCompile Include="file_read_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fprintf_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
