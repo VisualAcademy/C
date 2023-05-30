@@ -1104,5 +1104,8 @@
     <ClCompile Include="fscanf_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="memory_allocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
