@@ -1,45 +1,45 @@
-#define _CRT_SECURE_NO_WARNINGS 
+#define _CRT_SECURE_NO_WARNINGS // 경고 무시
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
-struct Book
+typedef struct  // 책 구조체 정의
 {
     char title[50];
     char author[50];
     int pages;
-};
+} Book;
 
 int main(void)
 {
-    struct Book* book;
+    Book* book;  // 책 포인터
     int n, i;
 
-    printf("Enter the number of books: ");
-    scanf("%d", &n);
+    printf("책의 개수를 입력하세요: ");
+    scanf("%d", &n);  // 책 개수 입력
 
-    /* 동적 할당 */
-    book = (struct Book*)malloc(n * sizeof(struct Book));
-    if (book == NULL)
+    // 메모리 할당
+    book = (Book*)malloc(n * sizeof(Book));
+    if (book == NULL)  // 메모리 할당 확인
     {
-        printf("Error! memory not allocated.");
+        printf("오류! 메모리가 할당되지 않았습니다.");
         exit(0);
     }
 
-    /* 구조체에 정보 입력 */
+    // 책 정보 입력
     for (i = 0; i < n; ++i)
     {
-        printf("Enter the title, author, and pages of book %d: ", i + 1);
-        scanf("%s", (book + i)->title);
-        scanf("%s", (book + i)->author);
-        scanf("%d", &(book + i)->pages);
+        printf("책 %d의 제목, 저자, 페이지 수를 입력하세요 (예: 코딩 레드 300): ", i + 1);
+        scanf("%s %s %d", (book + i)->title, (book + i)->author, &(book + i)->pages);
     }
 
-    printf("Displaying Information:\n");
+    printf("정보 표시:\n");
 
-    /* 구조체 정보 출력 */
+    // 책 정보 출력
     for (i = 0; i < n; ++i)
-        printf("Title: %s  Author: %s  Pages: %d\n", (book + i)->title, (book + i)->author, (book + i)->pages);
+        printf("제목: %s  저자: %s  페이지 수: %d\n", (book + i)->title, (book + i)->author, (book + i)->pages);
+
+    free(book);  // 메모리 해제
 
     return 0;
 }
