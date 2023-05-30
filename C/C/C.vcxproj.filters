@@ -1116,5 +1116,8 @@
     <ClCompile Include="print_array_example.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dynamic_struct_allocation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
