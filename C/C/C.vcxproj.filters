@@ -1125,5 +1125,8 @@
     <ClCompile Include="split_double_into_integer_fraction.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="distance_between_two_points.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
