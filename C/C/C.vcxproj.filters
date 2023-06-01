@@ -1128,5 +1128,8 @@
     <ClCompile Include="distance_between_two_points.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="macro_definition.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
