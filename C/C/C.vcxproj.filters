@@ -1134,5 +1134,11 @@
     <ClCompile Include="macro_null.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="define_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="macro_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
