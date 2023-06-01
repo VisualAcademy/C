@@ -1122,5 +1122,8 @@
     <ClCompile Include="random_number_generator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="split_double_into_integer_fraction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
