@@ -1119,5 +1119,8 @@
     <ClCompile Include="dynamic_struct_allocation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="random_number_generator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
