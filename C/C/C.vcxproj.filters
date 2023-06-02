@@ -1152,6 +1152,12 @@
     <ClCompile Include="global_variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="extern_global.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="extern_main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
