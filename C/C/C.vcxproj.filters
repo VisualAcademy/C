@@ -1158,6 +1158,9 @@
     <ClCompile Include="extern_main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="auto_specifier.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
