@@ -1185,6 +1185,12 @@
     <ClCompile Include="example_tmpfile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="queue_array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queue_linkedlist.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
