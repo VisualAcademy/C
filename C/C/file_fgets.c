@@ -1,24 +1,23 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
+#define MAX 100
 
 int main(void)
 {
-    FILE* fp;
-    char str[100];
-
-    fp = fopen("input.txt", "r"); // "input.txt" 파일을 읽기 모드로 열기
-    if (fp == NULL)
+    FILE* file = fopen("test.txt", "r");
+    if (file == NULL)
     {
-        printf("Error: 파일을 열 수 없습니다.\n");
+        printf("파일을 열 수 없습니다.\n");
         return 1;
     }
 
-    // fgets 함수 사용
-    while (fgets(str, 100, fp) != NULL)
+    char str[MAX];
+    while (fgets(str, MAX, file) != NULL)
     {
         printf("%s", str);
     }
 
-    fclose(fp);
-
+    fclose(file);
     return 0;
 }
