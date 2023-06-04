@@ -13,11 +13,11 @@ int main(void)
     char str[] = "Hello, World!";
     if (fputs(str, file) != EOF)
     {
-        printf("파일 쓰기에 성공했습니다.\n");
+        printf("파일에 문자열을 성공적으로 썼습니다.\n");
     }
     else
     {
-        printf("파일 쓰기에 실패했습니다.\n");
+        printf("파일에 문자열 쓰기를 실패했습니다.\n");
         return 1;
     }
 
