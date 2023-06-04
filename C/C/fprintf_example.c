@@ -3,16 +3,16 @@
 
 int main(void)
 {
-    FILE* file = fopen("test.txt", "w");
+    FILE* file = fopen("output.txt", "w");
     if (file == NULL)
     {
         printf("파일을 열 수 없습니다.\n");
         return 1;
     }
 
-    char str[] = "Hello, World!";
-    int count = 12;
-    fprintf(file, "%s has %d characters.\n", str, count);
+    char str[] = "안녕하세요";
+    int count = 6;
+    fprintf(file, "%s는 %d글자입니다.\n", str, count);
 
     fclose(file);
     return 0;
