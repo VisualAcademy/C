@@ -1173,6 +1173,9 @@
     <ClCompile Include="file_partial_read_write.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="file_read_limited_buffer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
