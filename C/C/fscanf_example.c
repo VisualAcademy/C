@@ -10,10 +10,10 @@ int main(void)
         return 1;
     }
 
-    int count;
     char str[100];
-    fscanf(file, "%s %d", str, &count);
-    printf("%s는 %d개의 문자를 가지고 있습니다.\n", str, count);
+    int count;
+    fscanf(file, "%99s은(는) %d개의 문자를 가지고 있습니다.\n", str, &count);
+    printf("%s은(는) %d개의 문자를 가지고 있습니다.\n", str, count);
 
     fclose(file);
     return 0;
