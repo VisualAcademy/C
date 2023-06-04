@@ -1,1 +1,2 @@
-10 3.14 20 Hello, World!
+Hello, World!
+C 언어 파일 입출력 예제입니다.
