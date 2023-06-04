@@ -1,16 +1,13 @@
 #define _CRT_SECURE_NO_WARNINGS 
 #include <stdio.h>
 
-// 함수 프로토타입
 int add(int a, int b);
 int subtract(int a, int b);
 int multiply(int a, int b);
 int divide(int a, int b);
 
-// 함수 포인터 타입 정의
 typedef int (*math_operation)(int, int);
 
-// 함수 포인터를 반환하는 함수
 math_operation select_operation(char op)
 {
     switch (op) {
@@ -33,19 +30,19 @@ int main(void)
     char op;
     math_operation operation;
 
-    printf("Enter two numbers and an operator (+, -, *, /): ");
+    printf("두 수와 연산자 (+, -, *, /)를 입력하세요: ");
     scanf("%d %d %c", &a, &b, &op);
 
     operation = select_operation(op);
 
     if (operation == NULL)
     {
-        printf("Invalid operator\n");
+        printf("잘못된 연산자입니다.\n");
         return 1;
     }
 
     int result = operation(a, b);
-    printf("Result: %d\n", result);
+    printf("결과: %d\n", result);
 
     return 0;
 }
