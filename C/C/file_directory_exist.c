@@ -4,8 +4,11 @@
 
 bool is_dir_exists(const char* path)
 {
-    struct stat sb;
-    return stat(path, &sb) == 0 && S_ISDIR(sb.st_mode);
+    struct _stat sb;
+    if (_stat(path, &sb) != 0)
+        return false;
+
+    return (sb.st_mode & _S_IFDIR) != 0;
 }
 
 int main(int argc, char* argv[])
