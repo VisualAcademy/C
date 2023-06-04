@@ -1,4 +1,3 @@
-// ÆÄÀÏ¸í: function_pointer_struct.c
 #include <stdio.h>
 
 typedef struct Person
