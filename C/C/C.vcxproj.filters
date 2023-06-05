@@ -1197,6 +1197,9 @@
     <ClCompile Include="pointer_2d.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="dynamic_2d.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
