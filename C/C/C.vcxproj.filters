@@ -1206,6 +1206,12 @@
     <ClCompile Include="return_string_pointer.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="compare_strings.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="string_comparison_without_strcmp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
