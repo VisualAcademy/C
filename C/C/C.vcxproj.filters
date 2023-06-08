@@ -1215,6 +1215,9 @@
     <ClCompile Include="str_case_conv.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="char_increment_decrement.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
