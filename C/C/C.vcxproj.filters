@@ -1242,6 +1242,12 @@
     <ClCompile Include="address_book.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="compound_interest_calculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="savings_compound_calculator.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
