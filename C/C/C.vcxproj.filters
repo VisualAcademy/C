@@ -1230,6 +1230,12 @@
     <ClCompile Include="linked_list_stack.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="print_current_datetime.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="time_to_string.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
