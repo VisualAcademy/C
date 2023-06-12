@@ -1248,6 +1248,9 @@
     <ClCompile Include="savings_compound_calculator.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="remove_duplicates.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
