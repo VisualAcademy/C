@@ -1236,6 +1236,9 @@
     <ClCompile Include="time_to_string.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="date_string_to_time.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
