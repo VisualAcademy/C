@@ -1287,6 +1287,9 @@
     <ClCompile Include="string_concatenation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2gram.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
