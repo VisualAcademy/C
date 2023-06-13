@@ -1293,6 +1293,9 @@
     <ClCompile Include="ngram.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="4gram.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
