@@ -1272,6 +1272,9 @@
     <ClCompile Include="integer_palindrome.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="palindrome_with_space.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
