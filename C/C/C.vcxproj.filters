@@ -1263,6 +1263,9 @@
     <ClCompile Include="address_book_read.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="case_check.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
