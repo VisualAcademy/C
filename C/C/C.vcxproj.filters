@@ -1266,6 +1266,9 @@
     <ClCompile Include="case_check.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="character_classification.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
