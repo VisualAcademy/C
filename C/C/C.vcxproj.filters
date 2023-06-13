@@ -1251,6 +1251,9 @@
     <ClCompile Include="remove_duplicates.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strcspn_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
