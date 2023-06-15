@@ -3,18 +3,19 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Member와 Guild 구조체를 typedef를 사용하여 선언
+// 멤버 구조체
 typedef struct Member
 {
-    char name[50];
-    struct Member* next;
+    char name[50];    // 멤버 이름
+    struct Member* next;   // 다음 멤버를 가리키는 포인터
 } Member;
 
+// 길드 구조체
 typedef struct Guild
 {
-    char name[50];
-    Member* members;
-    struct Guild* next;
+    char name[50];    // 길드 이름
+    Member* members;  // 멤버 연결 리스트의 첫 번째 요소를 가리키는 포인터
+    struct Guild* next;   // 다음 길드를 가리키는 포인터
 } Guild;
 
 // 중첩 연결 리스트를 파일로 저장하는 함수
@@ -22,13 +23,13 @@ void save_guild(Guild* guild_list, FILE* file)
 {
     Guild* g = guild_list;
     Member* m;
-    while (g != NULL) // 길드 리스트를 순회
+    while (g != NULL)  // 길드 리스트를 순회
     {
-        fwrite(g->name, sizeof(char), 50, file); // 길드 이름을 파일에 저장
+        fwrite(g->name, sizeof(char), 50, file);  // 길드 이름을 파일에 저장
         m = g->members;
-        while (m != NULL) // 해당 길드의 멤버 리스트를 순회
+        while (m != NULL)  // 해당 길드의 멤버 리스트를 순회
         {
-            fwrite(m->name, sizeof(char), 50, file); // 멤버 이름을 파일에 저장
+            fwrite(m->name, sizeof(char), 50, file);  // 멤버 이름을 파일에 저장
             m = m->next;
         }
         g = g->next;
@@ -43,11 +44,59 @@ Guild* load_guild(FILE* file)
     Member* m = NULL;
     char name[50];
 
-    while (fread(name, sizeof(char), 50, file)) // 파일을 한 줄씩 읽음
+    // 파일에서 이름을 읽어와서 길드와 멤버를 생성하고, 연결 리스트에 추가
+    while (fread(name, sizeof(char), 50, file))
     {
-        // 구조체 인스턴스 생성 및 연결 리스트에 추가하는 과정
-        // 여기서 g는 현재 길드를, m은 현재 멤버를 가리킴
-        // 이름을 읽을 때마다 새로운 구조체 인스턴스를 만들고, 연결 리스트에 추가
+        if (g == NULL || (g != NULL && m != NULL && m->next == NULL))  // 새 길드 시작
+        {
+            // 새로운 길드 노드 생성 및 추가
+            Guild* new_guild = (Guild*)malloc(sizeof(Guild));
+            strcpy(new_guild->name, name);
+            new_guild->members = NULL;
+            new_guild->next = NULL;
+
+            // 첫 번째 길드 노드인 경우
+            if (guild_list == NULL)
+            {
+                guild_list = new_guild;
+            }
+            else  // 이미 길드 노드가 있는 경우
+            {
+                Guild* tmp = guild_list;
+                while (tmp->next != NULL)  // 마지막 노드를 찾아서
+                {
+                    tmp = tmp->next;
+                }
+                tmp->next = new_guild;  // 새 노드를 연결
+            }
+
+            g = new_guild;  // 현재 길드 업데이트
+            m = NULL;  // 현재 멤버 초기화
+        }
+        else  // 같은 길드 내의 멤버
+        {
+            // 새로운 멤버 노드 생성 및 추가
+            Member* new_member = (Member*)malloc(sizeof(Member));
+            strcpy(new_member->name, name);
+            new_member->next = NULL;
+
+            // 첫 번째 멤버 노드인 경우
+            if (g->members == NULL)
+            {
+                g->members = new_member;
+            }
+            else  // 이미 멤버 노드가 있는 경우
+            {
+                Member* tmp = g->members;
+                while (tmp->next != NULL)  // 마지막 노드를 찾아서
+                {
+                    tmp = tmp->next;
+                }
+                tmp->next = new_member;  // 새 노드를 연결
+            }
+
+            m = new_member;  // 현재 멤버 업데이트
+        }
     }
 
     return guild_list;
@@ -58,13 +107,13 @@ void print_guild(Guild* guild_list)
 {
     Guild* g = guild_list;
     Member* m;
-    while (g != NULL) // 길드 리스트를 순회
+    while (g != NULL)  // 길드 리스트를 순회
     {
-        printf("Guild: %s\n", g->name);
+        printf("Guild: %s\n", g->name);  // 길드 이름 출력
         m = g->members;
-        while (m != NULL) // 해당 길드의 멤버 리스트를 순회
+        while (m != NULL)  // 해당 길드의 멤버 리스트를 순회
         {
-            printf("  Member: %s\n", m->name);
+            printf("  Member: %s\n", m->name);  // 멤버 이름 출력
             m = m->next;
         }
         g = g->next;
