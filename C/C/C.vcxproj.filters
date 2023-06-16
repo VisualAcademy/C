@@ -1305,6 +1305,9 @@
     <ClCompile Include="nested_linked_list.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="address_book_simple.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
