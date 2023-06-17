@@ -1311,6 +1311,9 @@
     <ClCompile Include="count_words.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="count_space.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
