@@ -1308,6 +1308,9 @@
     <ClCompile Include="address_book_simple.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="count_words.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
