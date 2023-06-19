@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+// 학생 정보를 저장할 구조체 정의
 struct Student
 {
     char name[50];
@@ -10,27 +11,23 @@ struct Student
     int grade;
 };
 
-/* 구조체 배열 반환 */
+// 학생 수에 따라 Student 구조체를 동적으로 생성하고 반환하는 함수
 struct Student* get_students(int num_students)
 {
-    struct Student* students;
-    int i;
+    struct Student* students = (struct Student*)malloc(num_students * sizeof(struct Student));
 
-    /* 동적 할당 */
-    students = (struct Student*)malloc(num_students * sizeof(struct Student));
+    // 메모리 할당 확인
     if (students == NULL)
     {
-        printf("Error! memory not allocated.");
+        printf("오류! 메모리를 할당하지 못했습니다.");
         exit(0);
     }
 
-    /* 구조체에 정보 입력 */
-    for (i = 0; i < num_students; ++i)
+    // 학생 정보 입력
+    for (int i = 0; i < num_students; i++)
     {
-        printf("Enter the name, age, and grade of student %d: ", i + 1);
-        scanf("%s", (students + i)->name);
-        scanf("%d", &(students + i)->age);
-        scanf("%d", &(students + i)->grade);
+        printf("학생 %d의 이름, 나이, 학년을 입력하세요: ", i + 1);
+        scanf("%s %d %d", students[i].name, &students[i].age, &students[i].grade);
     }
 
     return students;
@@ -38,18 +35,20 @@ struct Student* get_students(int num_students)
 
 int main(void)
 {
-    int num_students, i;
-    struct Student* students;
-
-    printf("Enter the number of students: ");
+    int num_students;
+    printf("학생 수를 입력하세요: ");
     scanf("%d", &num_students);
 
-    /* 함수 호출 */
-    students = get_students(num_students);
+    // 학생 정보를 동적으로 생성하고 출력
+    struct Student* students = get_students(num_students);
 
-    /* 구조체 정보 출력 */
-    for (i = 0; i < num_students; ++i)
-        printf("Name: %s  Age: %d  Grade: %d\n", (students + i)->name, (students + i)->age, (students + i)->grade);
+    for (int i = 0; i < num_students; i++)
+    {
+        printf("이름: %s, 나이: %d, 학년: %d\n", students[i].name, students[i].age, students[i].grade);
+    }
+
+    // 동적으로 할당한 메모리 해제
+    free(students);
 
     return 0;
 }
