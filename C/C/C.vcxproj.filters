@@ -1329,6 +1329,9 @@
     <ClCompile Include="struct_size_with_pragma.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="enum_coffee_size.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
