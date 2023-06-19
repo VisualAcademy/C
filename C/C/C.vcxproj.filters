@@ -1323,6 +1323,9 @@
     <ClCompile Include="person_creation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="struct_size_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
