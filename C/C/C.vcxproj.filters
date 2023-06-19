@@ -1320,6 +1320,9 @@
     <ClCompile Include="count_words_strpbrk.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="person_creation.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
