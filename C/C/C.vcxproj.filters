@@ -1338,6 +1338,9 @@
     <ClCompile Include="atoi_demo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="strtol_demo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
