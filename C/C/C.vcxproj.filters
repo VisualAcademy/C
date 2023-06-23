@@ -1335,7 +1335,10 @@
     <ClCompile Include="enum_direction_control.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="write_struct_to_file.c">
+    <ClCompile Include="atoi_demo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="strtol_demo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
