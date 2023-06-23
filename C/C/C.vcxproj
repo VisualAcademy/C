@@ -1133,6 +1133,7 @@
     <ClCompile Include="world_standard_time.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="write_struct_to_file.c" />
     <ClCompile Include="year_to_dhms.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

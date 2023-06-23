@@ -1335,6 +1335,9 @@
     <ClCompile Include="enum_direction_control.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="write_struct_to_file.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h">
