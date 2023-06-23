@@ -1,1350 +1,447 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <Filter Include="소스 파일\22_Struct">
-      <UniqueIdentifier>{b5decffc-db93-4759-8e3a-5ecc81f7ff76}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\docs">
-      <UniqueIdentifier>{bb88b218-1817-4aaf-822d-35ec379a8972}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\docs\_">
-      <UniqueIdentifier>{99e2e257-ead8-43be-9f90-6bac8f60142b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\_">
-      <UniqueIdentifier>{c50a9c97-cec9-4d17-8731-77e95a34923b}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="2d_array_size.c" />
+    <ClCompile Include="2gram.c" />
+    <ClCompile Include="3d_array_example.c" />
+    <ClCompile Include="3d_array_size.c" />
+    <ClCompile Include="4gram.c" />
+    <ClCompile Include="address_book.c" />
+    <ClCompile Include="address_book_read.c" />
+    <ClCompile Include="address_book_simple.c" />
+    <ClCompile Include="address_of_operator.c" />
+    <ClCompile Include="alternate_sequence_sum.c" />
+    <ClCompile Include="alternating_series_sum.c" />
+    <ClCompile Include="alternating_sum.c" />
+    <ClCompile Include="anonymous_structure.c" />
+    <ClCompile Include="area_of_circle.c" />
+    <ClCompile Include="array_multi_strings.c" />
+    <ClCompile Include="array_pointer_example.c" />
+    <ClCompile Include="atoi_demo.c" />
+    <ClCompile Include="auto_specifier.c" />
+    <ClCompile Include="baseball.c" />
+    <ClCompile Include="binary_search_c.c" />
+    <ClCompile Include="binary_search_example.c" />
+    <ClCompile Include="binary_search_tree.c" />
+    <ClCompile Include="binary_search_tree_array.c" />
+    <ClCompile Include="bsearch_demo.c" />
+    <ClCompile Include="bubble_sort_function.c" />
+    <ClCompile Include="bubble_sort_size.c" />
+    <ClCompile Include="C 언어로 현재 날짜와 시간을 문자열로 출력하는 예제.c" />
+    <ClCompile Include="c-language.c" />
+    <ClCompile Include="calculate_2d_array_size.c" />
+    <ClCompile Include="call_by_value_and_reference.c" />
+    <ClCompile Include="camerautra.c" />
+    <ClCompile Include="case_check.c" />
+    <ClCompile Include="celsius_to_fahrenheit.c" />
+    <ClCompile Include="celsius_to_fahrenheit_with_function.c" />
+    <ClCompile Include="character_classification.c" />
+    <ClCompile Include="char_array_quiz.c" />
+    <ClCompile Include="char_increment_decrement.c" />
+    <ClCompile Include="check_file_existence.c" />
+    <ClCompile Include="circle_area.c" />
+    <ClCompile Include="class_weight_statistics.c" />
+    <ClCompile Include="compare_integers.c" />
+    <ClCompile Include="compare_strings.c" />
+    <ClCompile Include="compound_interest_calculator.c" />
+    <ClCompile Include="conditional_compilation.c" />
+    <ClCompile Include="convert_number_to_string.c" />
+    <ClCompile Include="convert_sprintf.c" />
+    <ClCompile Include="count_lines_in_text_file.c" />
+    <ClCompile Include="count_space.c" />
+    <ClCompile Include="count_words.c" />
+    <ClCompile Include="count_words_in_file.c" />
+    <ClCompile Include="count_words_strpbrk.c" />
+    <ClCompile Include="count_words_strtok.c" />
+    <ClCompile Include="create_temp_directory.c" />
+    <ClCompile Include="current_time_localtime.c" />
+    <ClCompile Include="custom_printf.c" />
+    <ClCompile Include="date_string_to_time.c" />
+    <ClCompile Include="DDay구하기(mktime).c" />
+    <ClCompile Include="define_example.c" />
+    <ClCompile Include="deposit_calculator.c" />
+    <ClCompile Include="diamond_docs.c" />
+    <ClCompile Include="diamond_description.c" />
+    <ClCompile Include="diamond_recursion.c" />
+    <ClCompile Include="diamond_short.c" />
+    <ClCompile Include="difftime_demo.c" />
+    <ClCompile Include="difftime_hours.c" />
+    <ClCompile Include="difftime_seconds.c" />
+    <ClCompile Include="directory_exist.c" />
+    <ClCompile Include="distance.c" />
+    <ClCompile Include="distance_between_points.c" />
+    <ClCompile Include="distance_between_two_points.c" />
+    <ClCompile Include="doubly_linked_list.c" />
+    <ClCompile Include="doubly_linked_list_demo.c" />
+    <ClCompile Include="dynamic_2d.c" />
+    <ClCompile Include="dynamic_array.c" />
+    <ClCompile Include="dynamic_memory_allocation.c" />
+    <ClCompile Include="dynamic_struct_allocation.c" />
+    <ClCompile Include="d_day.c" />
+    <ClCompile Include="endian_check.c" />
+    <ClCompile Include="enum_coffee_size.c" />
+    <ClCompile Include="enum_day_of_week.c" />
+    <ClCompile Include="enum_direction_control.c" />
+    <ClCompile Include="example_tmpfile.c" />
+    <ClCompile Include="external_variable.c" />
+    <ClCompile Include="extern_global.c" />
+    <ClCompile Include="extern_main.c" />
+    <ClCompile Include="factorial_calculation.c" />
+    <ClCompile Include="feet_to_cm.c" />
+    <ClCompile Include="fgets_example.c" />
+    <ClCompile Include="file_directory_exist.c" />
+    <ClCompile Include="file_exist.c" />
+    <ClCompile Include="file_fgetc.c" />
+    <ClCompile Include="file_fgets.c" />
+    <ClCompile Include="file_filesize.c" />
+    <ClCompile Include="file_fopen_fread.c" />
+    <ClCompile Include="file_fputc.c" />
+    <ClCompile Include="file_fputs.c" />
+    <ClCompile Include="file_fread.c" />
+    <ClCompile Include="file_fscanf.c" />
+    <ClCompile Include="file_ftell.c" />
+    <ClCompile Include="file_fwrite.c" />
+    <ClCompile Include="file_partial_read_write.c" />
+    <ClCompile Include="file_read.c" />
+    <ClCompile Include="file_read_create.c" />
+    <ClCompile Include="file_read_example.c" />
+    <ClCompile Include="file_read_filesize.c" />
+    <ClCompile Include="file_read_limited_buffer.c" />
+    <ClCompile Include="file_read_string.c" />
+    <ClCompile Include="file_reverse.c" />
+    <ClCompile Include="file_write.c" />
+    <ClCompile Include="file_write_string.c" />
+    <ClCompile Include="find_max.c" />
+    <ClCompile Include="find_min.c" />
+    <ClCompile Include="fprintf_example.c" />
+    <ClCompile Include="fputc_function.c" />
+    <ClCompile Include="fputs_function.c" />
+    <ClCompile Include="fscanf_example.c" />
+    <ClCompile Include="function_pointer.c" />
+    <ClCompile Include="function_pointer_array.c" />
+    <ClCompile Include="function_pointer_calc.c" />
+    <ClCompile Include="function_pointer_demo.c" />
+    <ClCompile Include="function_pointer_parameter.c" />
+    <ClCompile Include="function_pointer_return.c" />
+    <ClCompile Include="function_pointer_returnvalue.c" />
+    <ClCompile Include="function_pointer_struct.c" />
+    <ClCompile Include="function_return_value_sum.c" />
+    <ClCompile Include="gcd.c" />
+    <ClCompile Include="gcd_lcm.c" />
+    <ClCompile Include="GetcharMacro.c" />
+    <ClCompile Include="getchar_macro.c" />
+    <ClCompile Include="get_file_size.c" />
+    <ClCompile Include="get_file_size_function.c" />
+    <ClCompile Include="global_variable.c" />
+    <ClCompile Include="goto_calc.c" />
+    <ClCompile Include="graph_adjacency_list.c" />
+    <ClCompile Include="hashtable_implementation.c" />
+    <ClCompile Include="header_calc.c" />
+    <ClCompile Include="header_main.c" />
+    <ClCompile Include="HelloSee.c" />
+    <ClCompile Include="inches_centimeters.c" />
+    <ClCompile Include="initialize_struct_with_memset.c" />
+    <ClCompile Include="input-3-numbers-calculate-sum.c" />
+    <ClCompile Include="insertion_sort.c" />
+    <ClCompile Include="integer_example.c" />
+    <ClCompile Include="integer_palindrome.c" />
+    <ClCompile Include="interactive_stack.c" />
+    <ClCompile Include="inverted_pyramid.c" />
+    <ClCompile Include="is_palindrome.c" />
+    <ClCompile Include="judge_palindrome.c" />
+    <ClCompile Include="lcm.c" />
+    <ClCompile Include="linear_search.c" />
+    <ClCompile Include="linked_list.c" />
+    <ClCompile Include="linked_list_example.c" />
+    <ClCompile Include="linked_list_extended.c" />
+    <ClCompile Include="linked_list_intro.c" />
+    <ClCompile Include="linked_list_stack.c" />
+    <ClCompile Include="lotto.c" />
+    <ClCompile Include="MacroConstant.c" />
+    <ClCompile Include="macro_constant.c" />
+    <ClCompile Include="macro_definition.c" />
+    <ClCompile Include="macro_example.c" />
+    <ClCompile Include="macro_null.c" />
+    <ClCompile Include="math_abs.c" />
+    <ClCompile Include="math_ceil_floor.c" />
+    <ClCompile Include="math_pow.c" />
+    <ClCompile Include="max_and_min_of_array.c" />
+    <ClCompile Include="member_info_struct.c" />
+    <ClCompile Include="memory_allocation.c" />
+    <ClCompile Include="memory_class_automatic_and_static_variables.c" />
+    <ClCompile Include="memory_copy_example.c" />
+    <ClCompile Include="min_max.c" />
+    <ClCompile Include="min_value_pointer.c" />
+    <ClCompile Include="mode_algorithm_c.c" />
+    <ClCompile Include="multiplication_table.c" />
+    <ClCompile Include="multiplication_table_input.c" />
+    <ClCompile Include="near_algorithm.c" />
+    <ClCompile Include="nested_linked_list.c" />
+    <ClCompile Include="nested_struct_example.c" />
+    <ClCompile Include="ngram.c" />
+    <ClCompile Include="number_of_spaces.c" />
+    <ClCompile Include="number_of_words.c" />
+    <ClCompile Include="operator_precedence_calculation.c" />
+    <ClCompile Include="palindrome_with_space.c" />
+    <ClCompile Include="password_generator.c" />
+    <ClCompile Include="person_creation.c" />
+    <ClCompile Include="person_info.c" />
+    <ClCompile Include="pointerarray.c" />
+    <ClCompile Include="pointer_2d.c" />
+    <ClCompile Include="pointer_array.c" />
+    <ClCompile Include="pointer_array_initialization.c" />
+    <ClCompile Include="pointer_array_relationship.c" />
+    <ClCompile Include="pointer_array_toupper_tolower.c" />
+    <ClCompile Include="pointer_array_two.c" />
+    <ClCompile Include="pointer_array_week.c" />
+    <ClCompile Include="pointer_example.c" />
+    <ClCompile Include="pointer_function.c" />
+    <ClCompile Include="pointer_function_multi_return.c" />
+    <ClCompile Include="pointer_function_parameter.c" />
+    <ClCompile Include="pointer_indexing.c" />
+    <ClCompile Include="pointer_integer_array.c" />
+    <ClCompile Include="pointer_operation_increment_decrement.c" />
+    <ClCompile Include="pointer_print_array.c" />
+    <ClCompile Include="pointer_strings_input.c" />
+    <ClCompile Include="pointer_strings_refs.c" />
+    <ClCompile Include="pointer_string_array.c" />
+    <ClCompile Include="pointer_string_output.c" />
+    <ClCompile Include="point_example.c" />
+    <ClCompile Include="point_example_typedef.c" />
+    <ClCompile Include="pound_to_kg.c" />
+    <ClCompile Include="power_calculator.c" />
+    <ClCompile Include="pow_recursive.c" />
+    <ClCompile Include="preprocessor_define.c" />
+    <ClCompile Include="preprocessor_macro_function.c" />
+    <ClCompile Include="prime_number.c" />
+    <ClCompile Include="print_array_example.c" />
+    <ClCompile Include="print_current_datetime.c" />
+    <ClCompile Include="PutcharMacro.c" />
+    <ClCompile Include="putchar_macro.c" />
+    <ClCompile Include="pyung_to_sqm.c" />
+    <ClCompile Include="qsort_demo.c" />
+    <ClCompile Include="qsort_example.c" />
+    <ClCompile Include="qsort_fruits.c" />
+    <ClCompile Include="qsort_sort.c" />
+    <ClCompile Include="qsort_string_sort.c" />
+    <ClCompile Include="queue_array.c" />
+    <ClCompile Include="queue_linkedlist.c" />
+    <ClCompile Include="quicksort_string_sort.c" />
+    <ClCompile Include="random_float.c" />
+    <ClCompile Include="random_number.c" />
+    <ClCompile Include="random_numbers_generator.c" />
+    <ClCompile Include="random_number_generator.c" />
+    <ClCompile Include="realloc_memory.c" />
+    <ClCompile Include="rectangle_area.c" />
+    <ClCompile Include="recursion_demo.c" />
+    <ClCompile Include="recursive_fibonacci.c" />
+    <ClCompile Include="recursive_sum.c" />
+    <ClCompile Include="register.c" />
+    <ClCompile Include="register_sum_example.c" />
+    <ClCompile Include="remove_duplicates.c" />
+    <ClCompile Include="return_generic_pointer.c" />
+    <ClCompile Include="return_pointer.c" />
+    <ClCompile Include="return_string_pointer.c" />
+    <ClCompile Include="reverse_number.c" />
+    <ClCompile Include="reverse_str.c" />
+    <ClCompile Include="reverse_string.c" />
+    <ClCompile Include="reverse_str_strrev.c" />
+    <ClCompile Include="reverse_triangle.c" />
+    <ClCompile Include="rounding_calculations.c" />
+    <ClCompile Include="savings_calc.c" />
+    <ClCompile Include="savings_compound_calculator.c" />
+    <ClCompile Include="scanf.c" />
+    <ClCompile Include="seconds_since_epoch.c" />
+    <ClCompile Include="self_ref_struct.c" />
+    <ClCompile Include="sequential_search.c" />
+    <ClCompile Include="simple_linked_list.c" />
+    <ClCompile Include="simple_login_example.c" />
+    <ClCompile Include="single_linked_list.c" />
+    <ClCompile Include="singly_linked_list_fifo.c" />
+    <ClCompile Include="split_double_into_integer_fraction.c" />
+    <ClCompile Include="sqrt.c" />
+    <ClCompile Include="square_number.c" />
+    <ClCompile Include="stack_example.c" />
+    <ClCompile Include="static_specifier.c" />
+    <ClCompile Include="strcat_example.c" />
+    <ClCompile Include="strchr_strrchr_note.c" />
+    <ClCompile Include="strchr_strrchr_quiz.c" />
+    <ClCompile Include="strcpy_example.c" />
+    <ClCompile Include="strcpy_manual_example.c" />
+    <ClCompile Include="strcspn_example.c" />
+    <ClCompile Include="string_array_input.c" />
+    <ClCompile Include="string_case_conversion.c" />
+    <ClCompile Include="string_compare.c" />
+    <ClCompile Include="string_comparison_without_strcmp.c" />
+    <ClCompile Include="string_concatenate.c" />
+    <ClCompile Include="string_concatenation.c" />
+    <ClCompile Include="string_copy.c" />
+    <ClCompile Include="string_length.c" />
+    <ClCompile Include="string_length_and_size.c" />
+    <ClCompile Include="string_length_example.c" />
+    <ClCompile Include="string_reverse_recursive.c" />
+    <ClCompile Include="string_strlwr.c" />
+    <ClCompile Include="string_strupr.c" />
+    <ClCompile Include="string_trim.c" />
+    <ClCompile Include="strspn_example.c" />
+    <ClCompile Include="strstr.c" />
+    <ClCompile Include="strstr_ppt.c" />
+    <ClCompile Include="strstr_quiz.c" />
+    <ClCompile Include="strtok_demo.c" />
+    <ClCompile Include="strtol_demo.c" />
+    <ClCompile Include="struct_array.c" />
+    <ClCompile Include="struct_array_malloc.c" />
+    <ClCompile Include="struct_array_parameter.c" />
+    <ClCompile Include="struct_bit_fields.c" />
+    <ClCompile Include="struct_clone.c" />
+    <ClCompile Include="struct_malloc.c" />
+    <ClCompile Include="struct_member_alignment_example.c" />
+    <ClCompile Include="struct_member_offset_using_offsetof.c" />
+    <ClCompile Include="struct_padding.c" />
+    <ClCompile Include="struct_parameter.c" />
+    <ClCompile Include="struct_parameter_int.c" />
+    <ClCompile Include="struct_pointer_access.c" />
+    <ClCompile Include="struct_ptr_array.c" />
+    <ClCompile Include="struct_return.c" />
+    <ClCompile Include="struct_score.c" />
+    <ClCompile Include="struct_size.c" />
+    <ClCompile Include="struct_size_example.c" />
+    <ClCompile Include="struct_size_with_pragma.c" />
+    <ClCompile Include="struct_sort.c" />
+    <ClCompile Include="struct_vs_union.c" />
+    <ClCompile Include="str_case_conv.c" />
+    <ClCompile Include="sum_of_natural_numbers.c" />
+    <ClCompile Include="sum_of_three_integers.c" />
+    <ClCompile Include="sum_of_two_integers.c" />
+    <ClCompile Include="sum_recursive.c" />
+    <ClCompile Include="swap_arrays.c" />
+    <ClCompile Include="swap_numbers.c" />
+    <ClCompile Include="thousands_separator.c" />
+    <ClCompile Include="time_localtime.c" />
+    <ClCompile Include="time_string_format.c" />
+    <ClCompile Include="time_to_string.c" />
+    <ClCompile Include="triangle_area.c" />
+    <ClCompile Include="union_alias.c" />
+    <ClCompile Include="union_binary.c" />
+    <ClCompile Include="union_data.c" />
+    <ClCompile Include="union_example.c" />
+    <ClCompile Include="union_pointer_access.c" />
+    <ClCompile Include="union_same.c" />
+    <ClCompile Include="union_share.c" />
+    <ClCompile Include="using_struct_pointer.c" />
+    <ClCompile Include="variable_declaration_initialization.c" />
+    <ClCompile Include="variable_union.c" />
+    <ClCompile Include="void_pointer.c" />
+    <ClCompile Include="world_standard_time.c" />
+    <ClCompile Include="write_struct_to_file.c" />
+    <ClCompile Include="year_to_dhms.c" />
+    <ClCompile Include="가까운값.c" />
+    <ClCompile Include="값형과참조형.c" />
+    <ClCompile Include="공문단문복문.c" />
+    <ClCompile Include="공용체사용하기.c" />
+    <ClCompile Include="관계연산자.c" />
+    <ClCompile Include="구간반복.c" />
+    <ClCompile Include="구구단.c" />
+    <ClCompile Include="구조체_member.c" />
+    <ClCompile Include="구조체_구조체배열.c" />
+    <ClCompile Include="구조체_성적처리.c" />
+    <ClCompile Include="구조체_자기참조구조체.c" />
+    <ClCompile Include="구조체_중첩구조체.c" />
+    <ClCompile Include="구조체_회원정보.c" />
+    <ClCompile Include="기억클래스_레지스터변수.c" />
+    <ClCompile Include="기억클래스_외부변수.c" />
+    <ClCompile Include="기억클래스_외부변수2.c" />
+    <ClCompile Include="기억클래스_자동변수와정적변수.c" />
+    <ClCompile Include="날짜및시간을문자열로출력(ctime).c" />
+    <ClCompile Include="대소문자구분.c" />
+    <ClCompile Include="레지스터변수.c" />
+    <ClCompile Include="리스트(FIFO).c" />
+    <ClCompile Include="마름모출력.c" />
+    <ClCompile Include="메모리를복사하는함수.c" />
+    <ClCompile Include="메모리채우기(memset).c" />
+    <ClCompile Include="문자상수.c" />
+    <ClCompile Include="문자열거꾸로.c" />
+    <ClCompile Include="문자열공백제거함수만들기.c" />
+    <ClCompile Include="문자열길이.c" />
+    <ClCompile Include="문자열처리.c" />
+    <ClCompile Include="문자열포인터.c" />
+    <ClCompile Include="문제3.c" />
+    <ClCompile Include="반복문.c" />
+    <ClCompile Include="반복문1.c" />
+    <ClCompile Include="반복문2.c" />
+    <ClCompile Include="반복문3.c" />
+    <ClCompile Include="반올림함수만들기_반올림올림내림.c" />
+    <ClCompile Include="반환값이있는함수.c" />
+    <ClCompile Include="번지와간접연산자.c" />
+    <ClCompile Include="변수선언초기화참조.c" />
+    <ClCompile Include="사용자정의데이터형.c" />
+    <ClCompile Include="상수포인터.c" />
+    <ClCompile Include="선택정렬.c" />
+    <ClCompile Include="세계표준시(gmtime).c" />
+    <ClCompile Include="수열예제.c" />
+    <ClCompile Include="수학관련함수.c" />
+    <ClCompile Include="순차검색.c" />
+    <ClCompile Include="순차연산자.c" />
+    <ClCompile Include="시프트연산자.c" />
+    <ClCompile Include="에러의종류.c" />
+    <ClCompile Include="역삼각형출력.c" />
+    <ClCompile Include="열거형_요일나타내기.c" />
+    <ClCompile Include="예제_원의넓이와둘레길이.c" />
+    <ClCompile Include="이진검색.c" />
+    <ClCompile Include="이진검색사용하기(bsearch).c" />
+    <ClCompile Include="일차원배열1.c" />
+    <ClCompile Include="임의값출력.c" />
+    <ClCompile Include="전처리기2.c" />
+    <ClCompile Include="정보처리산업기사20080706.c" />
+    <ClCompile Include="조건문1.c" />
+    <ClCompile Include="조건문2.c" />
+    <ClCompile Include="증감연산자_예제.c" />
+    <ClCompile Include="증감연산자설명.c" />
+    <ClCompile Include="체중관리프로그램.c" />
+    <ClCompile Include="최빈값2.c" />
+    <ClCompile Include="최솟값_포인터.c" />
+    <ClCompile Include="출력문.c" />
+    <ClCompile Include="포인터.c" />
+    <ClCompile Include="포인터_다중문자열입력.c" />
+    <ClCompile Include="포인터_메모리할당및재할당.c" />
+    <ClCompile Include="포인터_문자열이중포인터.c" />
+    <ClCompile Include="포인터_문자열출력.c" />
+    <ClCompile Include="포인터_배열.c" />
+    <ClCompile Include="포인터_복수문자열입력.c" />
+    <ClCompile Include="포인터_복수문자열입력2.c" />
+    <ClCompile Include="포인터_실수형.c" />
+    <ClCompile Include="포인터_이중포인터.c" />
+    <ClCompile Include="포인터_이차원배열.c" />
+    <ClCompile Include="포인터_정수형1.c" />
+    <ClCompile Include="포인터_정수형2.c" />
+    <ClCompile Include="포인터_정수형배열계산.c" />
+    <ClCompile Include="포인터_정수형배열합.c" />
+    <ClCompile Include="포인터_포인터배열.c" />
+    <ClCompile Include="포인터_포인터배열초기화.c" />
+    <ClCompile Include="포인터_함수다중반환값.c" />
+    <ClCompile Include="포인터를함수에서사용.c" />
+    <ClCompile Include="포인터배열.c" />
+    <ClCompile Include="포인터배열_대소문자치환.c" />
+    <ClCompile Include="포인터배열_요일출력.c" />
+    <ClCompile Include="포인터배열을함수에서사용.c" />
+    <ClCompile Include="포인터분석.c" />
+    <ClCompile Include="포인터사용복수문자열입력.c" />
+    <ClCompile Include="포인터연산1.c" />
+    <ClCompile Include="포인터연습_메모리할당.c" />
+    <ClCompile Include="전처리기.c" />
+    <ClCompile Include="전처리기_매크로함수.c" />
+    <ClCompile Include="포인터_정리.c" />
+    <ClCompile Include="포인터확장.c" />
+    <ClCompile Include="피보나치수열.c" />
+    <ClCompile Include="학점계산프로그램확장.c" />
+    <ClCompile Include="함수_가변형매개변수.c" />
+    <ClCompile Include="함수_몇승.c" />
+    <ClCompile Include="함수포인터.c" />
+    <ClCompile Include="해시테이블.c" />
+    <ClCompile Include="현재까지경과된초의수.c" />
+    <ClCompile Include="현재날짜및시간구하기.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloSee.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="구조체_member.c">
-      <Filter>소스 파일\22_Struct</Filter>
-    </ClCompile>
-    <ClCompile Include="구조체_구조체배열.c">
-      <Filter>소스 파일\22_Struct</Filter>
-    </ClCompile>
-    <ClCompile Include="diamond_docs.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="diamond_recursion.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="diamond_description.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="diamond_short.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="inverted_pyramid.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="MacroConstant.c">
-      <Filter>소스 파일\docs\_</Filter>
-    </ClCompile>
-    <ClCompile Include="macro_constant.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="현재날짜및시간구하기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="current_time_localtime.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="putchar_macro.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PutcharMacro.c">
-      <Filter>소스 파일\docs\_</Filter>
-    </ClCompile>
-    <ClCompile Include="getchar_macro.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="GetcharMacro.c">
-      <Filter>소스 파일\docs\_</Filter>
-    </ClCompile>
-    <ClCompile Include="전처리기.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="preprocessor_define.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="전처리기_매크로함수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="preprocessor_macro_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="goto_calc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="char_array_quiz.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array_week.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="address_of_operator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strstr.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strtok_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="scanf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="distance.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="quicksort_string_sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="qsort_string_sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="qsort_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="qsort_sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="bsearch_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="lotto.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="gcd.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="lcm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="camerautra.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="time_localtime.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="difftime_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="difftime_seconds.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="difftime_hours.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="d_day.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="number_of_words.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="number_of_spaces.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_bit_fields.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_malloc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_array_malloc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_return.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_parameter.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_parameter_int.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_array_parameter.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_clone.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_padding.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_data.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_return.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_struct.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_parameter.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_returnvalue.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fputc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fgetc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fputs.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fwrite.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fgets.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fread.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="inches_centimeters.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pyung_to_sqm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pound_to_kg.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="feet_to_cm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="baseball.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fscanf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_reverse.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_ftell.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_filesize.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_fopen_fread.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_read_filesize.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_exist.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_directory_exist.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="random_number.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="random_float.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sqrt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="math_abs.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="math_pow.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="math_ceil_floor.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="gcd_lcm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="deposit_calculator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="savings_calc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_strlwr.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_strupr.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="convert_sprintf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="convert_number_to_string.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="is_palindrome.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pow_recursive.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursive_fibonacci.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursive_sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse_string.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="judge_palindrome.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="void_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strstr_ppt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strstr_quiz.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strchr_strrchr_note.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strchr_strrchr_quiz.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_정리.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터연습_메모리할당.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="DDay구하기(mktime).c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="날짜및시간을문자열로출력(ctime).c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="C 언어로 현재 날짜와 시간을 문자열로 출력하는 예제.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="time_string_format.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터확장.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터연산1.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="c-language.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_operation_increment_decrement.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_배열.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_실수형.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_정수형1.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_정수형2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_다중문자열입력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="array_multi_strings.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터배열_요일출력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_이차원배열.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array_two.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_문자열이중포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_strings_refs.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_포인터배열.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_string_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터사용복수문자열입력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터배열_대소문자치환.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array_toupper_tolower.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터배열을함수에서사용.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_print_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_이중포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_정수형배열계산.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_integer_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_복수문자열입력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_strings_input.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터배열.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointerarray.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터를함수에서사용.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_function_parameter.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="정보처리산업기사20080706.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="열거형_요일나타내기.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="enum_day_of_week.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="해시테이블.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="전처리기2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="기억클래스_레지스터변수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="register.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="기억클래스_외부변수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="기억클래스_외부변수2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="external_variable.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_정수형배열합.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_함수다중반환값.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_function_multi_return.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="관계연산자.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="예제_원의넓이와둘레길이.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="수학관련함수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="수열예제.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="순차연산자.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="증감연산자_예제.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="증감연산자설명.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="에러의종류.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="반복문1.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="반복문2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="반복문3.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="마름모출력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="역삼각형출력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse_triangle.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="공문단문복문.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="구간반복.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="조건문2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="시프트연산자.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="값형과참조형.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="call_by_value_and_reference.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="구조체_성적처리.c">
-      <Filter>소스 파일\22_Struct</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_score.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="대소문자구분.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="string_case_conversion.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="가까운값.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="near_algorithm.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="이진검색사용하기(bsearch).c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="binary_search_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="point_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="integer_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="point_example_typedef.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="anonymous_structure.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="person_info.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="구조체_자기참조구조체.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="self_ref_struct.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="array_pointer_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="thousands_separator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="임의값출력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="random_numbers_generator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="문자열거꾸로.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="문자열공백제거함수만들기.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="string_trim.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="사용자정의데이터형.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_문자열출력.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_string_output.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="변수선언초기화참조.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_declaration_initialization.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="현재까지경과된초의수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="seconds_since_epoch.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="simple_login_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="메모리를복사하는함수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="memory_copy_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="구구단.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="multiplication_table.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="레지스터변수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="register_sum_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="문자열길이.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="string_length_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="구조체_회원정보.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="member_info_struct.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="구조체_중첩구조체.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="nested_struct_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="operator_precedence_calculation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_member_alignment_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_member_offset_using_offsetof.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="initialize_struct_with_memset.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="체중관리프로그램.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="class_weight_statistics.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="recursion_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="조건문1.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="최빈값2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="mode_algorithm_c.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="최솟값_포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="min_value_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="이진검색.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="binary_search_c.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="세계표준시(gmtime).c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="world_standard_time.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="문자상수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="year_to_dhms.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="상수포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="선택정렬.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="순차검색.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="sequential_search.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="피보나치수열.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="리스트(FIFO).c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="singly_linked_list_fifo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="doubly_linked_list.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="binary_search_tree_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_복수문자열입력2.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_포인터배열초기화.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array_initialization.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="반올림함수만들기_반올림올림내림.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="rounding_calculations.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="일차원배열1.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="input-3-numbers-calculate-sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sum_of_three_integers.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="문자열처리.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="string_array_input.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터분석.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_array_relationship.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="번지와간접연산자.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="함수포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="function_pointer_calc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="함수_몇승.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="power_calculator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="반환값이있는함수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="function_return_value_sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="반복문.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="포인터_메모리할당및재할당.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="함수_가변형매개변수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="custom_printf.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sum_of_two_integers.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="celsius_to_fahrenheit.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="area_of_circle.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="multiplication_table_input.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sum_of_natural_numbers.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="factorial_calculation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="max_and_min_of_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="celsius_to_fahrenheit_with_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="bubble_sort_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="insertion_sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="stack_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse_number.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="using_struct_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="distance_between_points.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="공용체사용하기.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="variable_union.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="alternating_sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="학점계산프로그램확장.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="문제3.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="alternating_series_sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="메모리채우기(memset).c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="alternate_sequence_sum.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_read.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_read_create.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_write.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="check_file_existence.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="get_file_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_read_string.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_write_string.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="count_words_in_file.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="count_lines_in_text_file.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="get_file_size_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="linear_search.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dynamic_memory_allocation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="linked_list.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="triangle_area.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="rectangle_area.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="circle_area.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="기억클래스_자동변수와정적변수.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="memory_class_automatic_and_static_variables.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="문자열포인터.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="출력문.c">
-      <Filter>소스 파일\_</Filter>
-    </ClCompile>
-    <ClCompile Include="square_number.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_length.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="realloc_memory.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="compare_integers.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_sort.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_copy.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="bubble_sort_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="qsort_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="qsort_fruits.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="min_max.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="linked_list_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="simple_linked_list.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="linked_list_intro.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="linked_list_extended.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="find_max.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="find_min.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="prime_number.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_compare.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_concatenate.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="calculate_2d_array_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2d_array_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3d_array_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3d_array_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_length_and_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fgets_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse_str.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse_str_strrev.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="swap_numbers.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="swap_arrays.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_pointer_access.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_ptr_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="sum_recursive.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_reverse_recursive.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_same.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_share.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_binary.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_alias.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="endian_check.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_vs_union.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="union_pointer_access.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fputc_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_read_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fprintf_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fscanf_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="memory_allocation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dynamic_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="return_generic_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="print_array_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dynamic_struct_allocation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="random_number_generator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="split_double_into_integer_fraction.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="distance_between_two_points.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="macro_definition.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="macro_null.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="define_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="macro_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="conditional_compilation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="header_calc.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="header_main.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="global_variable.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="extern_global.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="extern_main.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="auto_specifier.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="static_specifier.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="interactive_stack.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="fputs_function.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_partial_read_write.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="file_read_limited_buffer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="directory_exist.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="create_temp_directory.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="example_tmpfile.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="queue_array.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="queue_linkedlist.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_indexing.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="pointer_2d.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="dynamic_2d.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="return_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="return_string_pointer.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="compare_strings.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_comparison_without_strcmp.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="str_case_conv.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="char_increment_decrement.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="hashtable_implementation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="graph_adjacency_list.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="binary_search_tree.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="linked_list_stack.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="print_current_datetime.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="time_to_string.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="date_string_to_time.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="address_book.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="compound_interest_calculator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="savings_compound_calculator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="remove_duplicates.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strcspn_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strspn_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="password_generator.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="address_book_read.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="case_check.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="character_classification.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="integer_palindrome.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="palindrome_with_space.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strcpy_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strcpy_manual_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strcat_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="string_concatenation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2gram.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ngram.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="4gram.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="single_linked_list.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="doubly_linked_list_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="nested_linked_list.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="address_book_simple.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="count_words.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="count_space.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="count_words_strtok.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="count_words_strpbrk.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="person_creation.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_size_example.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="struct_size_with_pragma.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="enum_coffee_size.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="enum_direction_control.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="atoi_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="strtol_demo.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="header_calc.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
+    <ClInclude Include="header_calc.h" />
   </ItemGroup>
 </Project>
