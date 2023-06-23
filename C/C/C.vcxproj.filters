@@ -441,6 +441,7 @@
     <ClCompile Include="현재까지경과된초의수.c" />
     <ClCompile Include="현재날짜및시간구하기.c" />
     <ClCompile Include="read_struct_from_file.c" />
+    <ClCompile Include="nested_structures.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
