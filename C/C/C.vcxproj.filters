@@ -443,6 +443,7 @@
     <ClCompile Include="read_struct_from_file.c" />
     <ClCompile Include="nested_structures.c" />
     <ClCompile Include="void_pointer_example.c" />
+    <ClCompile Include="job_selector.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
