@@ -444,6 +444,7 @@
     <ClCompile Include="nested_structures.c" />
     <ClCompile Include="void_pointer_example.c" />
     <ClCompile Include="job_selector.c" />
+    <ClCompile Include="read_write_to_file.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
