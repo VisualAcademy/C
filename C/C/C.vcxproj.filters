@@ -445,6 +445,7 @@
     <ClCompile Include="void_pointer_example.c" />
     <ClCompile Include="job_selector.c" />
     <ClCompile Include="read_write_to_file.c" />
+    <ClCompile Include="standard_input_output.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
