@@ -449,6 +449,7 @@
     <ClCompile Include="check_eof.c" />
     <ClCompile Include="fseek_example.c" />
     <ClCompile Include="ftell_function.c" />
+    <ClCompile Include="bubble_sort.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
