@@ -446,6 +446,7 @@
     <ClCompile Include="job_selector.c" />
     <ClCompile Include="read_write_to_file.c" />
     <ClCompile Include="standard_input_output.c" />
+    <ClCompile Include="check_eof.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
