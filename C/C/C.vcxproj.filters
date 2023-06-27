@@ -448,6 +448,7 @@
     <ClCompile Include="standard_input_output.c" />
     <ClCompile Include="check_eof.c" />
     <ClCompile Include="fseek_example.c" />
+    <ClCompile Include="ftell_function.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
