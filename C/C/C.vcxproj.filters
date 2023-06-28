@@ -450,6 +450,7 @@
     <ClCompile Include="fseek_example.c" />
     <ClCompile Include="ftell_function.c" />
     <ClCompile Include="bubble_sort.c" />
+    <ClCompile Include="write_data_to_file.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
