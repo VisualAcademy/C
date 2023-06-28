@@ -22,5 +22,5 @@ int main(void)
         printf("오늘은 월요일입니다.\n"); // 조건이 참이면, 즉 today가 MONDAY이면 출력
     }
 
-    return 0; // 정상 종료
+    return 0;
 }

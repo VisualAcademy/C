@@ -453,6 +453,7 @@
     <ClCompile Include="write_data_to_file.c" />
     <ClCompile Include="color_enumeration.c" />
     <ClCompile Include="check_day_enum.c" />
+    <ClCompile Include="enum_season_size.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
