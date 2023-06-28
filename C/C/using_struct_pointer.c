@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS // 경고를 무시하는 매크로 정의
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 // Point 구조체 정의
