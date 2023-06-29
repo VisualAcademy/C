@@ -1,17 +1,18 @@
-// binary_search_example.c 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <search.h>
 
 // 정수 비교를 위한 사용자 정의 함수
-int compare_integers(const void* value1, const void* value2) {
+int compare_integers(const void* value1, const void* value2)
+{
     return (*(int*)value1 - *(int*)value2);
 }
 
 // 배열 출력을 위한 함수
-void print_array(int arr[], int size) {
-    for (int i = 0; i < size; i++) {
+void print_array(int arr[], int size)
+{
+    for (int i = 0; i < size; i++)
+    {
         printf("%d ", arr[i]);
     }
     printf("\n");
@@ -33,14 +34,12 @@ int main(void)
     print_array(numbers, 5); // 정렬 후 배열 출력
 
     // 이진 검색 수행 (찾고자 하는 값, 배열, 배열 크기, 배열 원소 크기, 비교 함수)
-    found_value = 
-        bsearch(&search_key, numbers, 5, sizeof(numbers[0]), compare_integers);
+    found_value = bsearch(&search_key, numbers, 5, sizeof(numbers[0]), compare_integers);
 
     // 검색 결과 출력
     if (found_value)
     {
-        printf("%d를 %ld번 위치에서 찾았습니다.\n", 
-            search_key, found_value - numbers);
+        printf("%d를 %ld번 위치에서 찾았습니다.\n", search_key, found_value - numbers);
     }
     else
     {
