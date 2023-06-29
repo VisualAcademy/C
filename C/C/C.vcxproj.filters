@@ -454,6 +454,7 @@
     <ClCompile Include="color_enumeration.c" />
     <ClCompile Include="check_day_enum.c" />
     <ClCompile Include="enum_season_size.c" />
+    <ClCompile Include="string_binary_search.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
