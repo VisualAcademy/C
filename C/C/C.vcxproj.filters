@@ -456,6 +456,7 @@
     <ClCompile Include="enum_season_size.c" />
     <ClCompile Include="string_binary_search.c" />
     <ClCompile Include="sort_numbers.c" />
+    <ClCompile Include="command_line_argument.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
