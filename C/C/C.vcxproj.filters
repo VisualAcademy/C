@@ -465,6 +465,7 @@
     <ClCompile Include="recursion_power.c" />
     <ClCompile Include="function_absolute_value.c" />
     <ClCompile Include="max_min_function.c" />
+    <ClCompile Include="function_demo.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
