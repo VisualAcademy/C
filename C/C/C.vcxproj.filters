@@ -461,6 +461,7 @@
     <ClCompile Include="myheader_main.c" />
     <ClCompile Include="concatenate_tokens.c" />
     <ClCompile Include="string_combining.c" />
+    <ClCompile Include="recursion_factorial.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
