@@ -462,6 +462,7 @@
     <ClCompile Include="concatenate_tokens.c" />
     <ClCompile Include="string_combining.c" />
     <ClCompile Include="recursion_factorial.c" />
+    <ClCompile Include="recursion_power.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
