@@ -463,6 +463,7 @@
     <ClCompile Include="string_combining.c" />
     <ClCompile Include="recursion_factorial.c" />
     <ClCompile Include="recursion_power.c" />
+    <ClCompile Include="function_absolute_value.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
