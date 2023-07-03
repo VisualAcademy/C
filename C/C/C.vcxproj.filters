@@ -467,6 +467,7 @@
     <ClCompile Include="max_min_function.c" />
     <ClCompile Include="function_demo.c" />
     <ClCompile Include="function_call.c" />
+    <ClCompile Include="print_square.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
