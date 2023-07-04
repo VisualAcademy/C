@@ -6,7 +6,7 @@ int Abs(int num)
     return (num < 0) ? -num : num;
 }
 
-int main()
+int main(void)
 {
     int num = -21;
     int abs = Abs(num);
