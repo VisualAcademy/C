@@ -7,8 +7,10 @@ hi()
 	printf("안녕하세요.\n");
 }
 
-main()
+int main(void)
 {
 	//[2] 함수 사용하기(호출)
 	hi(); hi(); hi();
+
+	return 0;
 }
