@@ -12,7 +12,7 @@
 */
 #include <stdio.h>
 
-void main()
+int main(void)
 {
     //[1] 변수 선언
     int i;
@@ -20,4 +20,6 @@ void main()
     i = 100;
     //[3] 변수 참조(가져다 쓰기)
     printf("%d\n", i);
+
+    return 0; 
 }
