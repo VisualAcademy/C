@@ -142,6 +142,7 @@
     <ClCompile Include="LocalVariable.c" />
     <ClCompile Include="Variable.c" />
     <ClCompile Include="변수_복습.c" />
+    <ClCompile Include="변수설명.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
