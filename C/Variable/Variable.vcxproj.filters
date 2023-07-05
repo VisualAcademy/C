@@ -24,5 +24,8 @@
     <ClCompile Include="LocalVariable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="변수_복습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
