@@ -474,6 +474,7 @@
     <ClCompile Include="get_sum_of_two_numbers.c" />
     <ClCompile Include="function_prototype.c" />
     <ClCompile Include="function_scope.c" />
+    <ClCompile Include="macro_redefine.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
