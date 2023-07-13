@@ -469,6 +469,7 @@
     <ClCompile Include="function_call.c" />
     <ClCompile Include="print_square.c" />
     <ClCompile Include="multiply_numbers.c" />
+    <ClCompile Include="가위바위보.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
