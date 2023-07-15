@@ -475,6 +475,7 @@
     <ClCompile Include="function_prototype.c" />
     <ClCompile Include="function_scope.c" />
     <ClCompile Include="macro_redefine.c" />
+    <ClCompile Include="전처리기_조건부컴파일.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
