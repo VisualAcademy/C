@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main(void)
 {
     int number1 = 10;
     int number2 = 20;
@@ -9,4 +9,6 @@ main()
     printf("%d\n", number1);
     printf("%d\n", number2);
     printf("%d\n", number3);
+
+    return 0; 
 }
