@@ -482,6 +482,7 @@
     <ClCompile Include="ToUpperExam.c" />
     <ClCompile Include="ToUpperPractice.c" />
     <ClCompile Include="DebugDemo.c" />
+    <ClCompile Include="GroupAlgorithmTest.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
