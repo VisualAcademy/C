@@ -484,6 +484,7 @@
     <ClCompile Include="DebugDemo.c" />
     <ClCompile Include="GroupAlgorithmTest.c" />
     <ClCompile Include="파일처리(파일생성).c" />
+    <ClCompile Include="02_ 파일에텍스트쓰기.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
