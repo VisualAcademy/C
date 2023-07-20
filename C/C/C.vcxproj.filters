@@ -489,6 +489,7 @@
     <ClCompile Include="구구단데모.c" />
     <ClCompile Include="실습_천단위콤마찍기.c" />
     <ClCompile Include="일년을일시분초로출력.c" />
+    <ClCompile Include="사용자정의데이터형식.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
