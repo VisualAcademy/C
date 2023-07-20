@@ -487,6 +487,7 @@
     <ClCompile Include="02_ 파일에텍스트쓰기.c" />
     <ClCompile Include="03_파일에서텍스트읽기.c" />
     <ClCompile Include="구구단데모.c" />
+    <ClCompile Include="실습_천단위콤마찍기.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
