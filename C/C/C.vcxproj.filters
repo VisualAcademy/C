@@ -495,6 +495,7 @@
     <ClCompile Include="StaticVariable.c" />
     <ClCompile Include="기억클래스_외부변수1.c" />
     <ClCompile Include="기억클래스_자동변수.c" />
+    <ClCompile Include="기억클래스_자동변수의선언.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
