@@ -493,6 +493,7 @@
     <ClCompile Include="전처리기설명.c" />
     <ClCompile Include="문자열을숫자형식으로변환.c" />
     <ClCompile Include="StaticVariable.c" />
+    <ClCompile Include="기억클래스_외부변수1.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
