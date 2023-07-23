@@ -18,5 +18,8 @@
     <ClCompile Include="_.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="macro_not_define.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
