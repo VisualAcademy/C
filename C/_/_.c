@@ -10,5 +10,7 @@
 
 int main(void)
 {
-	printf("%s\n", HI);
+    printf("%s\n", HI);
+
+    return 0;
 }
