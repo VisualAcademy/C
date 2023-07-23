@@ -498,6 +498,7 @@
     <ClCompile Include="기억클래스_자동변수의선언.c" />
     <ClCompile Include="기억클래스_정적변수사용.c" />
     <ClCompile Include="매크로_경로에러중지.c" />
+    <ClCompile Include="매크로_내장매크로.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
