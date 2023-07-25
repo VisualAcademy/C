@@ -12,4 +12,6 @@
 int main(void)
 {
 	printf("%.2f\n", PI);
+
+	return 0; 
 }
