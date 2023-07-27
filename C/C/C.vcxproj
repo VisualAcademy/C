@@ -1730,6 +1730,7 @@
     <ClCompile Include="매크로_매크로상수가선언되었는지확인.c" />
     <ClCompile Include="매크로_매크로상수가선언되지않았을때에러출력.c" />
     <ClCompile Include="매크로_매크로상수의값을확인.c" />
+    <ClCompile Include="매크로_매크로상수의정의취소.c" />
     <ClCompile Include="메모리를복사하는함수.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
