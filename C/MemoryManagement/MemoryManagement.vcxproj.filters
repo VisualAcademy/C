@@ -30,9 +30,6 @@
     <ClCompile Include="메모리할당및해제.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
-    <ClCompile Include="메모리_100MB할당사용해제.c">
-      <Filter>Source Files\_</Filter>
-    </ClCompile>
     <ClCompile Include="메모리사용.c">
       <Filter>Source Files\_</Filter>
     </ClCompile>
