@@ -4,7 +4,7 @@
 
 typedef char* string;
 
-void main()
+int main(void)
 {
 	//[1] 메모리 할당용 포인터 변수
 	string s;
@@ -23,4 +23,6 @@ void main()
 	printf("%s\n", s);
 	//[7] 마무리 : 해당 메모리 공간 해제
 	free(s);
+
+	return 0; 
 }
