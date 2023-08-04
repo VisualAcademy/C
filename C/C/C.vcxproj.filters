@@ -511,6 +511,7 @@
     <ClCompile Include="메모리사용.c" />
     <ClCompile Include="메모리할당.c" />
     <ClCompile Include="메모리할당_블록단위.c" />
+    <ClCompile Include="메모리할당및해제.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
