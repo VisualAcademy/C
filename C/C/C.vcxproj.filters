@@ -512,6 +512,7 @@
     <ClCompile Include="메모리할당.c" />
     <ClCompile Include="메모리할당_블록단위.c" />
     <ClCompile Include="메모리할당및해제.c" />
+    <ClCompile Include="MemoryAllocation.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
