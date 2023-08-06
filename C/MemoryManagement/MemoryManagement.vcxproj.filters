@@ -17,9 +17,4 @@
       <UniqueIdentifier>{61ff6f3d-42a0-4bfd-ab2a-d38dc649ee01}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="MemoryAllocation.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
