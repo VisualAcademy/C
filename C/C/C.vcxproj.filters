@@ -514,6 +514,7 @@
     <ClCompile Include="메모리할당및해제.c" />
     <ClCompile Include="MemoryAllocation.c" />
     <ClCompile Include="함수설명데모.c" />
+    <ClCompile Include="함수_정의_호출.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
