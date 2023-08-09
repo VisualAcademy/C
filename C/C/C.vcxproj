@@ -1749,6 +1749,7 @@
     <ClCompile Include="메모리할당_블록단위.c" />
     <ClCompile Include="메모리할당및해제.c" />
     <ClCompile Include="명령줄인수.c" />
+    <ClCompile Include="명령줄인수로배수의합.c" />
     <ClCompile Include="문자상수.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
