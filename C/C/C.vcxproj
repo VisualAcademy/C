@@ -2076,6 +2076,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="함수_정의_호출.c" />
+    <ClCompile Include="함수_함수의3가지유형.c" />
     <ClCompile Include="함수설계연습.c" />
     <ClCompile Include="함수설명데모.c" />
     <ClCompile Include="함수포인터.c">

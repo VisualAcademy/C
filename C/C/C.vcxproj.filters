@@ -518,6 +518,7 @@
     <ClCompile Include="명령줄인수.c" />
     <ClCompile Include="명령줄인수로배수의합.c" />
     <ClCompile Include="함수설계연습.c" />
+    <ClCompile Include="함수_함수의3가지유형.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
