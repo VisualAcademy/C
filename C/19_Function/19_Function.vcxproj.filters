@@ -60,5 +60,8 @@
     <ClCompile Include="ApplicationArgument.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="함수_함수의3가지유형.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
