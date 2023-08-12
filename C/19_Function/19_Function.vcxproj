@@ -181,6 +181,7 @@
     <ClCompile Include="ReturnValue.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="함수_배수의합.c" />
     <ClCompile Include="함수_함수의3가지유형.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
