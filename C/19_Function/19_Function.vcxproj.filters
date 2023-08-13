@@ -66,5 +66,8 @@
     <ClCompile Include="함수_배수의합.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="함수_수의제곱.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
