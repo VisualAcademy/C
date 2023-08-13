@@ -380,8 +380,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자입출력함수", "�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수_내장함수_데모_문자열처리관련함수", "함수_내장함수_데모_문자열처리관련함수\함수_내장함수_데모_문자열처리관련함수.vcxproj", "{E380EB21-3173-4147-A7FB-70EC8A53126E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_함수_수의제곱", "함수_수의제곱\함수_수의제곱.vcxproj", "{44C4E264-6512-4714-A193-5FB752A60BBB}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_함수_함수의세가지스타일설명", "함수_함수의세가지스타일설명\함수_함수의세가지스타일설명.vcxproj", "{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05_함수_함수의매개변수전달방식설명", "함수_함수의매개변수전달방식설명\함수_함수의매개변수전달방식설명.vcxproj", "{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881}"
@@ -1553,14 +1551,6 @@ Global
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Release|x64.Build.0 = Release|x64
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Release|x86.ActiveCfg = Release|Win32
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Release|x86.Build.0 = Release|Win32
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x64.ActiveCfg = Debug|x64
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x64.Build.0 = Debug|x64
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x86.ActiveCfg = Debug|Win32
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Debug|x86.Build.0 = Debug|Win32
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x64.ActiveCfg = Release|x64
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x64.Build.0 = Release|x64
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x86.ActiveCfg = Release|Win32
-		{44C4E264-6512-4714-A193-5FB752A60BBB}.Release|x86.Build.0 = Release|Win32
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}.Debug|x64.ActiveCfg = Debug|x64
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}.Debug|x64.Build.0 = Debug|x64
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80}.Debug|x86.ActiveCfg = Debug|Win32
@@ -2603,7 +2593,6 @@ Global
 		{EEAAC91B-D2E4-43ED-AA11-65EFB73F18F8} = {8DC68267-72B7-4969-931A-05AB37B19E5C}
 		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7} = {8DC68267-72B7-4969-931A-05AB37B19E5C}
 		{E380EB21-3173-4147-A7FB-70EC8A53126E} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
-		{44C4E264-6512-4714-A193-5FB752A60BBB} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{8C8F2FBE-1839-44B6-8C9F-6CB754C83D80} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{A0E2DEFF-B89F-485E-8FD4-47F3DA26D881} = {EC60490A-F0DF-42EA-BFB3-C75223ED9CB4}
 		{D75A1EE4-EB0A-49FA-995C-A5B8639D925F} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
