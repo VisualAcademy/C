@@ -69,5 +69,8 @@
     <ClCompile Include="함수_수의제곱.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="함수_함수의세가지스타일설명.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
