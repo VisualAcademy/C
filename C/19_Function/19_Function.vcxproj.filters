@@ -75,5 +75,8 @@
     <ClCompile Include="함수_함수의매개변수전달방식설명.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FunctionReturnValue2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
