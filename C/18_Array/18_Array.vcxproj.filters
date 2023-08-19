@@ -48,5 +48,8 @@
     <ClCompile Include="ArrayInit.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이차원배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
