@@ -1,6 +1,7 @@
+// array_total_avg.c
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	int kor[3];
 	int sum;
@@ -14,4 +15,6 @@ void main()
 	avg = sum / (float)3.0;			 // Æò±Õ
 
 	printf("ÇÕ°è: %d, Æò±Õ: %.2f\n", sum, avg);
+
+	return 0; 
 }
