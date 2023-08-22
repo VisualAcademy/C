@@ -57,5 +57,8 @@
     <ClCompile Include="배열_합계평균.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="일차원배열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
