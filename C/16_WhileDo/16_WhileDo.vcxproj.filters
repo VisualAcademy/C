@@ -9,5 +9,6 @@
     <ClCompile Include="WhileEven.c" />
     <ClCompile Include="WhileFibonacci.c" />
     <ClCompile Include="DoWhileDemo.c" />
+    <ClCompile Include="배수.c" />
   </ItemGroup>
 </Project>
