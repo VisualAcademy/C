@@ -19,5 +19,7 @@ int main(void)
 	c = !(a == b); // !0 -> 1
 	printf("!0 = %d\n", c);//1(Âü)
 
-	system("pause");
+	//system("pause");
+
+	return 0; 
 }
