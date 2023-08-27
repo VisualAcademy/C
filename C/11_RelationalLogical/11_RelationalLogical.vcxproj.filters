@@ -9,5 +9,7 @@
     <ClCompile Include="OrOperator.c" />
     <ClCompile Include="LogicalNot.c" />
     <ClCompile Include="논리연산자2.c" />
+    <ClCompile Include="논리연산자_복습.c" />
+    <ClCompile Include="비교연산자_복습.c" />
   </ItemGroup>
 </Project>

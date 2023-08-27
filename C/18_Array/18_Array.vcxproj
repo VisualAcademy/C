@@ -191,6 +191,7 @@
     <ClCompile Include="이차원배열.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="이차원배열데모.c" />
     <ClCompile Include="일차원배열.c" />
     <ClCompile Include="일차원배열데모.c" />
   </ItemGroup>
