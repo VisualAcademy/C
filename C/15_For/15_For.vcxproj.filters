@@ -15,5 +15,6 @@
     <ClCompile Include="fizzbuzz_exam_docs.c" />
     <ClCompile Include="divisor_docs.c" />
     <ClCompile Include="divisor.c" />
+    <ClCompile Include="For문.c" />
   </ItemGroup>
 </Project>
