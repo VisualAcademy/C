@@ -4,5 +4,6 @@
     <ClCompile Include="SwitchExpression.c" />
     <ClCompile Include="Switch.c" />
     <ClCompile Include="SwitchStatement.c" />
+    <ClCompile Include="선택문.c" />
   </ItemGroup>
 </Project>
