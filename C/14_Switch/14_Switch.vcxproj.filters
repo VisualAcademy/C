@@ -6,5 +6,6 @@
     <ClCompile Include="SwitchStatement.c" />
     <ClCompile Include="선택문.c" />
     <ClCompile Include="Switch문.c" />
+    <ClCompile Include="SwitchPractice.c" />
   </ItemGroup>
 </Project>
