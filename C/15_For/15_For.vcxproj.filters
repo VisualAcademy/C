@@ -16,5 +16,6 @@
     <ClCompile Include="divisor_docs.c" />
     <ClCompile Include="divisor.c" />
     <ClCompile Include="For문.c" />
+    <ClCompile Include="ForSum.c" />
   </ItemGroup>
 </Project>
