@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main(void)
 {
 	int sum = 0;
 	int i = 1;
@@ -12,4 +12,6 @@ main()
 	}
 
 	printf("1부터 %d까지의 합: %d\n", n, sum);
+
+	return 0;
 }
