@@ -25,4 +25,6 @@ int main(void)
 	{
 		printf("입력 에러...\n");
 	}
+
+	return 0;
 }

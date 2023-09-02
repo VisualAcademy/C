@@ -27,5 +27,7 @@ int main(void)
 	printf("%d\n", (a > b));	// 1
 	printf("%d\n", (a >= b));	// 1
 
-	system("pause");
+	// system("pause");
+
+	return 0; 
 }

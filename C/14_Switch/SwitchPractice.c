@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-void main()
+void main(void)
 {
 	int f, s;
 	char o;
@@ -25,4 +25,6 @@ void main()
 		printf("+, -, *, /만 사용가능합니다.");
 		break;
 	}
+
+	return 0;
 }

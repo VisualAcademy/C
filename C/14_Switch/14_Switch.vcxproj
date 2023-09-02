@@ -145,7 +145,10 @@
     <ClCompile Include="SwitchExpression.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="SwitchPractice.c" />
     <ClCompile Include="SwitchStatement.c" />
+    <ClCompile Include="Switch문.c" />
+    <ClCompile Include="선택문.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
