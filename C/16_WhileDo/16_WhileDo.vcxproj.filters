@@ -11,5 +11,6 @@
     <ClCompile Include="DoWhileDemo.c" />
     <ClCompile Include="배수.c" />
     <ClCompile Include="조건반복.c" />
+    <ClCompile Include="Do문.c" />
   </ItemGroup>
 </Project>
