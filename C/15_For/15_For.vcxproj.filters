@@ -17,5 +17,6 @@
     <ClCompile Include="divisor.c" />
     <ClCompile Include="For문.c" />
     <ClCompile Include="ForSum.c" />
+    <ClCompile Include="짝수의합.c" />
   </ItemGroup>
 </Project>
