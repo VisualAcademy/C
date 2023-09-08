@@ -1,7 +1,7 @@
 //[?] do 문을 사용하여 1부터 5까지의 합
 #include <stdio.h>
 
-main()
+int main(void)
 {
 	int sum = 0;
 
@@ -12,4 +12,6 @@ main()
 		i++;					// 증감식
 	} while (i <= 5);			// 조건식
 	printf("합계: %d\n", sum);	// 15
+
+	return 0; 
 }
