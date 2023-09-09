@@ -12,5 +12,6 @@
     <ClCompile Include="배수.c" />
     <ClCompile Include="조건반복.c" />
     <ClCompile Include="Do문.c" />
+    <ClCompile Include="DoWhileSum.c" />
   </ItemGroup>
 </Project>
