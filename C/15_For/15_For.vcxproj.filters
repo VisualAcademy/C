@@ -21,5 +21,6 @@
     <ClCompile Include="배수의합.c" />
     <ClCompile Include="구구단_가로출력.c" />
     <ClCompile Include="ForFactorial.c" />
+    <ClCompile Include="ForTriangle.c" />
   </ItemGroup>
 </Project>
