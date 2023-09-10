@@ -13,5 +13,6 @@
     <ClCompile Include="조건반복.c" />
     <ClCompile Include="Do문.c" />
     <ClCompile Include="DoWhileSum.c" />
+    <ClCompile Include="실행반복_Do문.c" />
   </ItemGroup>
 </Project>
