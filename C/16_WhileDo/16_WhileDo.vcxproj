@@ -164,6 +164,7 @@
     <ClCompile Include="WhileLoop.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="While문.c" />
     <ClCompile Include="배수.c" />
     <ClCompile Include="실행반복.c" />
     <ClCompile Include="실행반복_Do문.c" />
