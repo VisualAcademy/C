@@ -17,5 +17,6 @@
     <ClCompile Include="실행반복.c" />
     <ClCompile Include="While문.c" />
     <ClCompile Include="WhileSum.c" />
+    <ClCompile Include="WhileBreak.c" />
   </ItemGroup>
 </Project>

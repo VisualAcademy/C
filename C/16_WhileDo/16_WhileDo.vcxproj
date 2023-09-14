@@ -145,6 +145,7 @@
     <ClCompile Include="DoWhileDemo.c" />
     <ClCompile Include="DoWhileSum.c" />
     <ClCompile Include="Do문.c" />
+    <ClCompile Include="WhileBreak.c" />
     <ClCompile Include="WhileDecrement.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
