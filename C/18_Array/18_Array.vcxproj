@@ -195,6 +195,7 @@
     <ClCompile Include="이차원배열데모.c" />
     <ClCompile Include="일차원배열.c" />
     <ClCompile Include="일차원배열데모.c" />
+    <ClCompile Include="일차원배열추가설명.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

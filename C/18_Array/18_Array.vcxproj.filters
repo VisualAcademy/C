@@ -69,5 +69,8 @@
     <ClCompile Include="삼차원배열데모.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="일차원배열추가설명.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
