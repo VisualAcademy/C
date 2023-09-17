@@ -72,5 +72,8 @@
     <ClCompile Include="일차원배열추가설명.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="배열_삼차원배열_테트리스블록표현.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
