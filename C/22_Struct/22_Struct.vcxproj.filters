@@ -54,6 +54,9 @@
     <ClCompile Include="2_구조체선언과동시에초기화.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3_구조체배열.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
