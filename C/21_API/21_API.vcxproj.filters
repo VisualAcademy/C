@@ -30,5 +30,8 @@
     <ClCompile Include="GetcheDemo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="문자입출력함수.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
