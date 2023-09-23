@@ -356,8 +356,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "함수_내장함수", "함�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자열입출력함수", "문자열입출력함수\문자열입출력함수.vcxproj", "{EEAAC91B-D2E4-43ED-AA11-65EFB73F18F8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문자입출력함수", "문자입출력함수\문자입출력함수.vcxproj", "{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수_내장함수_데모_문자열처리관련함수", "함수_내장함수_데모_문자열처리관련함수\함수_내장함수_데모_문자열처리관련함수.vcxproj", "{E380EB21-3173-4147-A7FB-70EC8A53126E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "함수_내장함수_데모_문자처리관련함수", "함수_내장함수_데모_문자처리관련함수\함수_내장함수_데모_문자처리관련함수.vcxproj", "{D75A1EE4-EB0A-49FA-995C-A5B8639D925F}"
@@ -1395,14 +1393,6 @@ Global
 		{EEAAC91B-D2E4-43ED-AA11-65EFB73F18F8}.Release|x64.Build.0 = Release|x64
 		{EEAAC91B-D2E4-43ED-AA11-65EFB73F18F8}.Release|x86.ActiveCfg = Release|Win32
 		{EEAAC91B-D2E4-43ED-AA11-65EFB73F18F8}.Release|x86.Build.0 = Release|Win32
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Debug|x64.ActiveCfg = Debug|x64
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Debug|x64.Build.0 = Debug|x64
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Debug|x86.ActiveCfg = Debug|Win32
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Debug|x86.Build.0 = Debug|Win32
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Release|x64.ActiveCfg = Release|x64
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Release|x64.Build.0 = Release|x64
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Release|x86.ActiveCfg = Release|Win32
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7}.Release|x86.Build.0 = Release|Win32
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Debug|x64.ActiveCfg = Debug|x64
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Debug|x64.Build.0 = Debug|x64
 		{E380EB21-3173-4147-A7FB-70EC8A53126E}.Debug|x86.ActiveCfg = Debug|Win32
@@ -2193,7 +2183,6 @@ Global
 		{5559F218-5730-44F0-815B-A789C2AB1836} = {1B090181-FD8D-49FE-8FA6-678715F8ACB3}
 		{8DC68267-72B7-4969-931A-05AB37B19E5C} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
 		{EEAAC91B-D2E4-43ED-AA11-65EFB73F18F8} = {8DC68267-72B7-4969-931A-05AB37B19E5C}
-		{DE79CB03-1118-4C4D-B4F6-7F247E0C38D7} = {8DC68267-72B7-4969-931A-05AB37B19E5C}
 		{E380EB21-3173-4147-A7FB-70EC8A53126E} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
 		{D75A1EE4-EB0A-49FA-995C-A5B8639D925F} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
 		{B94255F0-FA97-411D-BC5B-CF9DE1F1E811} = {DEC47049-4341-495E-9FF3-808D38E4AA20}
