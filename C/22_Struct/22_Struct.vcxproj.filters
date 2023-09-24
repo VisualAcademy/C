@@ -60,6 +60,9 @@
     <ClCompile Include="4_구조체배열선언과동시에초기화.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="구조체_구조체포인터.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Docs.txt">
