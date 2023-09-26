@@ -18,5 +18,8 @@
     <ClCompile Include="열거형.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="열거형설명.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
