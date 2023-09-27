@@ -21,5 +21,8 @@
     <ClCompile Include="열거형설명.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="공용체설명.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

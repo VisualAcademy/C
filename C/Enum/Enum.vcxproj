@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="공용체설명.c" />
     <ClCompile Include="열거형.c" />
     <ClCompile Include="열거형설명.c" />
   </ItemGroup>
