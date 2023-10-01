@@ -27,5 +27,8 @@
     <ClCompile Include="공용체설명_공용체설명.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="공용체_공용체크기.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
