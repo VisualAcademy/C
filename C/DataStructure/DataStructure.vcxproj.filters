@@ -18,5 +18,8 @@
     <ClCompile Include="해시테이블계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="데이터구조_리스트입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
