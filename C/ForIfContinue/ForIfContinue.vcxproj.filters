@@ -42,5 +42,8 @@
     <ClCompile Include="WhileSumBreak.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Continue문.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
