@@ -60,5 +60,8 @@
     <ClCompile Include="산술연산자.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="산술연산자설명.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
