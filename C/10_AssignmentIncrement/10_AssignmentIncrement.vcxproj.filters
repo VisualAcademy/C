@@ -51,5 +51,8 @@
     <ClCompile Include="증감연산자.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="대입연산자_복습.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
