@@ -24,6 +24,7 @@
     <ProjectGuid>{860d03fa-c79c-4432-9af8-64c217798890}</ProjectGuid>
     <RootNamespace>BitAndShift</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>12_BitAndShift</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
