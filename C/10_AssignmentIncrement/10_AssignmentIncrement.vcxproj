@@ -167,6 +167,7 @@
     <ClCompile Include="SwapDemo.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="대입연산자.c" />
     <ClCompile Include="대입연산자_복습.c" />
     <ClCompile Include="증감연산자.c" />
     <ClCompile Include="증감연산자_추가.c" />
