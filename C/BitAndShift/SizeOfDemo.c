@@ -1,7 +1,7 @@
 //[?] sizeof 연산자로 데이터 형식의 크기 구하기
 #include <stdio.h>
 
-int main()
+int main(void)
 {
 	char c = 'A';
 	int i = 1234;
