@@ -18,5 +18,8 @@
     <ClCompile Include="BitAnd.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SizeOfDemo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
