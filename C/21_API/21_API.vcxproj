@@ -142,6 +142,7 @@
     <ClCompile Include="CharTypeDemo.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="ConioGetch.c" />
     <ClCompile Include="GetChar.c" />
     <ClCompile Include="GetchDemo.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>

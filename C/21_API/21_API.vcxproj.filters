@@ -42,5 +42,8 @@
     <ClCompile Include="GetChar.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ConioGetch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
