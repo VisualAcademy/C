@@ -45,5 +45,8 @@
     <ClCompile Include="ConioGetch.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IsAlNum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
