@@ -48,5 +48,8 @@
     <ClCompile Include="IsAlNum.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IsAlpha.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
