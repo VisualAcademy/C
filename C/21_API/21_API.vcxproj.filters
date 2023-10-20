@@ -51,5 +51,8 @@
     <ClCompile Include="IsAlpha.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IsSpace.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
