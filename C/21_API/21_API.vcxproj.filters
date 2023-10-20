@@ -54,5 +54,8 @@
     <ClCompile Include="IsSpace.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="IsUpperIsLower.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

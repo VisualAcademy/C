@@ -154,6 +154,7 @@
     <ClCompile Include="IsAlpha.c" />
     <ClCompile Include="IsDigit.c" />
     <ClCompile Include="IsSpace.c" />
+    <ClCompile Include="IsUpperIsLower.c" />
     <ClCompile Include="PutchDemo.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
