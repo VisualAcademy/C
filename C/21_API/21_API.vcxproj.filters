@@ -57,5 +57,8 @@
     <ClCompile Include="IsUpperIsLower.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="내장함수_랜덤.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
