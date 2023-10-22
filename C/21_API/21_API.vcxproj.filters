@@ -60,5 +60,8 @@
     <ClCompile Include="내장함수_랜덤.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="함수_내장함수_데모_문자열처리관련함수.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
