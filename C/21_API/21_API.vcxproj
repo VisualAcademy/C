@@ -165,6 +165,7 @@
     <ClCompile Include="문자열입출력함수.c" />
     <ClCompile Include="문자입출력함수.c" />
     <ClCompile Include="함수_내장함수_데모_문자열처리관련함수.c" />
+    <ClCompile Include="함수_내장함수_데모_문자처리관련함수.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
