@@ -143,6 +143,7 @@
     <ClCompile Include="BitAnd.c" />
     <ClCompile Include="OperatorThree.c" />
     <ClCompile Include="SizeOfDemo.c" />
+    <ClCompile Include="괄호연산자.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

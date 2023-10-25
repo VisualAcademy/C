@@ -24,5 +24,8 @@
     <ClCompile Include="OperatorThree.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="괄호연산자.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
