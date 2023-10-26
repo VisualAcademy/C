@@ -5,7 +5,7 @@
 */
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	int a, b, c;
 	a = 3; b = 5;
@@ -18,5 +18,6 @@ void main()
 		;
 	printf("c : %d\n", c); // 0 
 
-	system("pause");
+	//system("pause");
+	return 0; 
 }
