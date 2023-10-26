@@ -145,6 +145,7 @@
     <ClCompile Include="SizeOfDemo.c" />
     <ClCompile Include="괄호연산자.c" />
     <ClCompile Include="조건연산자.c" />
+    <ClCompile Include="조건연산자추가설명.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

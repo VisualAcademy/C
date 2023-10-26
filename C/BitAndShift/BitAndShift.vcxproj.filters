@@ -30,5 +30,8 @@
     <ClCompile Include="조건연산자.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="조건연산자추가설명.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
