@@ -141,6 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BitAnd.c" />
+    <ClCompile Include="OperatorPrecedence.c" />
     <ClCompile Include="OperatorThree.c" />
     <ClCompile Include="ShiftOperatorDemo.c" />
     <ClCompile Include="SizeOfDemo.c" />
