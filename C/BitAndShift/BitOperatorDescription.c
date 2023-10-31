@@ -1,7 +1,7 @@
 // 비트 연산자: AND(&), OR(|), XOR(^), NOT(~) 
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	int x = 12; // 1100
 	int y = 10; // 1010
@@ -17,4 +17,6 @@ void main()
 	printf("n: %d\n", n);
 
 	getchar();
+
+	return 0; 
 }
