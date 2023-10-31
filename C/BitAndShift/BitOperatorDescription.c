@@ -1,3 +1,4 @@
+// bit-operator-description.md
 // 비트 연산자: AND(&), OR(|), XOR(^), NOT(~) 
 #include <stdio.h>
 
