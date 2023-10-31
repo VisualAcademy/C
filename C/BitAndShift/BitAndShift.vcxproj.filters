@@ -42,5 +42,8 @@
     <ClCompile Include="OperatorPrecedence.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BitOperatorDescription.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
