@@ -171,6 +171,7 @@
     <ClCompile Include="실행반복.c" />
     <ClCompile Include="실행반복_Do문.c" />
     <ClCompile Include="조건반복.c" />
+    <ClCompile Include="짝수의합_While.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

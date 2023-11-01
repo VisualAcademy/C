@@ -18,5 +18,6 @@
     <ClCompile Include="While문.c" />
     <ClCompile Include="WhileSum.c" />
     <ClCompile Include="WhileBreak.c" />
+    <ClCompile Include="짝수의합_While.c" />
   </ItemGroup>
 </Project>
