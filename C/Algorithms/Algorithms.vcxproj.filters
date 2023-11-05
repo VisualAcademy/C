@@ -21,7 +21,11 @@
     <ClCompile Include="합계카운트평균.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="배수의정렬.c">
+=======
+    <ClCompile Include="몇승.c">
+>>>>>>> 5f8ea843ab8eec6d2e3ea857bb102771abb14d18
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

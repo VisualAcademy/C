@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="배수의정렬.c" />
+=======
+    <ClCompile Include="몇승.c" />
+>>>>>>> 5f8ea843ab8eec6d2e3ea857bb102771abb14d18
     <ClCompile Include="순위.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
