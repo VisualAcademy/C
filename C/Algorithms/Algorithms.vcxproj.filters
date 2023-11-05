@@ -21,5 +21,8 @@
     <ClCompile Include="합계카운트평균.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="배수의정렬.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
