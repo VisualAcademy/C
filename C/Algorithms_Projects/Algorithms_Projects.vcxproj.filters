@@ -30,5 +30,8 @@
     <ClCompile Include="알고리즘_짝수합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

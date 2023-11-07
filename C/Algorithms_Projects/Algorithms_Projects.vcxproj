@@ -130,6 +130,7 @@
     <ClCompile Include="몇승.c" />
     <ClCompile Include="배수의정렬.c" />
     <ClCompile Include="순위.c" />
+    <ClCompile Include="알고리즘_정렬.c" />
     <ClCompile Include="알고리즘_짝수합.c" />
     <ClCompile Include="합계카운트평균.c" />
   </ItemGroup>
