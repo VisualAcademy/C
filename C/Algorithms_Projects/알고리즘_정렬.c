@@ -3,11 +3,12 @@
 */
 #include <stdio.h>
 
-main()
+int main(void)
 {
 	//[1] Input
 	int intNum[5] = { 2, 3, 1, 5, 4 };
 	int i, j, temp;
+
 	//[2] Process : Selection Sort(선택 정렬)
 	for (i = 0; i < 5 - 1; i++)
 	{
@@ -21,9 +22,12 @@ main()
 			}
 		}
 	}
+
 	//[3] Output
 	for (i = 0; i < 5; i++)
 	{
 		printf("%d\n", intNum[i]);
 	}
+
+	return 0; 
 }
