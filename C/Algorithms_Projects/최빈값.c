@@ -44,5 +44,5 @@ int main(void)
 	//[3] Output
 	printf("\n%d이(가) %d번 나타남.\n", intIndex, intMax);
 
-	return 0; 
+	return 0;
 }

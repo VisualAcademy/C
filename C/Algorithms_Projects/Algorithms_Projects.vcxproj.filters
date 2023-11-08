@@ -36,5 +36,8 @@
     <ClCompile Include="알고리즘_이진검색설명.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="최빈값.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
