@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="근사값.c" />
     <ClCompile Include="몇승.c" />
     <ClCompile Include="배수의정렬.c" />
     <ClCompile Include="순위.c" />
