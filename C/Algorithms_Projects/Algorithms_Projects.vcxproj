@@ -130,6 +130,7 @@
     <ClCompile Include="근사값.c" />
     <ClCompile Include="몇승.c" />
     <ClCompile Include="배수의정렬.c" />
+    <ClCompile Include="순서도.c" />
     <ClCompile Include="순위.c" />
     <ClCompile Include="알고리즘_이진검색설명.c" />
     <ClCompile Include="알고리즘_정렬.c" />
