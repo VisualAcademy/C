@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="근사값.c" />
     <ClCompile Include="몇승.c" />
+    <ClCompile Include="반올림.c" />
     <ClCompile Include="배수의정렬.c" />
     <ClCompile Include="수열.c" />
     <ClCompile Include="순서도.c" />
