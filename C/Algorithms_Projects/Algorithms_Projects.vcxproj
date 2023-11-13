@@ -132,6 +132,7 @@
     <ClCompile Include="반올림.c" />
     <ClCompile Include="배수의정렬.c" />
     <ClCompile Include="수열.c" />
+    <ClCompile Include="수열문제.c" />
     <ClCompile Include="수열처리.c" />
     <ClCompile Include="순서도.c" />
     <ClCompile Include="순위.c" />
