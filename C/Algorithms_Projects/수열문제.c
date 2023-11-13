@@ -5,10 +5,12 @@
 // 礎熱 : -
 #include <stdio.h>
 
-void main() {
+int main(void) 
+{
 	//[1] Input
 	double dblNum = 0.0;
 	int i;
+
 	//[2] Process : 熱翮
 	for (i = 1; i <= 99; i++) {
 		if (i % 2 == 1) { // �汝鷇騤�		
@@ -18,6 +20,9 @@ void main() {
 			dblNum -= i / (double)(i + 1);
 		}
 	}
+
 	//[3] Output
 	printf("唸婁高 : %.4f\n", dblNum);
+
+	return 0; 
 }
