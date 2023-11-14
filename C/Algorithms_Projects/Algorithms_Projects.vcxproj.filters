@@ -57,5 +57,8 @@
     <ClCompile Include="수열문제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="반올림올림내림.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
