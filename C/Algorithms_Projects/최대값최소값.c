@@ -1,4 +1,4 @@
-// 최대값(MAX), 최소값(MIN) 알고리즘
+// 최댓값(MAX), 최솟값(MIN) 알고리즘
 
 #include <stdio.h>
 
@@ -7,8 +7,8 @@ void main(void)
     //[1] Init
     int i = 0;
     //[1] 변수 초기화 
-    int intMax = 0;  // 최대값: 가장 작은 값.
-    int intMin = 100;  // 최소값: 가장 큰 값.
+    int intMax = 0;  // 최댓값: 가장 작은 값.
+    int intMin = 100;  // 최솟값: 가장 큰 값.
     // 5개의 정수 대입 배열
     int intNum[5] = { 21, 50, 33, 45, 7 };
 
@@ -25,6 +25,8 @@ void main(void)
     }
 
     //[3] Output
-    printf("최대값 : %d\n", intMax);
-    printf("최소값 : %d\n", intMin);
+    printf("최댓값 : %d\n", intMax);
+    printf("최솟값 : %d\n", intMin);
+
+    return 0;
 }
