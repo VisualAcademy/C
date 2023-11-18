@@ -63,5 +63,8 @@
     <ClCompile Include="최대값최소값.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="선택정렬알고리즘.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
