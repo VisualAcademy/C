@@ -1,7 +1,7 @@
 // 1/2 - 2/3 + ... + 98/99 - 99/100 = ?
 #include <stdio.h>
 
-void main()
+int main(void)
 {
 	//[1] Input
 	double dblNum = 0.0;//전체 합
@@ -22,4 +22,6 @@ void main()
 	}
 	//[3] Output
 	printf("결과값 : %.4f\n", dblNum);
+
+	return 0;
 }
