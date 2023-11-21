@@ -131,6 +131,7 @@
     <ClCompile Include="기사문제풀이_2회.c" />
     <ClCompile Include="기사문제풀이_3회.c" />
     <ClCompile Include="기사문제풀이_4회.c" />
+    <ClCompile Include="기사문제풀이_5회.c" />
     <ClCompile Include="몇승.c" />
     <ClCompile Include="반올림.c" />
     <ClCompile Include="반올림올림내림.c" />
