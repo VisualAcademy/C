@@ -137,6 +137,7 @@
     <ClCompile Include="반올림.c" />
     <ClCompile Include="반올림올림내림.c" />
     <ClCompile Include="배수의정렬.c" />
+    <ClCompile Include="배수의합_복습.c" />
     <ClCompile Include="선택정렬알고리즘.c" />
     <ClCompile Include="수열.c" />
     <ClCompile Include="수열문제.c" />

@@ -81,5 +81,8 @@
     <ClCompile Include="기사문제풀이_5회_.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="배수의합_복습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
