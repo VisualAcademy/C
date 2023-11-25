@@ -84,5 +84,8 @@
     <ClCompile Include="배수의합_복습.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_최대값.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
