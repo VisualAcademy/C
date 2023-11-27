@@ -521,6 +521,7 @@
     <ClCompile Include="함수_함수의3가지유형.c" />
     <ClCompile Include="함수_배수의합.c" />
     <ClCompile Include="salary_calculator.c" />
+    <ClCompile Include="binary_search_impl.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
