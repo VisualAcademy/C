@@ -93,5 +93,8 @@
     <ClCompile Include="알고리즘_이분탐색.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_건수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
