@@ -1,8 +1,10 @@
+// 파일명: 알고리즘_건수.c
+
 /*
 while문을 사용해서 1부터 10까지
 3의 배수의 개수(Count) : 3, 6, 9 : 3개
 */
-main()
+int main(void)
 {
 	//[1] Init/Input
 	int count = 0;//카운트 저장 변수
@@ -39,4 +41,6 @@ main()
 	*/
 	//[3] Output
 	printf("1~10까지 3의 배수의 개수 : %d\n", count);//3
+
+	return 0; 
 }
