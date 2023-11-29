@@ -99,5 +99,8 @@
     <ClCompile Include="범위에해당하는배수의합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="순차검색알고리즘설명.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

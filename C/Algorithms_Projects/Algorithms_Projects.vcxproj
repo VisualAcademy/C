@@ -145,6 +145,7 @@
     <ClCompile Include="수열처리.c" />
     <ClCompile Include="순서도.c" />
     <ClCompile Include="순위.c" />
+    <ClCompile Include="순차검색알고리즘설명.c" />
     <ClCompile Include="알고리즘_건수.c" />
     <ClCompile Include="알고리즘_이분탐색.c" />
     <ClCompile Include="알고리즘_이진검색설명.c" />
