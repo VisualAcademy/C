@@ -105,5 +105,8 @@
     <ClCompile Include="알고리즘_수열(Sequence).c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_카운트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
