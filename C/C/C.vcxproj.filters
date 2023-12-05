@@ -524,6 +524,7 @@
     <ClCompile Include="binary_search_impl.c" />
     <ClCompile Include="포인터_최대값.c" />
     <ClCompile Include="가까운값(NEAR).c" />
+    <ClCompile Include="순위알고리즘.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
