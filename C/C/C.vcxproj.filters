@@ -523,6 +523,7 @@
     <ClCompile Include="salary_calculator.c" />
     <ClCompile Include="binary_search_impl.c" />
     <ClCompile Include="포인터_최대값.c" />
+    <ClCompile Include="가까운값(NEAR).c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header_calc.h" />
