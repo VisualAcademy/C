@@ -13,10 +13,13 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\_">
+      <UniqueIdentifier>{1c83693e-36f5-4be7-b47f-03c26b490382}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="알고리즘_최소값.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\_</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
