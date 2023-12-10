@@ -24,5 +24,8 @@
     <ClCompile Include="알고리즘_순위.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_선택정렬.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
