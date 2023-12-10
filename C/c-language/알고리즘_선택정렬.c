@@ -18,11 +18,11 @@ int main(void)
 	printf("\n");
 
 	//[2] Process : Á¤·Ä
-	for (i = 0; i < 5 - 1; i++)
+	for (i = 0; i < 5 - 1; i++) // 0 to N - 1
 	{
-		for (j = i + 1; j < 5; j++)
+		for (j = i + 1; j < 5; j++) // i + 1 to N
 		{
-			if (intNum[i] > intNum[j])
+			if (intNum[i] > intNum[j]) // Swap data
 			{
 				temp = intNum[i];
 				intNum[i] = intNum[j];
