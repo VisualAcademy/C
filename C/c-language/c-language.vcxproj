@@ -130,6 +130,7 @@
     <ClCompile Include="알고리즘_선택정렬.c" />
     <ClCompile Include="알고리즘_순위.c" />
     <ClCompile Include="알고리즘_최소값.c" />
+    <ClCompile Include="오름차순정렬.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
