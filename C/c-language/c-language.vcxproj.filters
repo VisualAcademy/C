@@ -30,5 +30,8 @@
     <ClCompile Include="오름차순정렬.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_병합(MEARGE).c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
