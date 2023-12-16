@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="알고리즘_병합(MEARGE).c" />
     <ClCompile Include="알고리즘_선택정렬.c" />
+    <ClCompile Include="알고리즘_순위(RANK).c" />
     <ClCompile Include="알고리즘_순위.c" />
     <ClCompile Include="알고리즘_최소값.c" />
     <ClCompile Include="알고리즘_축차탐색.c" />
