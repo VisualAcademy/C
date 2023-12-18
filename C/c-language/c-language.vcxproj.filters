@@ -42,5 +42,8 @@
     <ClCompile Include="알고리즘_순위(RANK).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_평균.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

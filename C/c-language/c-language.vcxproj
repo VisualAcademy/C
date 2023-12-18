@@ -133,6 +133,7 @@
     <ClCompile Include="알고리즘_순위.c" />
     <ClCompile Include="알고리즘_최소값.c" />
     <ClCompile Include="알고리즘_축차탐색.c" />
+    <ClCompile Include="알고리즘_평균.c" />
     <ClCompile Include="알고리즘_합계.c" />
     <ClCompile Include="오름차순정렬.c" />
   </ItemGroup>
