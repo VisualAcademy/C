@@ -1,3 +1,4 @@
+// https://dul.me/docs/csharp/algorithms/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
