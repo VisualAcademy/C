@@ -51,5 +51,8 @@
     <ClCompile Include="알고리즘_가까운값(NEAR).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_합계카운트평균.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

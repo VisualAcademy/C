@@ -136,6 +136,7 @@
     <ClCompile Include="알고리즘_축차탐색.c" />
     <ClCompile Include="알고리즘_평균.c" />
     <ClCompile Include="알고리즘_합계.c" />
+    <ClCompile Include="알고리즘_합계카운트평균.c" />
     <ClCompile Include="오름차순정렬.c" />
     <ClCompile Include="최댓값최솟값.c" />
   </ItemGroup>
