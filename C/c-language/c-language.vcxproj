@@ -139,6 +139,7 @@
     <ClCompile Include="알고리즘_합계카운트평균.c" />
     <ClCompile Include="오름차순정렬.c" />
     <ClCompile Include="최댓값최솟값.c" />
+    <ClCompile Include="포인터_합계카운트평균.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
