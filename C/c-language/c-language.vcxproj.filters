@@ -60,5 +60,8 @@
     <ClCompile Include="기사문제풀이_1회_수열_1.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="기사문제풀이_1회_수열_2.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
