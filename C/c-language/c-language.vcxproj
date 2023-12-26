@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="기사문제풀이_1회_수열_1.c" />
     <ClCompile Include="기사문제풀이_1회_수열_2.c" />
+    <ClCompile Include="선택정렬알고리즘설명.c" />
     <ClCompile Include="알고리즘_가까운값(NEAR).c" />
     <ClCompile Include="알고리즘_병합(MEARGE).c" />
     <ClCompile Include="알고리즘_선택정렬.c" />

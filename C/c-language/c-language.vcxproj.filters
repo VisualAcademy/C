@@ -66,5 +66,8 @@
     <ClCompile Include="알고리즘_최빈값(MODE).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="선택정렬알고리즘설명.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
