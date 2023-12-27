@@ -69,5 +69,8 @@
     <ClCompile Include="선택정렬알고리즘설명.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_기능사_기출문제1.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
