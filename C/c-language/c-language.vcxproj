@@ -132,6 +132,7 @@
     <ClCompile Include="선택정렬알고리즘설명.c" />
     <ClCompile Include="알고리즘_가까운값(NEAR).c" />
     <ClCompile Include="알고리즘_기능사_기출문제1.c" />
+    <ClCompile Include="알고리즘_기능사_기출문제2.c" />
     <ClCompile Include="알고리즘_병합(MEARGE).c" />
     <ClCompile Include="알고리즘_선택정렬.c" />
     <ClCompile Include="알고리즘_순위(RANK).c" />
