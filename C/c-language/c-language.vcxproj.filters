@@ -78,5 +78,8 @@
     <ClCompile Include="알고리즘_기능사_기출문제3.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_순차검색(SEARCH).c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
