@@ -90,5 +90,8 @@
     <ClCompile Include="알고리즘_기사문제풀이5.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘_스위치사용버블정렬.c">
+      <Filter>소스 파일\_</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
