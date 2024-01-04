@@ -131,6 +131,7 @@
     <ClCompile Include="기사문제풀이_1회_수열_2.c" />
     <ClCompile Include="선택정렬알고리즘설명.c" />
     <ClCompile Include="알고리즘_가까운값(NEAR).c" />
+    <ClCompile Include="알고리즘_그룹(Group).c" />
     <ClCompile Include="알고리즘_기능사_기출문제1.c" />
     <ClCompile Include="알고리즘_기능사_기출문제2.c" />
     <ClCompile Include="알고리즘_기능사_기출문제3.c" />
