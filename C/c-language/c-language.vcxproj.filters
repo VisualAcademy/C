@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\_">
       <UniqueIdentifier>{1c83693e-36f5-4be7-b47f-03c26b490382}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\_\Data">
+      <UniqueIdentifier>{9e30501f-d23a-4746-b9bd-8b4dc8b21488}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="알고리즘_최소값.c">
@@ -93,5 +96,13 @@
     <ClCompile Include="알고리즘_스위치사용버블정렬.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="abc1229.txt">
+      <Filter>소스 파일\_\Data</Filter>
+    </Text>
+    <Text Include="abc1229_.txt">
+      <Filter>소스 파일\_\Data</Filter>
+    </Text>
   </ItemGroup>
 </Project>

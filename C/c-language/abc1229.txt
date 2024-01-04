@@ -1,0 +1,9 @@
+RADIO  5
+TV     6
+PHONE  3
+RADIO  2
+PHONE  2
+TV    10
+PHONE 11
+TV     7
+PHONE  4

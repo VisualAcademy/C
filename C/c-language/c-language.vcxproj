@@ -153,6 +153,10 @@
     <ClCompile Include="최댓값최솟값.c" />
     <ClCompile Include="포인터_합계카운트평균.c" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="abc1229.txt" />
+    <Text Include="abc1229_.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
