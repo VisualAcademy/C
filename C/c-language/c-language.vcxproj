@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IncludeDemo.c" />
+    <ClCompile Include="max.c" />
     <ClCompile Include="기사문제풀이_1회_수열_1.c" />
     <ClCompile Include="기사문제풀이_1회_수열_2.c" />
     <ClCompile Include="선택정렬알고리즘설명.c" />
@@ -157,6 +159,9 @@
   <ItemGroup>
     <Text Include="abc1229.txt" />
     <Text Include="abc1229_.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="max.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

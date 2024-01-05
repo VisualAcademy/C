@@ -99,6 +99,12 @@
     <ClCompile Include="알고리즘_그룹(Group).c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="max.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IncludeDemo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
@@ -107,5 +113,10 @@
     <Text Include="abc1229_.txt">
       <Filter>소스 파일\_\Data</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="max.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
