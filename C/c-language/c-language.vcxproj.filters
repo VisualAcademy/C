@@ -111,6 +111,9 @@
     <ClCompile Include="extern_functions.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="FileOpenDemo.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
