@@ -105,6 +105,12 @@
     <ClCompile Include="IncludeDemo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="extern_main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="extern_functions.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
@@ -116,6 +122,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="max.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="extern_functions.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

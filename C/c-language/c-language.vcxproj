@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="extern_functions.c" />
+    <ClCompile Include="extern_main.c" />
     <ClCompile Include="IncludeDemo.c" />
     <ClCompile Include="max.c" />
     <ClCompile Include="기사문제풀이_1회_수열_1.c" />
@@ -161,6 +163,7 @@
     <Text Include="abc1229_.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="extern_functions.h" />
     <ClInclude Include="max.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
