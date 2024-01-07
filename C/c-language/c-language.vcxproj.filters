@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\_\Data">
       <UniqueIdentifier>{9e30501f-d23a-4746-b9bd-8b4dc8b21488}</UniqueIdentifier>
     </Filter>
+    <Filter Include="텍스트 파일">
+      <UniqueIdentifier>{85c98bde-c86a-4d45-a783-ef238fb80437}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="알고리즘_최소값.c">
@@ -114,6 +117,9 @@
     <ClCompile Include="FileOpenDemo.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CreateTextFile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
@@ -121,6 +127,9 @@
     </Text>
     <Text Include="abc1229_.txt">
       <Filter>소스 파일\_\Data</Filter>
+    </Text>
+    <Text Include="IO.txt">
+      <Filter>텍스트 파일</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
