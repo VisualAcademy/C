@@ -139,6 +139,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="MacroFunction.c" />
+    <ClCompile Include="macro_function.c" />
     <ClCompile Include="max.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -225,6 +226,7 @@
     <Text Include="abc1229.txt" />
     <Text Include="abc1229_.txt" />
     <Text Include="IO.txt" />
+    <Text Include="PreProcessor.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="extern_functions.h">

@@ -123,6 +123,9 @@
     <ClCompile Include="MacroFunction.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="macro_function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
@@ -132,6 +135,9 @@
       <Filter>소스 파일\_\Data</Filter>
     </Text>
     <Text Include="IO.txt">
+      <Filter>텍스트 파일</Filter>
+    </Text>
+    <Text Include="PreProcessor.txt">
       <Filter>텍스트 파일</Filter>
     </Text>
   </ItemGroup>
