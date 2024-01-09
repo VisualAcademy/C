@@ -120,6 +120,9 @@
     <ClCompile Include="CreateTextFile.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MacroFunction.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
