@@ -126,6 +126,9 @@
     <ClCompile Include="macro_function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="MoneyCount.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
