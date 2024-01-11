@@ -132,6 +132,9 @@
     <ClCompile Include="Algorithm_Sum_Parking.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ArithmeticSequence.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">

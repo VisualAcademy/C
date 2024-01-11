@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm_Sum_Parking.c" />
+    <ClCompile Include="ArithmeticSequence.c" />
     <ClCompile Include="CreateTextFile.c" />
     <ClCompile Include="extern_functions.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
