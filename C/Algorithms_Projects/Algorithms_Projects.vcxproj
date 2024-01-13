@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="근사값.c" />
     <ClCompile Include="기사문제풀이_2회.c" />
     <ClCompile Include="기사문제풀이_3회.c" />
     <ClCompile Include="기사문제풀이_4회.c" />

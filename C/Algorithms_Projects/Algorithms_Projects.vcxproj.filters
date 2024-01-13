@@ -39,9 +39,6 @@
     <ClCompile Include="최빈값.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="근사값.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="순서도.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
