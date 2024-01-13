@@ -11,7 +11,7 @@ struct Record
 	int		Quantity; // ¼ö·®
 };
 
-main()
+int main(void)
 {
 	//[1] Input
 	struct Record records[4] = 
@@ -68,4 +68,6 @@ main()
 	{
 		printf("%6s - %d\n", groups[i].Name, groups[i].Quantity);
 	}
+
+	return 0;
 }
