@@ -138,6 +138,9 @@
     <ClCompile Include="근사값.c">
       <Filter>소스 파일\_</Filter>
     </ClCompile>
+    <ClCompile Include="exam_function_call.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="abc1229.txt">
