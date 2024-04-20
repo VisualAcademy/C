@@ -2,6 +2,8 @@
 
 C 언어 책 및 강의 소스 모음
 
+http://github.com/VisualAcademy/c-language 리포지토리와 함께 운영되는 공간입니다.
+
 ## 무료 C 언어 동영상 강의
 
 🟢 C 언어 시작하기 유튜브 재생 목록:
